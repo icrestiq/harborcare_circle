@@ -14,7 +14,7 @@ export default function Header() {
           <span className="flex items-baseline gap-1.5">
             HarborCare Circle
             <span className="font-mono text-xs font-normal text-warm-gray tracking-tight">
-              by iCrestIQ
+              by iCrestiQ
             </span>
           </span>
         </Link>
