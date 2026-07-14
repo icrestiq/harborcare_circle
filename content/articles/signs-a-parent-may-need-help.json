@@ -1,0 +1,64 @@
+{
+  "id": "art-001",
+  "title": "Signs a Parent May Need Help",
+  "slug": "signs-a-parent-may-need-help",
+  "summary": "Small changes are often the first clue. Here's what to watch for, and how to bring it up without a fight.",
+  "category": "Caregiving 101",
+  "subcategory": "Getting Started",
+  "tags": ["early signs", "aging parents", "starting caregiving"],
+  "audience": "Adult child, early-stage",
+  "journeyStage": "Concerns emerging",
+  "urgencyLevel": "low",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-01",
+  "readingTimeMinutes": 6,
+  "seoTitle": "Signs a Parent May Need Help | HarborCare Circle",
+  "metaDescription": "Learn the early, everyday signs that an aging parent may need more support — and how to start the conversation without a fight.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Look for changes in daily routines — not just big health events.",
+    "Mail, meals, and home upkeep are early, reliable signals.",
+    "You don't need a diagnosis to start a supportive conversation."
+  ],
+  "tableOfContents": [
+    "Everyday signs to watch for",
+    "When it's more urgent",
+    "How to start the conversation"
+  ],
+  "body": [
+    {
+      "heading": "Everyday signs to watch for",
+      "paragraphs": [
+        "Most families don't notice one big moment — they notice a pattern. Unopened mail piling up. The same few meals on repeat. A once-tidy kitchen that's slipping. These small shifts are often more telling than a single fall or diagnosis, because they show how someone is managing day to day, not just how they're doing on a good visit.",
+        "Missed medications, skipped bills, or withdrawing from usual activities are all worth a closer look — not as proof something is wrong, but as a reason to check in more directly."
+      ]
+    },
+    {
+      "heading": "When it's more urgent",
+      "paragraphs": [
+        "Some signs deserve a faster response: confusion about time or place, unexplained weight loss, or a fall — even a minor one. These don't necessarily mean an emergency, but they're a good reason to loop in a doctor sooner rather than later."
+      ]
+    },
+    {
+      "heading": "How to start the conversation",
+      "paragraphs": [
+        "Lead with observation, not conclusion: \"I noticed the mail's been piling up — how's that been going?\" lands very differently than \"I think you need help.\" Most parents respond better to specific, gentle curiosity than to a general concern."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Write down what you've noticed, with rough dates.",
+    "Pick one low-stakes moment to check in — a phone call, not a sit-down \"talk.\"",
+    "Use the Care Readiness Assessment to turn what you're seeing into a clearer picture."
+  ],
+  "relatedTool": { "name": "Care Readiness Assessment", "slug": "care-readiness-assessment", "type": "assessment" },
+  "disclaimer": "This content is for general guidance only and isn't a substitute for a medical evaluation. If you're worried about a sudden or severe change, contact your parent's doctor or, in an emergency, call 911.",
+  "sources": [
+    { "name": "National Institute on Aging", "url": "https://www.nia.nih.gov" },
+    { "name": "American Geriatrics Society", "url": "https://www.americangeriatrics.org" }
+  ],
+  "relatedArticles": ["talking-with-aging-parents", "caregiver-burnout"]
+}
