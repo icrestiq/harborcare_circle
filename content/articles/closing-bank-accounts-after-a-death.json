@@ -1,0 +1,53 @@
+{
+  "title": "Closing Bank Accounts After a Death",
+  "slug": "closing-bank-accounts-after-a-death",
+  "summary": "Closing bank accounts involves more nuance than a single phone call — knowing the basics prevents frustrating back-and-forth.",
+  "category": "After a Loss III: Estate & Digital",
+  "subcategory": "Bank & Credit Accounts",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Bank & Credit Accounts",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Closing Bank Accounts After a Death | HarborCare Circle",
+  "metaDescription": "Closing bank accounts involves more nuance than a single phone call — knowing the basics prevents frustrating back-and-forth.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Individual accounts typically freeze until the estate is settled or an executor is confirmed.",
+    "Joint accounts usually pass to the surviving co-owner more simply.",
+    "Banks generally require a certified death certificate and proof of authority."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "An account solely in the deceased's name is typically frozen once the bank is notified, pending confirmation of the executor or completion of probate, depending on state law and account size — this protects the estate but can feel slow.",
+        "Joint accounts with a surviving co-owner usually transfer more simply, often just requiring notification and a death certificate, since the surviving owner already has legal rights to the funds."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Notify the bank with a certified death certificate as a first step.",
+    "Ask specifically what proof of authority (executor paperwork) they require.",
+    "Clarify the difference in process for joint versus individual accounts."
+  ],
+  "relatedTool": null,
+  "disclaimer": "General guidance — each bank's specific policies and state law both affect the exact process.",
+  "sources": [
+    {
+      "name": "Consumer Financial Protection Bureau",
+      "url": null
+    }
+  ],
+  "id": "art-129",
+  "relatedArticles": [
+    "joint-accounts-vs-individual-accounts-what-happens-to-each",
+    "handling-credit-card-accounts-and-debts"
+  ]
+}

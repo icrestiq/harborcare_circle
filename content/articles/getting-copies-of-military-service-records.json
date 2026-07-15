@@ -1,0 +1,53 @@
+{
+  "title": "Getting Copies of Military Service Records",
+  "slug": "getting-copies-of-military-service-records",
+  "summary": "Service records are often needed to claim veterans benefits, and getting copies is more straightforward than it might seem.",
+  "category": "After a Loss II: Notifications & Accounts",
+  "subcategory": "Veterans Benefits",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Veterans Benefits",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Getting Copies of Military Service Records | HarborCare Circle",
+  "metaDescription": "Service records are often needed to claim veterans benefits, and getting copies is more straightforward than it might seem.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "The DD-214 is the key discharge document most benefits require.",
+    "Copies can be requested through the National Archives if the original is lost.",
+    "Processing can take time, so requesting early is worth it."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "The DD-214 (Certificate of Release or Discharge from Active Duty) is the document most VA benefit applications require — if the family already has a copy, that's the fastest path; if not, it can be requested through the National Archives' National Personnel Records Center.",
+        "Because processing these requests can take weeks, requesting a copy as early as possible — even before all benefit paperwork is ready — helps avoid delays down the line."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Check whether the family already has a copy of the DD-214.",
+    "If not, request one through the National Archives promptly.",
+    "Keep the copy with other estate documents once received."
+  ],
+  "relatedTool": null,
+  "disclaimer": "General information — the National Archives can confirm current request procedures and timelines.",
+  "sources": [
+    {
+      "name": "National Archives and Records Administration",
+      "url": null
+    }
+  ],
+  "id": "art-124",
+  "relatedArticles": [
+    "veterans-benefits-after-a-death-where-to-start",
+    "burial-benefits-through-the-va"
+  ]
+}

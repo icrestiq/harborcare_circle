@@ -1,0 +1,53 @@
+{
+  "title": "Filing a Final Tax Return for Someone Who Died",
+  "slug": "filing-a-final-tax-return-for-someone-who-died",
+  "summary": "A final tax return is generally required after a death, and knowing the basics removes some of the mystery.",
+  "category": "Evergreen Refresh + Seasonal",
+  "subcategory": "Tax Considerations",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Tax Considerations",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Filing a Final Tax Return for Someone Who Died | HarborCare Circle",
+  "metaDescription": "A final tax return is generally required after a death, and knowing the basics removes some of the mystery.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "A final individual tax return covers income up to the date of death.",
+    "The executor or surviving spouse typically files it.",
+    "A separate estate tax return may be needed if the estate itself earns income afterward."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "A final Form 1040 is generally required, covering the person's income from the start of the tax year through their date of death, filed by the executor or a surviving spouse, often on the normal tax deadline the following year.",
+        "If the estate itself continues to earn income after death — from investments, rental property, or a business — a separate estate income tax return may also be required, which is a different filing from the person's final personal return."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Identify who will file the final personal return — usually the executor or surviving spouse.",
+    "Gather income records for the year up to the date of death.",
+    "Ask a tax professional whether a separate estate return is also needed."
+  ],
+  "relatedTool": null,
+  "disclaimer": "General information, not tax advice — a tax professional or accountant can confirm specific filing requirements.",
+  "sources": [
+    {
+      "name": "Internal Revenue Service",
+      "url": null
+    }
+  ],
+  "id": "art-150",
+  "relatedArticles": [
+    "tax-considerations-when-caring-for-a-parent",
+    "estate-taxes-what-most-families-dont-need-to-worry-about"
+  ]
+}

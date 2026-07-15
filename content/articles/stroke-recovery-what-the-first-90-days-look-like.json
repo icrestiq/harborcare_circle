@@ -1,0 +1,57 @@
+{
+  "title": "Stroke Recovery: What the First 90 Days Look Like",
+  "slug": "stroke-recovery-what-the-first-90-days-look-like",
+  "summary": "The first three months after a stroke are when the most rapid recovery typically happens — and when the most decisions get made. Here's a general sense of the arc.",
+  "category": "Conditions II: Physical Health",
+  "subcategory": "",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Conditions II: Physical Health",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Stroke Recovery: What the First 90 Days Look Like | HarborCare Circle",
+  "metaDescription": "The first three months after a stroke are when the most rapid recovery typically happens — and when the most decisions get made. Here's a general sense of ",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Most recovery gains happen in the first 3–6 months, though improvement can continue longer.",
+    "Rehabilitation (physical, occupational, speech) is usually the main driver of recovery, not time alone.",
+    "Emotional changes, including depression, are common after stroke and often overlooked."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "The first days after a stroke are usually spent in the hospital, followed by a decision about rehabilitation setting — inpatient rehab, a skilled nursing facility, or home-based therapy, depending on the severity and what's available. The first 90 days tend to bring the fastest visible improvement, driven mainly by consistent therapy rather than rest alone.",
+        "It's easy to focus entirely on physical recovery and miss emotional changes — depression after stroke is common and sometimes caused directly by the stroke's effect on the brain, not just the difficulty of the situation."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Ask the care team specifically what rehab options are recommended and why.",
+    "Attend therapy sessions when possible to learn techniques to continue at home.",
+    "Watch for mood changes and mention them at follow-up appointments."
+  ],
+  "relatedTool": null,
+  "disclaimer": "General recovery patterns — every stroke and recovery path is different, and the care team's specific guidance should always take priority.",
+  "sources": [
+    {
+      "name": "Stroke rehabilitation: What to expect as you recover",
+      "url": "https://www.mayoclinic.org/diseases-conditions/stroke/in-depth/stroke-rehabilitation/art-20045172"
+    },
+    {
+      "name": "Mayo Clinic",
+      "url": null
+    }
+  ],
+  "id": "art-019",
+  "relatedArticles": [
+    "understanding-aphasia-after-a-stroke",
+    "rehabilitation-after-stroke-what-to-expect-and-ask-for"
+  ]
+}

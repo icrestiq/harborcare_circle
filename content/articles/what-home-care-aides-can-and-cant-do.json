@@ -1,0 +1,61 @@
+{
+  "title": "What Home Care Aides Can (and Can't) Do",
+  "slug": "what-home-care-aides-can-and-cant-do",
+  "summary": "Home care aides provide valuable support, but their scope is more limited than many families expect — knowing the boundaries avoids frustration later.",
+  "category": "Life Transitions I: The Hospital-to-Home Arc",
+  "subcategory": "",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Life Transitions I: The Hospital-to-Home Arc",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "What Home Care Aides Can (and Can't) Do | HarborCare Circle",
+  "metaDescription": "Home care aides provide valuable support, but their scope is more limited than many families expect — knowing the boundaries avoids frustration later.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Non-medical home care aides typically help with daily tasks, not medical care.",
+    "Medication reminders are usually allowed; administering medication often isn't, depending on state rules.",
+    "Skilled medical needs usually require a home health nurse instead."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Non-medical home care aides generally help with things like bathing, dressing, light housekeeping, meal preparation, and companionship — genuinely valuable, meaningful support, but distinct from medical care.",
+        "Rules vary by state, but many non-medical aides can remind someone to take medication and even hand them the pre-organized dose, without being permitted to administer injections or manage complex medical tasks — those typically require a home health nurse, a different (and differently licensed) type of care."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Ask the agency directly what their aides are and aren't permitted to do in your state.",
+    "Clarify whether medical needs require a separate home health service.",
+    "Put expectations in writing with the agency to avoid confusion later."
+  ],
+  "relatedTool": {
+    "name": "Estimated Monthly Caregiving Cost",
+    "slug": "monthly-cost-estimator",
+    "type": "calculator"
+  },
+  "disclaimer": "General guidance — specific rules vary by state and agency; confirm directly with your provider.",
+  "sources": [
+    {
+      "name": "Finding Local Services",
+      "url": "https://acl.gov/ltc/basic-needs/finding-local-services"
+    },
+    {
+      "name": "Administration for Community Living",
+      "url": null
+    }
+  ],
+  "id": "art-040",
+  "relatedArticles": [
+    "starting-home-care-how-to-choose-an-agency",
+    "setting-up-a-home-care-schedule-that-actually-works"
+  ]
+}

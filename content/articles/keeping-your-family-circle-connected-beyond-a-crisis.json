@@ -1,0 +1,52 @@
+{
+  "title": "Keeping Your Family Circle Connected Beyond a Crisis",
+  "slug": "keeping-your-family-circle-connected-beyond-a-crisis",
+  "summary": "Most caregiving coordination tools get used hardest during a crisis and abandoned right after — the app is designed to stay useful in the calmer stretches too.",
+  "category": "Software Connection + Year-in-Review",
+  "subcategory": "Why We Built What We Built",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Why We Built What We Built",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Keeping Your Family Circle Connected Beyond a Crisis | HarborCare Circle",
+  "metaDescription": "Most caregiving coordination tools get used hardest during a crisis and abandoned right after — the app is designed to stay useful in the calmer stretches ",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Crisis-driven coordination tends to fade once the crisis passes, even though needs continue.",
+    "Ongoing, lower-intensity coordination still benefits from shared visibility.",
+    "The goal is a tool that flexes with intensity, not one built only for emergencies."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "It's a common pattern: a family pulls together tightly during a hospitalization or crisis, coordinating closely, and then that coordination naturally fades once things stabilize — even though ongoing needs (medications, appointments, gradual changes) don't actually disappear.",
+        "Designing for the quieter, ongoing stretches — not just the dramatic ones — is part of why the app aims to stay lightweight enough to check in on periodically, rather than requiring the same intensity of engagement at all times."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Reflect on whether your family's coordination has faded since an earlier crisis, even though needs continue.",
+    "Consider what a lower-effort, ongoing check-in system would look like for your situation."
+  ],
+  "relatedTool": null,
+  "disclaimer": "This describes the app's design philosophy, not a specific available feature yet.",
+  "sources": [
+    {
+      "name": "Family Caregiver Alliance",
+      "url": null
+    }
+  ],
+  "id": "art-163",
+  "relatedArticles": [
+    "from-checklist-to-shared-task-what-harborcare-circle-the-app-adds",
+    "keeping-long-distance-family-in-the-loop"
+  ]
+}

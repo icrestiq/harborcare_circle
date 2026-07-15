@@ -1,0 +1,57 @@
+{
+  "title": "Creating a Dementia-Friendly Home",
+  "slug": "creating-a-dementia-friendly-home",
+  "summary": "Small, specific changes to a home's layout and lighting can reduce confusion and increase independence for someone with dementia.",
+  "category": "Conditions I: Cognitive & Neurological",
+  "subcategory": "",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Conditions I: Cognitive & Neurological",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Creating a Dementia-Friendly Home | HarborCare Circle",
+  "metaDescription": "Small, specific changes to a home's layout and lighting can reduce confusion and increase independence for someone with dementia.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Consistent, simple layouts reduce confusion more than any single gadget.",
+    "Labels and visual cues help more than verbal reminders.",
+    "Reducing clutter and glare matters as much as any safety device."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Keeping furniture arrangement consistent, using labels with words or pictures on cabinets and doors, and maintaining even, glare-free lighting throughout the day all reduce the cognitive load of simply navigating a space. Clocks and calendars in clear view can help anchor time of day, which is often one of the first things to become confusing.",
+        "Reducing visual clutter — patterned rugs, cluttered counters, mirrors that can be mistaken for another person or room — tends to lower agitation more than families expect."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Add clear labels to key cabinets and doors.",
+    "Simplify one high-traffic area first, like the kitchen or bathroom.",
+    "Take the Home Safety Assessment for a fuller room-by-room review."
+  ],
+  "relatedTool": null,
+  "disclaimer": "General environmental guidance — an occupational therapist experienced in dementia care can offer a more tailored home assessment.",
+  "sources": [
+    {
+      "name": "Alzheimer's and Dementia Home Safety Tips",
+      "url": "https://www.alz.org/help-support/caregiving/safety/home-safety"
+    },
+    {
+      "name": "Alzheimer's Association",
+      "url": null
+    }
+  ],
+  "id": "art-011",
+  "relatedArticles": [
+    "managing-wandering-a-practical-safety-guide",
+    "communicating-with-someone-living-with-dementia"
+  ]
+}

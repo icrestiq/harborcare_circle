@@ -1,0 +1,57 @@
+{
+  "title": "Parkinson's Disease: Understanding Early Symptoms",
+  "slug": "parkinsons-disease-understanding-early-symptoms",
+  "summary": "Parkinson's often starts small — a slight tremor, a change in handwriting — long before it's diagnosed. Knowing the early pattern helps families get ahead of it.",
+  "category": "Conditions I: Cognitive & Neurological",
+  "subcategory": "",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Conditions I: Cognitive & Neurological",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Parkinson's Disease: Understanding Early Symptoms | HarborCare Circle",
+  "metaDescription": "Parkinson's often starts small — a slight tremor, a change in handwriting — long before it's diagnosed. Knowing the early pattern helps families get ahead ",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "A resting tremor (present at rest, easing with movement) is the classic early sign.",
+    "Slowed movement and smaller handwriting are common but easy to miss.",
+    "Loss of smell and sleep changes can appear years before motor symptoms."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "The most recognized early symptom is a tremor, usually in one hand, that's most noticeable when the hand is at rest rather than in use. Alongside this, movements can become slower and smaller — handwriting shrinking over time, a shuffling walk, or a reduced arm swing on one side.",
+        "Less well-known early signs include a diminished sense of smell, acting out dreams during sleep, and constipation — all of which can appear well before the motor symptoms that usually prompt a diagnosis."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Note which symptoms appear and on which side of the body.",
+    "See a neurologist, ideally one specializing in movement disorders.",
+    "Ask about early physical therapy, which has real benefit even before medication starts."
+  ],
+  "relatedTool": null,
+  "disclaimer": "These are common early patterns, not a diagnostic guide. Tremor and slowed movement have several possible causes — a neurologist's evaluation is the only way to know for sure.",
+  "sources": [
+    {
+      "name": "10 Early Signs of Parkinson's Disease",
+      "url": "https://www.parkinson.org/understanding-parkinsons/10-early-signs"
+    },
+    {
+      "name": "Parkinson's Foundation",
+      "url": null
+    }
+  ],
+  "id": "art-006",
+  "relatedArticles": [
+    "parkinsons-medication-timing-why-it-matters-so-much",
+    "parkinsons-and-daily-living-adapting-the-home"
+  ]
+}

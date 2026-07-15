@@ -1,0 +1,61 @@
+{
+  "title": "Paying for Care: Comparing Your Family's Options",
+  "slug": "paying-for-care-comparing-your-familys-options",
+  "summary": "Most families end up combining several funding sources for care rather than relying on just one — here's how the major options typically compare.",
+  "category": "Life Transitions III: Legal & Financial Shifts",
+  "subcategory": "Financial Caregiving Basics, Expanded",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Financial Caregiving Basics, Expanded",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Paying for Care: Comparing Your Family's Options | HarborCare Circle",
+  "metaDescription": "Most families end up combining several funding sources for care rather than relying on just one — here's how the major options typically compare.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Private funds, long-term care insurance, Medicaid, and veterans' benefits are the most common funding sources.",
+    "Each has different eligibility rules and timing considerations.",
+    "A combination approach is more common than a single clean answer."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Private savings offer the most flexibility but obviously deplete over time; long-term care insurance offsets some cost if a policy exists; Medicaid covers many long-term needs but requires meeting strict eligibility rules; and veterans' benefits, where applicable, can provide meaningful additional support many families don't realize they qualify for.",
+        "Most families end up blending several of these rather than relying on one clean source — understanding the full landscape early makes it easier to plan a realistic combination rather than reacting under pressure later."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Use the Care Cost Estimator to understand your specific likely costs.",
+    "Check veterans' benefits eligibility if applicable.",
+    "Meet with a financial advisor to map out a realistic combined funding plan."
+  ],
+  "relatedTool": {
+    "name": "Estimated Monthly Caregiving Cost",
+    "slug": "monthly-cost-estimator",
+    "type": "calculator"
+  },
+  "disclaimer": "General information, not financial advice — a financial advisor familiar with elder care costs can help build a plan specific to your situation.",
+  "sources": [
+    {
+      "name": "Paying for Long-Term Care",
+      "url": "https://www.nia.nih.gov/health/long-term-care/paying-long-term-care"
+    },
+    {
+      "name": "National Institute on Aging",
+      "url": null
+    }
+  ],
+  "id": "art-076",
+  "relatedArticles": [
+    "long-term-care-insurance-what-it-covers-and-what-it-doesnt",
+    "medicaid-planning-basics-for-families"
+  ]
+}

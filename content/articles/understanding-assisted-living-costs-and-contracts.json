@@ -1,0 +1,61 @@
+{
+  "title": "Understanding Assisted Living Costs and Contracts",
+  "slug": "understanding-assisted-living-costs-and-contracts",
+  "summary": "Assisted living pricing is often more layered than the advertised monthly rate suggests — understanding the structure prevents surprises later.",
+  "category": "Life Transitions II: Moving & Driving",
+  "subcategory": "Moving Into Assisted Living",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Moving Into Assisted Living",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Understanding Assisted Living Costs and Contracts | HarborCare Circle",
+  "metaDescription": "Assisted living pricing is often more layered than the advertised monthly rate suggests — understanding the structure prevents surprises later.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Base rates often don't include higher levels of care, which cost extra as needs increase.",
+    "Contracts should be reviewed carefully for rate-increase policies and refund terms.",
+    "Long-term care insurance, if any exists, should be checked against the specific contract."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Many communities use a tiered pricing model, where a base rate covers housing and basic services, with additional charges as care needs increase — meaning the starting price can look more affordable than the actual long-term cost.",
+        "Contracts deserve a careful read, particularly around how and when rates can increase, what happens if a resident runs out of funds, and refund policies if a move-out happens sooner than expected. A financial advisor or elder law attorney can review the specific contract terms."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Ask specifically what triggers a move to a higher care tier and what it costs.",
+    "Read the full contract, not just the marketing materials, before signing.",
+    "Check any existing long-term care insurance against the specific contract terms."
+  ],
+  "relatedTool": {
+    "name": "Estimated Monthly Caregiving Cost",
+    "slug": "monthly-cost-estimator",
+    "type": "calculator"
+  },
+  "disclaimer": "General information, not financial or legal advice — an elder law attorney or financial advisor can review a specific contract.",
+  "sources": [
+    {
+      "name": "Paying for Long-Term Care",
+      "url": "https://www.nia.nih.gov/health/long-term-care/paying-long-term-care"
+    },
+    {
+      "name": "National Institute on Aging",
+      "url": null
+    }
+  ],
+  "id": "art-058",
+  "relatedArticles": [
+    "touring-assisted-living-communities-what-to-look-for",
+    "long-term-care-insurance-what-it-covers-and-what-it-doesnt"
+  ]
+}

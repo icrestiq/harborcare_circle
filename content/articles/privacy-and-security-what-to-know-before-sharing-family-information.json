@@ -1,0 +1,53 @@
+{
+  "title": "Privacy and Security: What to Know Before Sharing Family Information",
+  "slug": "privacy-and-security-what-to-know-before-sharing-family-information",
+  "summary": "Sharing sensitive family information digitally is common now, but still deserves a moment of real scrutiny before diving in.",
+  "category": "Software Connection + Year-in-Review",
+  "subcategory": "Privacy, Estate Support, and Getting Started",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Privacy, Estate Support, and Getting Started",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Privacy and Security: What to Know Before Sharing Family Information | HarborCare Circle",
+  "metaDescription": "Sharing sensitive family information digitally is common now, but still deserves a moment of real scrutiny before diving in.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Encryption and access controls are baseline expectations, not bonus features.",
+    "Knowing what happens to data if you stop using a service matters as much as what happens while you use it.",
+    "A platform should make it easy to delete your data, not just easy to add it."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "At minimum, any platform handling health, financial, or family coordination information should use encryption and let you control who specifically can access what — these are baseline expectations now, not premium extras.",
+        "It's worth asking, before joining anything, what happens to your data if you later stop using the service — whether it's deleted, how quickly, and whether you can request it be removed entirely, not just deactivated."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Confirm encryption and access control basics before sharing sensitive information anywhere.",
+    "Ask specifically about data deletion policy.",
+    "Don't assume \"downloaded the app\" means \"read the privacy practices.\"."
+  ],
+  "relatedTool": null,
+  "disclaimer": "General guidance applicable to evaluating any platform, not specific claims about a particular product's current practices.",
+  "sources": [
+    {
+      "name": "Federal Trade Commission",
+      "url": null
+    }
+  ],
+  "id": "art-171",
+  "relatedArticles": [
+    "what-happens-to-your-information-when-you-join-harborcare-circle",
+    "what-to-look-for-in-a-caregiving-coordination-tool"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Rehab vs. Skilled Nursing: What's the Difference?",
+  "slug": "rehab-vs-skilled-nursing-whats-the-difference",
+  "summary": "These terms get used almost interchangeably, but they describe somewhat different things — and the difference affects both care and cost.",
+  "category": "Life Transitions I: The Hospital-to-Home Arc",
+  "subcategory": "",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Life Transitions I: The Hospital-to-Home Arc",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Rehab vs. Skilled Nursing: What's the Difference? | HarborCare Circle",
+  "metaDescription": "These terms get used almost interchangeably, but they describe somewhat different things — and the difference affects both care and cost.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "\"Rehab\" usually refers to short-term, goal-focused therapy after a hospitalization.",
+    "\"Skilled nursing\" can mean either short-term rehab or longer-term medical care.",
+    "The facility can be the same building, but the type of stay affects insurance coverage differently."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "\"Rehabilitation\" typically describes a short-term stay focused on regaining specific functional abilities, often in the same building as a skilled nursing facility. \"Skilled nursing\" is a broader term that can describe either that same short-term rehab stay or longer-term care for ongoing medical needs — the distinction often depends on the specific goals and expected length of stay, not the building itself.",
+        "This distinction matters most for insurance: Medicare, for example, covers short-term skilled rehab differently than longer-term skilled nursing care, so it's worth asking directly which category applies."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Ask the discharge planner directly which category the stay falls under.",
+    "Confirm expected length of stay and what happens if goals aren't met by then.",
+    "Clarify coverage specifics with the facility's billing office early."
+  ],
+  "relatedTool": {
+    "name": "Estimated Monthly Caregiving Cost",
+    "slug": "monthly-cost-estimator",
+    "type": "calculator"
+  },
+  "disclaimer": "General terminology overview — a facility's admissions or billing staff can clarify the specific category and coverage for a given stay.",
+  "sources": [
+    {
+      "name": "Skilled Nursing Facility Care",
+      "url": "https://www.medicare.gov/coverage/skilled-nursing-facility-care"
+    },
+    {
+      "name": "Medicare.gov",
+      "url": null
+    }
+  ],
+  "id": "art-039",
+  "relatedArticles": [
+    "understanding-a-rehabilitation-stay-what-happens-there",
+    "paying-for-rehabilitation-care-what-to-expect"
+  ]
+}

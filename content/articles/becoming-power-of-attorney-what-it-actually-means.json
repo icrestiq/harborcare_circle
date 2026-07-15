@@ -1,0 +1,57 @@
+{
+  "title": "Becoming Power of Attorney: What It Actually Means",
+  "slug": "becoming-power-of-attorney-what-it-actually-means",
+  "summary": "\"Power of attorney\" gets used loosely in everyday conversation, but it's a specific legal role with real boundaries — worth understanding clearly before taking it on.",
+  "category": "Life Transitions III: Legal & Financial Shifts",
+  "subcategory": "Becoming Power of Attorney",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Becoming Power of Attorney",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "strengthened",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Becoming Power of Attorney: What It Actually Means | HarborCare Circle",
+  "metaDescription": "\"Power of attorney\" gets used loosely in everyday conversation, but it's a specific legal role with real boundaries — worth understanding clearly before ta",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "A power of attorney (POA) authorizes you to act on someone's behalf in specific defined areas.",
+    "It typically ends if the person becomes unable to make their own decisions, unless it's a \"durable\" POA.",
+    "Rules and required documents vary by state."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "A POA document authorizes a named person (the \"agent\") to act on someone else's behalf, but only within the scope that document defines — financial, medical, or both, and often with specific limitations spelled out. It is not a blanket authority over every decision.",
+        "Whether the POA remains valid if the person later becomes incapacitated depends on whether it's specifically written as \"durable\" — a critical detail worth confirming, since a standard POA can otherwise become void exactly when it's needed most."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Confirm whether the existing POA document is durable.",
+    "Understand the exact scope of authority granted, not just that a document exists.",
+    "Consult an elder law attorney if a POA doesn't yet exist or its terms are unclear."
+  ],
+  "relatedTool": null,
+  "disclaimer": "This article is general information, not legal advice, and laws vary by state. The specific requirements, deadlines, and procedures described here may not apply exactly to your situation. Confirm all details with a licensed elder law attorney before acting, especially before signing, filing, or relying on any document.",
+  "sources": [
+    {
+      "name": "Getting Your Affairs in Order Checklist",
+      "url": "https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future"
+    },
+    {
+      "name": "National Institute on Aging",
+      "url": null
+    }
+  ],
+  "id": "art-065",
+  "relatedArticles": [
+    "financial-poa-vs-medical-poa-understanding-the-difference",
+    "setting-up-power-of-attorney-steps-to-take-now"
+  ]
+}

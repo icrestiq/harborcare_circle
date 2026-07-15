@@ -1,0 +1,61 @@
+{
+  "title": "Choosing a Hospice Provider: Questions to Ask",
+  "slug": "choosing-a-hospice-provider-questions-to-ask",
+  "summary": "Not all hospice providers are the same — a few specific questions help identify a good fit for your family's situation.",
+  "category": "Hospice & End-of-Life (Weeks 1–3 of 4)",
+  "subcategory": "Starting Hospice",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Starting Hospice",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Choosing a Hospice Provider: Questions to Ask | HarborCare Circle",
+  "metaDescription": "Not all hospice providers are the same — a few specific questions help identify a good fit for your family's situation.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Ask about after-hours availability and typical response time, specifically.",
+    "Some providers offer additional services (music therapy, complementary care) worth knowing about.",
+    "Ask how the provider handles a symptom crisis outside normal visit hours."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Response time for after-hours concerns varies meaningfully between providers, and it's worth asking directly rather than assuming — a family in the middle of a difficult night needs a provider who responds quickly and reliably.",
+        "Some hospice providers offer additional services like music or art therapy, expanded chaplaincy, or specific complementary care options — these aren't universal, and asking directly reveals real differences between providers in the same area."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Ask specifically about after-hours response time and process.",
+    "Ask what additional services (beyond core medical care) are offered.",
+    "Get recommendations from the current care team, who often know local providers' reputations well."
+  ],
+  "relatedTool": {
+    "name": "Care Journey Roadmap",
+    "slug": "",
+    "type": "roadmap"
+  },
+  "disclaimer": "General guidance — Medicare's hospice compare tool and direct conversations with the current care team can help identify strong local options.",
+  "sources": [
+    {
+      "name": "Choosing Hospice: Determining Where to Find Services",
+      "url": "https://www.caringinfo.org/types-of-care/hospice-care/choosing-and-finding-hospice-care/"
+    },
+    {
+      "name": "CaringInfo (National Alliance for Care at Home)",
+      "url": null
+    }
+  ],
+  "id": "art-084",
+  "relatedArticles": [
+    "what-hospice-care-actually-looks-like-at-home",
+    "hospice-vs-palliative-care-understanding-the-difference"
+  ]
+}

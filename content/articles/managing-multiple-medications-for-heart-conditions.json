@@ -1,0 +1,56 @@
+{
+  "title": "Managing Multiple Medications for Heart Conditions",
+  "slug": "managing-multiple-medications-for-heart-conditions",
+  "summary": "Heart conditions often come with several medications working together, which raises the stakes on organization and timing.",
+  "category": "Conditions II: Physical Health",
+  "subcategory": "",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Conditions II: Physical Health",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "strengthened",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Managing Multiple Medications for Heart Conditions | HarborCare Circle",
+  "metaDescription": "Heart conditions often come with several medications working together, which raises the stakes on organization and timing.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Heart medications often need to be taken at consistent times relative to each other.",
+    "Missing doses can have more immediate effects than with some other medication types.",
+    "One updated master list, shared with every prescriber, prevents most errors."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Because several heart medications interact with timing, meals, or each other, consistency matters more here than with many other conditions — a pill organizer with specific time slots, rather than just \"morning\" and \"evening,\" reduces the risk of errors.",
+        "Keeping one master medication list, updated after every appointment and shared with every doctor and pharmacy involved, is one of the most effective ways to prevent dangerous interactions or duplications, especially when multiple specialists are prescribing."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Set up a time-slotted pill organizer rather than a general daily one.",
+    "Update and share the master medication list after every appointment.",
+    "Ask the pharmacist to review the full list periodically for interactions."
+  ],
+  "relatedTool": null,
+  "disclaimer": "This article describes general patterns only. Medication timing, dosing, and interactions are specific to the individual and the exact medications involved — never adjust a dose, schedule, or medication based on this article. Confirm all specifics directly with the prescribing doctor or pharmacist before making any change.",
+  "sources": [
+    {
+      "name": "Medication Management",
+      "url": "https://www.heart.org/en/health-topics/consumer-healthcare/medication-information"
+    },
+    {
+      "name": "American Heart Association",
+      "url": null
+    }
+  ],
+  "id": "art-028",
+  "relatedArticles": [
+    "heart-disease-and-daily-life-what-changes-at-home"
+  ]
+}

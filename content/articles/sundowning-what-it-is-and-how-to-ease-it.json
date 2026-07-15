@@ -1,0 +1,61 @@
+{
+  "title": "Sundowning: What It Is and How to Ease It",
+  "slug": "sundowning-what-it-is-and-how-to-ease-it",
+  "summary": "Late-afternoon confusion and agitation are common in dementia. Understanding the pattern helps you plan around it instead of being caught off guard.",
+  "category": "Conditions I: Cognitive & Neurological",
+  "subcategory": "",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Conditions I: Cognitive & Neurological",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Sundowning: What It Is and How to Ease It | HarborCare Circle",
+  "metaDescription": "Late-afternoon confusion and agitation are common in dementia. Understanding the pattern helps you plan around it instead of being caught off guard.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Sundowning refers to increased confusion or agitation in the late afternoon and evening.",
+    "Light, routine, and reducing fatigue all help.",
+    "It usually isn't caused by anything you did."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Sundowning describes a real, common pattern where confusion, restlessness, or agitation increases in the late afternoon or evening, even when the day was calm. It's thought to be related to changes in the body's internal clock and fatigue building over the day, not a reaction to anything specific that happened.",
+        "Keeping the home well-lit before dusk, maintaining a consistent evening routine, and scheduling more demanding activities (appointments, visits) earlier in the day rather than late afternoon can all reduce how intense sundowning gets."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Turn on lights before it gets dark outside, rather than after.",
+    "Move stimulating activities to the morning or early afternoon.",
+    "Keep an evening routine as consistent as possible, even in small ways."
+  ],
+  "relatedTool": {
+    "name": "Care Readiness Assessment",
+    "slug": "care-readiness-assessment",
+    "type": "assessment"
+  },
+  "disclaimer": "If agitation becomes severe or includes safety risks, mention it to their doctor — some cases benefit from timing or environmental adjustments, and occasionally medication review.",
+  "sources": [
+    {
+      "name": "Sleep Issues and Sundowning",
+      "url": "https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning"
+    },
+    {
+      "name": "Alzheimer's Association",
+      "url": null
+    }
+  ],
+  "id": "art-015",
+  "relatedArticles": [
+    "communicating-with-someone-living-with-dementia",
+    "creating-a-dementia-friendly-home"
+  ]
+}

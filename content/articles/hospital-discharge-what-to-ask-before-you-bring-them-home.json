@@ -1,0 +1,72 @@
+{
+  "title": "Hospital Discharge: What to Ask Before You Bring Them Home",
+  "slug": "hospital-discharge-what-to-ask-before-you-bring-them-home",
+  "summary": "Discharge day moves fast, and it's easy to leave with less information than you need. These are the questions worth asking before you walk out the door.",
+  "category": "Life Transitions → Hospital discharge",
+  "subcategory": "Hospitalized / leaving hospital",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Hospitalized / leaving hospital",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Hospital Discharge: What to Ask Before You Bring Them Home | HarborCare Circle",
+  "metaDescription": "Discharge day moves fast, and it's easy to leave with less information than you need. These are the questions worth asking before you walk out the door.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Discharge instructions are often given verbally, quickly, and once — ask for them in writing.",
+    "The most common post-discharge problems are medication mix-ups and missed follow-up appointments.",
+    "You're allowed to slow the process down and ask for a moment to absorb what's being said."
+  ],
+  "tableOfContents": [
+    "Medications",
+    "Follow-up care",
+    "What to watch for at home"
+  ],
+  "body": [
+    {
+      "heading": "Medications",
+      "paragraphs": [
+        "Ask for a complete, written list of every medication your loved one should be taking now — including which old medications have been stopped, and why. Medication changes around a hospital stay are one of the most common sources of confusion and error at home, so it's worth reading the list back before you leave to confirm it matches what you're hearing."
+      ]
+    },
+    {
+      "heading": "Follow-up care",
+      "paragraphs": [
+        "Before leaving, get clear on who to call with questions in the first 48 hours (not just \"your doctor's office,\" but an actual number that's answered), which follow-up appointments are already scheduled versus need to be booked, and what specific symptoms should prompt a call versus a trip back to the ER."
+      ]
+    },
+    {
+      "heading": "What to watch for at home",
+      "paragraphs": [
+        "Ask the discharging team what a normal recovery looks like day-by-day for the first week, and what specifically would be a sign something's wrong. A general \"call if you're worried\" instruction is much less useful than \"call if the swelling gets worse instead of better\" or \"come back in if a fever goes above X.\""
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Bring a notebook or your phone to discharge — write things down as they're said, don't rely on memory.",
+    "Use the Hospital Discharge Checklist to make sure nothing gets missed in the rush.",
+    "Confirm the first follow-up appointment is on the calendar before you leave the building, not after."
+  ],
+  "relatedTool": null,
+  "disclaimer": "This article offers general guidance on what to ask, not medical advice about any specific condition or treatment. Always follow the specific instructions given by your loved one's care team.",
+  "sources": [
+    {
+      "name": "IDEAL Discharge Planning",
+      "url": "https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html"
+    },
+    {
+      "name": "Agency for Healthcare Research and Quality",
+      "url": null
+    }
+  ],
+  "id": "art-004",
+  "relatedArticles": [
+    "hospital-admission-what-to-bring-and-what-to-expect",
+    "starting-home-care-how-to-choose-an-agency"
+  ]
+}

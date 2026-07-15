@@ -1,0 +1,61 @@
+{
+  "title": "Alzheimer's Disease: Early Signs and What They Mean",
+  "slug": "alzheimers-disease-early-signs-and-what-they-mean",
+  "summary": "Alzheimer's is the most common cause of dementia, but its early signs are often subtle enough to explain away. Here's what tends to show up first.",
+  "category": "Conditions I: Cognitive & Neurological",
+  "subcategory": "",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Conditions I: Cognitive & Neurological",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Alzheimer's Disease: Early Signs and What They Mean | HarborCare Circle",
+  "metaDescription": "Alzheimer's is the most common cause of dementia, but its early signs are often subtle enough to explain away. Here's what tends to show up first.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Memory lapses for recent events (not old ones) are usually the earliest sign.",
+    "Getting lost in familiar places is a bigger flag than misplacing keys.",
+    "A diagnosis takes time and rules out other causes first."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Early Alzheimer's usually shows up as trouble with recent memory — forgetting a conversation from yesterday, asking the same question again shortly after it was answered, or losing track of dates. This is different from normal aging, where someone might forget a name but remember it later, or take longer to learn something new without losing the ability entirely.",
+        "A second early flag is difficulty with familiar tasks or navigation — getting confused on a regular drive, or struggling to follow a recipe used for years. These changes tend to be gradual, which is part of why families often notice them only in hindsight."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Keep a simple log of specific incidents, with dates.",
+    "Schedule a cognitive evaluation with their primary doctor, who can refer to a specialist if needed.",
+    "Take the Care Readiness Assessment to help organize what you're seeing."
+  ],
+  "relatedTool": {
+    "name": "Care Readiness Assessment",
+    "slug": "care-readiness-assessment",
+    "type": "assessment"
+  },
+  "disclaimer": "This describes general early patterns, not a diagnostic checklist. Memory changes have many causes, several of them treatable — a proper evaluation matters more than self-diagnosis.",
+  "sources": [
+    {
+      "name": "10 Early Signs and Symptoms of Alzheimer's & Dementia",
+      "url": "https://www.alz.org/alzheimers-dementia/10_signs"
+    },
+    {
+      "name": "Alzheimer's Association",
+      "url": null
+    }
+  ],
+  "id": "art-005",
+  "relatedArticles": [
+    "understanding-a-dementia-diagnosis-what-changes-and-what-doesnt",
+    "alzheimers-vs-other-dementias-whats-the-difference"
+  ]
+}

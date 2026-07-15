@@ -1,0 +1,57 @@
+{
+  "title": "Navigating the Emergency Room with an Aging Parent",
+  "slug": "navigating-the-emergency-room-with-an-aging-parent",
+  "summary": "ER visits are stressful under any circumstances, and a few specific habits make them go more smoothly for an older adult.",
+  "category": "Life Transitions I: The Hospital-to-Home Arc",
+  "subcategory": "",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Life Transitions I: The Hospital-to-Home Arc",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Navigating the Emergency Room with an Aging Parent | HarborCare Circle",
+  "metaDescription": "ER visits are stressful under any circumstances, and a few specific habits make them go more smoothly for an older adult.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Bring a current medication list and a brief written summary of what happened.",
+    "Confusion in an unfamiliar ER environment is common and doesn't necessarily mean a cognitive problem.",
+    "Advocate directly for pain management and clear updates."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Handing the ER team a written medication list and a short summary — what happened, when, and any relevant history — saves valuable time and reduces the chance of important details being missed under pressure.",
+        "It's common for older adults to seem more confused in an unfamiliar, loud ER environment than they normally are at home — this is sometimes called \"ER delirium\" and doesn't necessarily reflect an underlying cognitive problem, though it's still worth mentioning to the team."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Bring the medication list and a brief written summary every time.",
+    "Ask directly for pain management if it seems inadequate.",
+    "Request updates proactively rather than waiting, since ERs can be chaotic."
+  ],
+  "relatedTool": null,
+  "disclaimer": "General guidance for a stressful, fast-moving situation — always follow the direct instructions of the treating ER team.",
+  "sources": [
+    {
+      "name": "Geriatric Emergency Department Guidelines",
+      "url": "https://www.acep.org/by-medical-focus/geriatrics/geriatric-emergency-department-guidelines"
+    },
+    {
+      "name": "American College of Emergency Physicians",
+      "url": null
+    }
+  ],
+  "id": "art-037",
+  "relatedArticles": [
+    "hospital-admission-what-to-bring-and-what-to-expect",
+    "understanding-hospital-delirium-a-caregivers-guide"
+  ]
+}

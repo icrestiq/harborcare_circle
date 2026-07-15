@@ -1,0 +1,53 @@
+{
+  "title": "Managing Diabetes in an Aging Parent: The Caregiver's Role",
+  "slug": "managing-diabetes-in-an-aging-parent-the-caregivers-role",
+  "summary": "Diabetes management in older adults often shifts from independent self-care to shared responsibility. Here's what that typically involves.",
+  "category": "Conditions II: Physical Health",
+  "subcategory": "",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Conditions II: Physical Health",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Managing Diabetes in an Aging Parent: The Caregiver's Role | HarborCare Circle",
+  "metaDescription": "Diabetes management in older adults often shifts from independent self-care to shared responsibility. Here's what that typically involves.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Blood sugar targets are sometimes adjusted for older adults, differently than for younger patients.",
+    "Missed meals, illness, and medication timing all affect blood sugar unpredictably.",
+    "Low blood sugar can look like confusion and is often mistaken for something else."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "As diabetes management becomes a shared task, the caregiver's role often includes helping track blood sugar readings, noticing patterns tied to meals or activity, and making sure medication timing stays consistent even during illness, travel, or hospital stays, when routines are most likely to slip.",
+        "Low blood sugar (hypoglycemia) can cause confusion, shakiness, or unusual behavior that's sometimes mistaken for a stroke or dementia episode — knowing the difference, and having a fast-acting sugar source on hand, matters."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Learn the specific signs of low blood sugar for your parent.",
+    "Keep a simple log of readings if levels have been inconsistent.",
+    "Ask the doctor about target ranges appropriate for their age and health."
+  ],
+  "relatedTool": null,
+  "disclaimer": "General guidance, not a substitute for instructions from your parent's endocrinologist or primary care doctor.",
+  "sources": [
+    {
+      "name": "Low Blood Sugar (Hypoglycemia)",
+      "url": "https://www.cdc.gov/diabetes/about/low-blood-sugar-hypoglycemia.html"
+    }
+  ],
+  "id": "art-020",
+  "relatedArticles": [
+    "blood-sugar-monitoring-a-simple-system-for-families",
+    "diabetic-foot-care-a-small-habit-that-prevents-big-problems"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Paying for Rehabilitation Care: What to Expect",
+  "slug": "paying-for-rehabilitation-care-what-to-expect",
+  "summary": "Rehab costs and coverage rules can be confusing, especially around how long insurance will pay for a stay. Here's the general shape of it.",
+  "category": "Life Transitions I: The Hospital-to-Home Arc",
+  "subcategory": "",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Life Transitions I: The Hospital-to-Home Arc",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Paying for Rehabilitation Care: What to Expect | HarborCare Circle",
+  "metaDescription": "Rehab costs and coverage rules can be confusing, especially around how long insurance will pay for a stay. Here's the general shape of it.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Medicare typically covers a limited number of days for skilled rehab, with specific qualifying conditions.",
+    "Coverage can end based on \"progress,\" not just a fixed calendar date.",
+    "A facility's billing office or social worker can clarify exact numbers for your situation."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Medicare's coverage for skilled rehab generally requires a prior qualifying hospital stay and has a defined benefit period, with cost-sharing that increases the longer the stay continues — but the exact details depend on the specific plan and situation, so general summaries only go so far.",
+        "Importantly, coverage isn't just about hitting a day count — it can end earlier if the facility determines a patient isn't continuing to show functional progress, which is why understanding the stated goals of the stay matters for the family too."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Ask the facility's social worker for the specific coverage timeline early in the stay.",
+    "Understand what \"progress\" benchmarks are being used.",
+    "Ask about supplemental insurance or Medicaid options if a longer stay seems likely."
+  ],
+  "relatedTool": {
+    "name": "Estimated Monthly Caregiving Cost",
+    "slug": "monthly-cost-estimator",
+    "type": "calculator"
+  },
+  "disclaimer": "General information, not financial advice — a facility's billing office or a Medicare/Medicaid counselor can address your specific coverage details.",
+  "sources": [
+    {
+      "name": "Skilled Nursing Facility Care",
+      "url": "https://www.medicare.gov/coverage/skilled-nursing-facility-care"
+    },
+    {
+      "name": "Medicare.gov",
+      "url": null
+    }
+  ],
+  "id": "art-043",
+  "relatedArticles": [
+    "understanding-a-rehabilitation-stay-what-happens-there",
+    "rehab-vs-skilled-nursing-whats-the-difference"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Alzheimer's vs. Other Dementias: What's the Difference?",
+  "slug": "alzheimers-vs-other-dementias-whats-the-difference",
+  "summary": "\"Dementia\" is an umbrella term, and Alzheimer's is just one cause among several. Knowing the difference can help you understand what to expect.",
+  "category": "Conditions I: Cognitive & Neurological",
+  "subcategory": "",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Conditions I: Cognitive & Neurological",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Alzheimer's vs. Other Dementias: What's the Difference? | HarborCare Circle",
+  "metaDescription": "\"Dementia\" is an umbrella term, and Alzheimer's is just one cause among several. Knowing the difference can help you understand what to expect.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Alzheimer's is the most common cause of dementia, but not the only one.",
+    "Vascular dementia, Lewy body dementia, and frontotemporal dementia each have somewhat different patterns.",
+    "The specific type affects what symptoms come first and how the condition tends to progress."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Alzheimer's typically starts with memory loss and gradually affects other areas of thinking. Vascular dementia, often following strokes or reduced blood flow, can appear more suddenly and affect planning or judgment before memory. Lewy body dementia often includes visual hallucinations and more pronounced movement symptoms early on. Frontotemporal dementia tends to affect personality and behavior before memory, and often appears at a younger age than the others.",
+        "Knowing which type is involved doesn't change how much support someone needs, but it can help set more accurate expectations for what's coming."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Ask the diagnosing doctor specifically which type is suspected, and why.",
+    "Look up condition-specific resources once you know the type.",
+    "Revisit your care plan as the specific pattern becomes clearer over time."
+  ],
+  "relatedTool": {
+    "name": "Care Readiness Assessment",
+    "slug": "care-readiness-assessment",
+    "type": "assessment"
+  },
+  "disclaimer": "General overview only — an accurate diagnosis requires specialist evaluation, and types can sometimes overlap.",
+  "sources": [
+    {
+      "name": "Types of Dementia",
+      "url": "https://www.alz.org/alzheimers-dementia/what-is-dementia/types-of-dementia"
+    },
+    {
+      "name": "Alzheimer's Association",
+      "url": null
+    }
+  ],
+  "id": "art-016",
+  "relatedArticles": [
+    "understanding-a-dementia-diagnosis-what-changes-and-what-doesnt",
+    "alzheimers-disease-early-signs-and-what-they-mean"
+  ]
+}

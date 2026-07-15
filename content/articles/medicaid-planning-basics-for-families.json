@@ -1,0 +1,61 @@
+{
+  "title": "Medicaid Planning Basics for Families",
+  "slug": "medicaid-planning-basics-for-families",
+  "summary": "Medicaid can help cover long-term care costs, but eligibility rules are complex and planning ahead matters enormously.",
+  "category": "Life Transitions III: Legal & Financial Shifts",
+  "subcategory": "Financial Caregiving Basics, Expanded",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Financial Caregiving Basics, Expanded",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "strengthened",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Medicaid Planning Basics for Families | HarborCare Circle",
+  "metaDescription": "Medicaid can help cover long-term care costs, but eligibility rules are complex and planning ahead matters enormously.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Medicaid eligibility depends on income and asset limits that vary by state.",
+    "A \"look-back period\" examines financial transfers made before applying.",
+    "Planning early, with professional guidance, preserves more options than planning during a crisis."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Unlike Medicare, Medicaid is income- and asset-based, with specific limits that vary by state, and is the primary way many families eventually cover long-term nursing home costs once private funds are exhausted.",
+        "Medicaid also applies a \"look-back period\" (often five years) examining whether assets were transferred away before applying, which can affect eligibility if not planned for carefully — this is exactly the kind of detail where early professional guidance matters most."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Start this research well before Medicaid coverage feels imminent, if possible.",
+    "Consult an elder law attorney experienced in Medicaid planning.",
+    "Understand your specific state's asset and income limits, since they vary significantly."
+  ],
+  "relatedTool": {
+    "name": "Estimated Monthly Caregiving Cost",
+    "slug": "monthly-cost-estimator",
+    "type": "calculator"
+  },
+  "disclaimer": "This article is general information, not legal advice, and laws vary by state. The specific requirements, deadlines, and procedures described here may not apply exactly to your situation. Confirm all details with a licensed elder law attorney before acting, especially before signing, filing, or relying on any document.",
+  "sources": [
+    {
+      "name": "Transfer of Assets in the Medicaid Program",
+      "url": "https://www.cms.gov/regulations-and-guidance/legislation/deficitreductionact/downloads/toabackgrounder.pdf"
+    },
+    {
+      "name": "Centers for Medicare & Medicaid Services",
+      "url": null
+    }
+  ],
+  "id": "art-075",
+  "relatedArticles": [
+    "long-term-care-insurance-what-it-covers-and-what-it-doesnt",
+    "protecting-assets-while-providing-care"
+  ]
+}

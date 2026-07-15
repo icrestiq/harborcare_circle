@@ -1,0 +1,61 @@
+{
+  "title": "Long-Term Care Insurance: What It Covers and What It Doesn't",
+  "slug": "long-term-care-insurance-what-it-covers-and-what-it-doesnt",
+  "summary": "Long-term care insurance can meaningfully offset costs, but coverage terms vary enormously and are easy to misunderstand.",
+  "category": "Life Transitions III: Legal & Financial Shifts",
+  "subcategory": "Financial Caregiving Basics, Expanded",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Financial Caregiving Basics, Expanded",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "strengthened",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Long-Term Care Insurance: What It Covers and What It Doesn't | HarborCare Circle",
+  "metaDescription": "Long-term care insurance can meaningfully offset costs, but coverage terms vary enormously and are easy to misunderstand.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Policies vary widely in what triggers coverage (often needing help with a certain number of daily activities).",
+    "Waiting periods and daily benefit caps affect real-world usefulness.",
+    "Reading the actual policy matters more than assuming standard coverage."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Most long-term care policies pay out once a person needs help with a specific number of \"activities of daily living\" (bathing, dressing, eating, and similar), but the exact threshold and required documentation vary by policy — worth confirming directly rather than assuming.",
+        "Waiting periods (a length of time needing care before benefits start) and daily or monthly benefit caps can significantly affect how far the coverage actually goes — these details are often buried in policy language that's worth a careful read, or a call to the insurer directly."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Locate the actual policy document, not just a summary or memory of it.",
+    "Call the insurer to confirm exactly what triggers coverage.",
+    "Ask a financial advisor to help interpret the fine print if it's unclear."
+  ],
+  "relatedTool": {
+    "name": "Estimated Monthly Caregiving Cost",
+    "slug": "monthly-cost-estimator",
+    "type": "calculator"
+  },
+  "disclaimer": "This is general information, not financial advice. Coverage terms, triggers, and exclusions are specific to each policy — confirm exact coverage directly with the insurer or a financial advisor before making decisions based on this article.",
+  "sources": [
+    {
+      "name": "A Shopper's Guide to Long-Term Care Insurance",
+      "url": "https://content.naic.org/sites/default/files/publication-ltc-lp-shoppers-guide-long-term.pdf"
+    },
+    {
+      "name": "National Association of Insurance Commissioners",
+      "url": null
+    }
+  ],
+  "id": "art-074",
+  "relatedArticles": [
+    "understanding-assisted-living-costs-and-contracts",
+    "paying-for-care-comparing-your-familys-options"
+  ]
+}

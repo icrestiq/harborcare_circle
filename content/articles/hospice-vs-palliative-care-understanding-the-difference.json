@@ -1,0 +1,61 @@
+{
+  "title": "Hospice vs. Palliative Care: Understanding the Difference",
+  "slug": "hospice-vs-palliative-care-understanding-the-difference",
+  "summary": "These two terms are often confused, but they apply at different points and don't require the same eligibility.",
+  "category": "Hospice & End-of-Life (Weeks 1–3 of 4)",
+  "subcategory": "Hospice, Palliative Care, and Comfort",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Hospice, Palliative Care, and Comfort",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Hospice vs. Palliative Care: Understanding the Difference | HarborCare Circle",
+  "metaDescription": "These two terms are often confused, but they apply at different points and don't require the same eligibility.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Palliative care can start alongside curative treatment, at any stage of a serious illness.",
+    "Hospice specifically involves stepping away from curative treatment, generally with a six-month-or-less prognosis.",
+    "Both focus on comfort, but palliative care has a much broader window of eligibility."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Palliative care focuses on comfort and quality of life and can be provided at any stage of a serious illness, even alongside treatments aimed at curing or managing the disease — there's no requirement to stop other treatment to receive it.",
+        "Hospice, by contrast, specifically involves a shift away from curative treatment toward comfort-focused care, generally once a doctor estimates a prognosis of six months or less. Both share a comfort-centered philosophy, but they apply at different points and under different conditions."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Ask the care team whether palliative care might help now, regardless of prognosis.",
+    "Understand that palliative care doesn't require giving up other treatment.",
+    "Revisit the hospice conversation later if the situation progresses."
+  ],
+  "relatedTool": {
+    "name": "Care Journey Roadmap",
+    "slug": "",
+    "type": "roadmap"
+  },
+  "disclaimer": "General information — the treating medical team can clarify which option fits the current situation.",
+  "sources": [
+    {
+      "name": "What Are Palliative Care and Hospice Care?",
+      "url": "https://www.nia.nih.gov/health/hospice-and-palliative-care/what-are-palliative-care-and-hospice-care"
+    },
+    {
+      "name": "National Institute on Aging",
+      "url": null
+    }
+  ],
+  "id": "art-085",
+  "relatedArticles": [
+    "understanding-hospice-what-it-is-and-isnt",
+    "managing-pain-and-comfort-in-hospice-care"
+  ]
+}

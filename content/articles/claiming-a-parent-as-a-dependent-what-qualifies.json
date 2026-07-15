@@ -1,0 +1,57 @@
+{
+  "title": "Claiming a Parent as a Dependent: What Qualifies",
+  "slug": "claiming-a-parent-as-a-dependent-what-qualifies",
+  "summary": "The rules for claiming a parent as a dependent are specific, and understanding them can meaningfully affect a family's taxes.",
+  "category": "Evergreen Refresh + Seasonal",
+  "subcategory": "Tax Considerations",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Tax Considerations",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Claiming a Parent as a Dependent: What Qualifies | HarborCare Circle",
+  "metaDescription": "The rules for claiming a parent as a dependent are specific, and understanding them can meaningfully affect a family's taxes.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "A parent's gross income must fall below a specific annual threshold.",
+    "You generally must have provided more than half of their financial support.",
+    "A parent doesn't need to live with you to qualify, unlike some other dependent categories."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Unlike claiming a child, a parent doesn't need to live in your household to qualify as a dependent — but their gross income must fall below a specific yearly threshold (which changes periodically), and you generally need to have provided more than half of their total financial support for the year.",
+        "Multiple siblings splitting a parent's support can sometimes use a \"multiple support agreement\" to let one sibling claim the dependency, even if no single person provided over half the support alone — worth discussing with a tax professional if support is shared."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Check the parent's gross income against the current year's threshold.",
+    "Calculate the actual proportion of support you provided.",
+    "Ask a tax professional about multiple support agreements if support is shared among siblings."
+  ],
+  "relatedTool": {
+    "name": "Estimated Monthly Caregiving Cost",
+    "slug": "monthly-cost-estimator",
+    "type": "calculator"
+  },
+  "disclaimer": "General information, not tax advice — thresholds change yearly, and a tax professional can confirm current eligibility.",
+  "sources": [
+    {
+      "name": "Internal Revenue Service",
+      "url": null
+    }
+  ],
+  "id": "art-151",
+  "relatedArticles": [
+    "tax-considerations-when-caring-for-a-parent",
+    "filing-a-final-tax-return-for-someone-who-died"
+  ]
+}

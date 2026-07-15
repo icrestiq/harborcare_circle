@@ -1,0 +1,72 @@
+{
+  "title": "Fall Risk: A Practical Room-by-Room Home Safety Guide",
+  "slug": "fall-risk-a-practical-room-by-room-home-safety-guide",
+  "summary": "Most falls happen at home, and most home hazards are fixable in an afternoon. Here's a practical, room-by-room way to think about it.",
+  "category": "Conditions → Fall risk (also feeds Home Safety Checklist)",
+  "subcategory": "Daily support",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Daily support",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Fall Risk: A Practical Room-by-Room Home Safety Guide | HarborCare Circle",
+  "metaDescription": "Most falls happen at home, and most home hazards are fixable in an afternoon. Here's a practical, room-by-room way to think about it.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Falls are usually caused by a combination of small things — lighting, clutter, footwear — not one dramatic hazard.",
+    "The bathroom and stairs carry the highest risk, but bedrooms are a close third due to nighttime trips.",
+    "A same-level trip is just as serious as a fall from a height, for older adults."
+  ],
+  "tableOfContents": [
+    "Bathroom",
+    "Bedroom & hallways",
+    "Living areas & stairs"
+  ],
+  "body": [
+    {
+      "heading": "Bathroom",
+      "paragraphs": [
+        "This is the highest-risk room in most homes. A grab bar near the toilet and inside the shower or tub makes a real difference, as does a non-slip mat both inside the shower and on the floor just outside it. A raised toilet seat can help with a common trouble spot — the sit-to-stand movement, which is when many falls happen."
+      ]
+    },
+    {
+      "heading": "Bedroom & hallways",
+      "paragraphs": [
+        "Nighttime trips to the bathroom are a common fall scenario, so a clear, well-lit path matters more than most people expect. Motion-activated night-lights along that specific route, a phone or call button within reach of the bed, and keeping the floor clear of cords, rugs, and clutter are the highest-value, lowest-effort changes here."
+      ]
+    },
+    {
+      "heading": "Living areas & stairs",
+      "paragraphs": [
+        "Loose rugs are one of the most common and most fixable hazards — either remove them or secure them with non-slip backing. On stairs, make sure handrails are sturdy on both sides where possible, and that lighting is bright enough at both the top and bottom, not just the middle."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Walk through each room once, specifically looking for what's on the floor and what's poorly lit.",
+    "Fix the bathroom first — it's the highest-risk room and usually the cheapest to address.",
+    "Take the full Home Safety Assessment for a complete, prioritized list rather than relying on memory."
+  ],
+  "relatedTool": null,
+  "disclaimer": "This is general safety guidance, not a substitute for an in-home occupational therapy assessment, which can offer a more thorough, personalized review — especially after a first fall.",
+  "sources": [
+    {
+      "name": "Check for Safety: A Home Fall Prevention Checklist for Older Adults",
+      "url": "https://www.cdc.gov/steadi/pdf/steadi-brochure-checkforsafety-508.pdf"
+    },
+    {
+      "name": "CDC STEADI Initiative",
+      "url": null
+    }
+  ],
+  "id": "art-003",
+  "relatedArticles": [
+    "mobility-decline-when-to-consider-a-cane-walker-or-wheelchair",
+    "stroke-recovery-what-the-first-90-days-look-like"
+  ]
+}

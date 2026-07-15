@@ -1,0 +1,61 @@
+{
+  "title": "Diabetes and Diet: Realistic Changes, Not Overwhelming Ones",
+  "slug": "diabetes-and-diet-realistic-changes-not-overwhelming-ones",
+  "summary": "Diet changes for diabetes work better as a few consistent habits than a complete overhaul all at once.",
+  "category": "Conditions II: Physical Health",
+  "subcategory": "",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Conditions II: Physical Health",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Diabetes and Diet: Realistic Changes, Not Overwhelming Ones | HarborCare Circle",
+  "metaDescription": "Diet changes for diabetes work better as a few consistent habits than a complete overhaul all at once.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Consistent carbohydrate timing often matters as much as total amount.",
+    "Small, sustainable changes tend to stick better than dramatic ones.",
+    "A registered dietitian can build a realistic, personalized plan."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Rather than an all-or-nothing approach, most success comes from a few consistent habits: similar meal timing day to day, awareness of carbohydrate portions, and gradually swapping in more vegetables and whole grains rather than eliminating entire food groups at once.",
+        "A registered dietitian, ideally one experienced with diabetes, can build a plan around foods your parent actually likes and will realistically keep eating — which matters more for long-term success than a theoretically perfect diet no one follows."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Ask the doctor for a referral to a registered dietitian.",
+    "Start with one or two sustainable changes rather than a full overhaul.",
+    "Keep meal timing as consistent as reasonably possible."
+  ],
+  "relatedTool": {
+    "name": "Estimated Monthly Caregiving Cost",
+    "slug": "monthly-cost-estimator",
+    "type": "calculator"
+  },
+  "disclaimer": "General guidance — a registered dietitian and the treating physician should guide any specific dietary plan.",
+  "sources": [
+    {
+      "name": "Eating Well & Managing Diabetes",
+      "url": "https://diabetes.org/food-nutrition/eating-healthy"
+    },
+    {
+      "name": "American Diabetes Association",
+      "url": null
+    }
+  ],
+  "id": "art-031",
+  "relatedArticles": [
+    "managing-diabetes-in-an-aging-parent-the-caregivers-role",
+    "blood-sugar-monitoring-a-simple-system-for-families"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Getting Started: Your First Week with HarborCare Circle",
+  "slug": "getting-started-your-first-week-with-harborcare-circle",
+  "summary": "If you're new here, a simple first week makes this resource immediately useful without feeling overwhelming.",
+  "category": "Software Connection + Year-in-Review",
+  "subcategory": "Year in Review",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Year in Review",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Getting Started: Your First Week with HarborCare Circle | HarborCare Circle",
+  "metaDescription": "If you're new here, a simple first week makes this resource immediately useful without feeling overwhelming.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "You don't need to read everything — starting with your specific situation is enough.",
+    "One assessment or checklist is a good first concrete step.",
+    "Bookmarking a few relevant hubs makes returning easier than searching each time."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Rather than trying to absorb the whole site, starting with whatever specifically matches your situation right now — a condition, a transition, an urgent checklist — is the most useful entry point, not a chronological read-through.",
+        "Completing one assessment or starting one checklist in your first week turns abstract browsing into a concrete first step, and bookmarking the hub most relevant to your situation makes it easy to return without re-searching each time."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Identify the one hub or tool most relevant to your situation right now.",
+    "Complete one assessment or checklist this week as a concrete starting point.",
+    "Bookmark what's useful, and come back as things change."
+  ],
+  "relatedTool": {
+    "name": "Care Readiness Assessment",
+    "slug": "care-readiness-assessment",
+    "type": "assessment"
+  },
+  "disclaimer": "A practical orientation for new visitors — welcome to HarborCare Circle.",
+  "sources": [
+    {
+      "name": "Family Caregiver Alliance",
+      "url": null
+    }
+  ],
+  "id": "art-176",
+  "relatedArticles": [
+    "whats-next-for-harborcare-circle",
+    "a-year-of-caregiving-what-weve-learned-from-families"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Preventing Falls After a Mobility Decline Diagnosis",
+  "slug": "preventing-falls-after-a-mobility-decline-diagnosis",
+  "summary": "Once mobility has declined, fall prevention becomes a more active, ongoing effort rather than a one-time home check.",
+  "category": "Conditions II: Physical Health",
+  "subcategory": "",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Conditions II: Physical Health",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Preventing Falls After a Mobility Decline Diagnosis | HarborCare Circle",
+  "metaDescription": "Once mobility has declined, fall prevention becomes a more active, ongoing effort rather than a one-time home check.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Fall risk increases substantially after any mobility decline, even mild.",
+    "A combination of home changes, mobility aids, and strength work is more effective than any one alone.",
+    "Fear of falling itself can reduce activity and worsen mobility over time."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Once mobility has declined, the home-safety steps that mattered before (clear paths, grab bars, good lighting) become even more important, and are best combined with a properly fitted mobility aid and, where possible, ongoing strength or balance exercises.",
+        "An underappreciated factor: fear of falling can cause someone to move less, which paradoxically weakens muscles further and increases fall risk. Gentle encouragement toward safe activity, rather than avoidance, is usually the better long-term approach."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Revisit the home safety walk-through specifically for the new mobility level.",
+    "Confirm the mobility aid is properly fitted, not just present.",
+    "Ask about a physical therapy referral focused on strength and balance."
+  ],
+  "relatedTool": null,
+  "disclaimer": "General guidance — a physical therapist can build a specific fall-prevention plan appropriate to the individual situation.",
+  "sources": [
+    {
+      "name": "Check for Safety",
+      "url": "https://www.cdc.gov/steadi/pdf/steadi-brochure-checkforsafety-508.pdf"
+    },
+    {
+      "name": "CDC STEADI Initiative",
+      "url": null
+    }
+  ],
+  "id": "art-029",
+  "relatedArticles": [
+    "mobility-decline-when-to-consider-a-cane-walker-or-wheelchair",
+    "fall-risk-a-practical-room-by-room-home-safety-guide"
+  ]
+}

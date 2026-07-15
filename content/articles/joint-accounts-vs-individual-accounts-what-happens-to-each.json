@@ -1,0 +1,53 @@
+{
+  "title": "Joint Accounts vs. Individual Accounts: What Happens to Each",
+  "slug": "joint-accounts-vs-individual-accounts-what-happens-to-each",
+  "summary": "The difference between joint and individual accounts significantly affects how quickly and simply money becomes accessible.",
+  "category": "After a Loss III: Estate & Digital",
+  "subcategory": "Bank & Credit Accounts",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Bank & Credit Accounts",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Joint Accounts vs. Individual Accounts: What Happens to Each | HarborCare Circle",
+  "metaDescription": "The difference between joint and individual accounts significantly affects how quickly and simply money becomes accessible.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Joint accounts with rights of survivorship generally pass directly to the surviving owner.",
+    "Individual accounts typically go through the estate or probate process.",
+    "Beneficiary designations (POD/TOD) can simplify individual accounts significantly."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Most joint bank accounts include automatic \"rights of survivorship,\" meaning the funds pass directly to the surviving joint owner without probate — a notification and death certificate are usually all that's needed.",
+        "Individual accounts without a named beneficiary typically become part of the estate and may go through probate, which can take months. However, accounts with a \"payable on death\" (POD) or \"transfer on death\" (TOD) designation bypass this, passing directly to the named person."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Identify which accounts are joint versus individual.",
+    "Check whether individual accounts have POD/TOD designations already in place.",
+    "Consider adding POD/TOD designations to other accounts going forward, where appropriate."
+  ],
+  "relatedTool": null,
+  "disclaimer": "General information, not legal advice — an estate attorney can clarify specific account treatment under your state's law.",
+  "sources": [
+    {
+      "name": "Consumer Financial Protection Bureau",
+      "url": null
+    }
+  ],
+  "id": "art-131",
+  "relatedArticles": [
+    "closing-bank-accounts-after-a-death",
+    "reviewing-and-updating-estate-documents"
+  ]
+}

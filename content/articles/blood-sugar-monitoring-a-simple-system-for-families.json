@@ -1,0 +1,53 @@
+{
+  "title": "Blood Sugar Monitoring: A Simple System for Families",
+  "slug": "blood-sugar-monitoring-a-simple-system-for-families",
+  "summary": "A consistent, simple monitoring system prevents most of the confusion families run into with diabetes management.",
+  "category": "Conditions II: Physical Health",
+  "subcategory": "",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Conditions II: Physical Health",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Blood Sugar Monitoring: A Simple System for Families | HarborCare Circle",
+  "metaDescription": "A consistent, simple monitoring system prevents most of the confusion families run into with diabetes management.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Consistency in timing matters as much as the readings themselves.",
+    "A shared, visible log helps more than memory.",
+    "Continuous glucose monitors can simplify tracking substantially where appropriate."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Testing at the same times relative to meals each day makes patterns much easier to spot than irregular testing. A simple written or app-based log that any involved family member can check reduces both duplicated effort and gaps in tracking.",
+        "For some patients, continuous glucose monitors remove much of the daily testing burden and can alert to dangerous highs or lows in real time — worth asking the doctor whether one is appropriate."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Pick consistent testing times tied to meals.",
+    "Choose one shared log (paper or app) that the whole family uses.",
+    "Ask the doctor about continuous glucose monitoring options."
+  ],
+  "relatedTool": null,
+  "disclaimer": "General guidance — testing frequency and targets should always follow the prescribing doctor's specific instructions.",
+  "sources": [
+    {
+      "name": "Low Blood Sugar (Hypoglycemia)",
+      "url": "https://www.cdc.gov/diabetes/about/low-blood-sugar-hypoglycemia.html"
+    }
+  ],
+  "id": "art-023",
+  "relatedArticles": [
+    "managing-diabetes-in-an-aging-parent-the-caregivers-role",
+    "diabetic-foot-care-a-small-habit-that-prevents-big-problems"
+  ]
+}

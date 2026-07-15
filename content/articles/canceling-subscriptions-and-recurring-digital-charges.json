@@ -1,0 +1,53 @@
+{
+  "title": "Canceling Subscriptions and Recurring Digital Charges",
+  "slug": "canceling-subscriptions-and-recurring-digital-charges",
+  "summary": "Recurring digital subscriptions quietly continue billing unless actively canceled — a focused review catches most of them.",
+  "category": "After a Loss III: Estate & Digital",
+  "subcategory": "Digital Accounts",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Digital Accounts",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Canceling Subscriptions and Recurring Digital Charges | HarborCare Circle",
+  "metaDescription": "Recurring digital subscriptions quietly continue billing unless actively canceled — a focused review catches most of them.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Reviewing recent bank and credit card statements is the most reliable way to find active subscriptions.",
+    "Streaming, app stores, and cloud storage are common ones people forget.",
+    "Some subscriptions require canceling directly through the platform, not just the payment method."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Looking through the last two to three months of bank and credit card statements typically surfaces every active recurring charge — a more reliable method than trying to recall subscriptions from memory.",
+        "Streaming services, app store subscriptions, and cloud storage are especially easy to forget, and some require logging into the actual account to cancel rather than simply stopping payment, which can otherwise just result in a lapsed, unpaid account rather than a canceled one."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Review 2–3 months of statements specifically for recurring charges.",
+    "Cancel through each platform directly, not just by stopping payment.",
+    "Keep a list of what's been canceled and confirmation details."
+  ],
+  "relatedTool": null,
+  "disclaimer": "General organizational guidance — some subscriptions have specific cancellation policies worth reviewing individually.",
+  "sources": [
+    {
+      "name": "Federal Trade Commission",
+      "url": null
+    }
+  ],
+  "id": "art-136",
+  "relatedArticles": [
+    "digital-accounts-after-a-death-where-to-start",
+    "setting-up-a-system-to-track-every-account-and-task"
+  ]
+}

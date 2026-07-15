@@ -1,0 +1,57 @@
+{
+  "title": "Rehabilitation After Stroke: What to Expect and Ask For",
+  "slug": "rehabilitation-after-stroke-what-to-expect-and-ask-for",
+  "summary": "Stroke rehab can involve several types of therapy working together — knowing what each does helps you advocate for the right mix.",
+  "category": "Conditions II: Physical Health",
+  "subcategory": "",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Conditions II: Physical Health",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Rehabilitation After Stroke: What to Expect and Ask For | HarborCare Circle",
+  "metaDescription": "Stroke rehab can involve several types of therapy working together — knowing what each does helps you advocate for the right mix.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Physical, occupational, and speech therapy often all play a role, depending on what the stroke affected.",
+    "Intensity and frequency of therapy matter as much as which types are included.",
+    "Progress isn't always linear, and that's normal."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Physical therapy focuses on movement, strength, and balance; occupational therapy focuses on daily tasks like dressing and cooking; speech therapy addresses language, swallowing, and cognitive-communication skills. Not every stroke affects all these areas, so the mix should match what was actually impacted.",
+        "It's worth asking specifically how many sessions per week are planned and why, since intensity can meaningfully affect outcomes, particularly in the first few months. Plateaus and small setbacks along the way are a normal part of the process, not necessarily a sign progress has stopped."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Ask which therapy types are included and why.",
+    "Ask about session frequency, and whether it matches recommended intensity for the situation.",
+    "Learn a few home exercises from each therapist to continue between sessions."
+  ],
+  "relatedTool": null,
+  "disclaimer": "General overview — the rehab team's specific plan should always guide actual care decisions.",
+  "sources": [
+    {
+      "name": "Stroke rehabilitation: What to expect as you recover",
+      "url": "https://www.mayoclinic.org/diseases-conditions/stroke/in-depth/stroke-rehabilitation/art-20045172"
+    },
+    {
+      "name": "Mayo Clinic",
+      "url": null
+    }
+  ],
+  "id": "art-026",
+  "relatedArticles": [
+    "stroke-recovery-what-the-first-90-days-look-like",
+    "understanding-aphasia-after-a-stroke"
+  ]
+}

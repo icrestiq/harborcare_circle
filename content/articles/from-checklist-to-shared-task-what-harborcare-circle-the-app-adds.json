@@ -1,0 +1,53 @@
+{
+  "title": "From Checklist to Shared Task: What HarborCare Circle the App Adds",
+  "slug": "from-checklist-to-shared-task-what-harborcare-circle-the-app-adds",
+  "summary": "The free checklists on this site solve part of the coordination problem — the app is built to solve the rest of it.",
+  "category": "Software Connection + Year-in-Review",
+  "subcategory": "Why We Built What We Built",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Why We Built What We Built",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "From Checklist to Shared Task: What HarborCare Circle the App Adds | HarborCare Circle",
+  "metaDescription": "The free checklists on this site solve part of the coordination problem — the app is built to solve the rest of it.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "A checklist tells you what needs doing; it doesn't track who's doing it.",
+    "Multiple family members checking the same static list creates duplication and gaps.",
+    "The app turns a shared checklist into assigned, trackable tasks with real-time visibility."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "A printable or on-screen checklist works well for a single person tracking their own progress, but caregiving is rarely a solo effort — once several family members are involved, a static list can't show who's already handled a task or who's planning to.",
+        "The app extends this same content into assignable tasks — a sibling can claim \"schedule the follow-up appointment,\" mark it done, and everyone else sees it update in real time, removing the \"did someone already do this?\" uncertainty that static lists can't solve."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "If checklist coordination has been a friction point in your family, this is exactly the gap the app addresses.",
+    "Consider which of your current checklists would benefit most from shared visibility.",
+    "Join the waitlist if this resonates with your situation."
+  ],
+  "relatedTool": null,
+  "disclaimer": "This describes a planned app feature, not something available on the website today.",
+  "sources": [
+    {
+      "name": "Family Caregiver Alliance",
+      "url": null
+    }
+  ],
+  "id": "art-162",
+  "relatedArticles": [
+    "why-we-built-a-care-journey-roadmap",
+    "why-families-outgrow-sticky-notes-and-group-texts"
+  ]
+}

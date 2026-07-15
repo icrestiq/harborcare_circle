@@ -1,0 +1,57 @@
+{
+  "title": "Antidepressants in Older Adults: What Families Should Know",
+  "slug": "antidepressants-in-older-adults-what-families-should-know",
+  "summary": "Antidepressants can work well for older adults, but there are a few extra considerations worth knowing about.",
+  "category": "Conditions I: Cognitive & Neurological",
+  "subcategory": "",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Conditions I: Cognitive & Neurological",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "strengthened",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Antidepressants in Older Adults: What Families Should Know | HarborCare Circle",
+  "metaDescription": "Antidepressants can work well for older adults, but there are a few extra considerations worth knowing about.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Older adults are often more sensitive to medication side effects and interactions.",
+    "Starting doses are frequently lower and increased more slowly.",
+    "Improvement often takes several weeks, and stopping suddenly isn't recommended."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Because older adults often take multiple medications already, interactions and side effects deserve extra attention — this is exactly why the prescribing doctor should know every other medication and supplement being taken.",
+        "Doses are often started low and increased gradually, which means early weeks might show limited effect — this is a normal part of the process, not necessarily a sign the medication isn't working. Stopping abruptly, even if someone feels better, can cause withdrawal-like effects and should always go through the prescribing doctor."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Keep a complete, current medication list to share with every prescriber.",
+    "Track any new symptoms or side effects to report at follow-up.",
+    "Never adjust or stop a dose without medical guidance."
+  ],
+  "relatedTool": null,
+  "disclaimer": "This article describes general patterns only. Medication timing, dosing, and interactions are specific to the individual and the exact medications involved — never adjust a dose, schedule, or medication based on this article. Confirm all specifics directly with the prescribing doctor or pharmacist before making any change.",
+  "sources": [
+    {
+      "name": "Depression and Older Adults",
+      "url": "https://www.nia.nih.gov/health/mental-and-emotional-health/depression-and-older-adults"
+    },
+    {
+      "name": "National Institute on Aging",
+      "url": null
+    }
+  ],
+  "id": "art-018",
+  "relatedArticles": [
+    "supporting-a-parent-through-a-new-depression-diagnosis",
+    "recognizing-depression-in-older-adults-its-not-just-getting-older"
+  ]
+}

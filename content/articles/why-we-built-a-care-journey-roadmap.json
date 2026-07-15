@@ -1,0 +1,57 @@
+{
+  "title": "Why We Built a Care Journey Roadmap",
+  "slug": "why-we-built-a-care-journey-roadmap",
+  "summary": "The Care Journey Roadmap exists because families kept asking the same underlying question in different words: \"what do I actually do next?\"",
+  "category": "Software Connection + Year-in-Review",
+  "subcategory": "Why We Built What We Built",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Why We Built What We Built",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-14",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Why We Built a Care Journey Roadmap | HarborCare Circle",
+  "metaDescription": "The Care Journey Roadmap exists because families kept asking the same underlying question in different words: \"what do I actually do next?\"",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Every family's caregiving path looks different, but the *feeling* of not knowing what comes next is nearly universal.",
+    "A roadmap organizes scattered advice into a sequence.",
+    "This tool was built from patterns across thousands of caregiving situations, not a single formula."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Caregiving advice online is often organized by topic — dementia, hospice, finances — but families rarely experience their situation as neatly separated topics. The roadmap tool exists to translate \"here's what's happening\" into \"here's a reasonable next step,\" which is usually the harder, more useful question.",
+        "It draws on common patterns across many caregiving situations, not a rigid formula — which is why it's explicitly framed as one reasonable path, not the only path, and why every roadmap includes room to deviate."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "If you haven't tried it yet, take a few minutes with the Care Journey Roadmap.",
+    "Notice which suggestions fit and which don't — both are useful information.",
+    "Revisit it as your situation changes, not just once."
+  ],
+  "relatedTool": {
+    "name": "Care Journey Roadmap",
+    "slug": "",
+    "type": "roadmap"
+  },
+  "disclaimer": "This is a behind-the-scenes look at the tool's purpose, not new caregiving guidance itself.",
+  "sources": [
+    {
+      "name": "Family Caregiver Alliance",
+      "url": null
+    }
+  ],
+  "id": "art-161",
+  "relatedArticles": [
+    "from-checklist-to-shared-task-what-harborcare-circle-the-app-adds",
+    "a-year-of-caregiving-what-weve-learned-from-families"
+  ]
+}
