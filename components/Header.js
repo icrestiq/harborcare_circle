@@ -5,12 +5,8 @@ export default function Header() {
     <header className="bg-white border-b border-[#E7E2D8] sticky top-0 z-20">
       <div className="max-w-6xl mx-auto flex items-center justify-between px-6 py-4">
         <Link href="/" className="flex items-center gap-2 font-heading font-bold text-lg text-soft-navy">
-          <span
-            className="w-8 h-8 rounded-full flex-shrink-0"
-            style={{
-              background: 'conic-gradient(#0066D6, #00B7C7, #FF7A21, #0066D6)',
-            }}
-          />
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/logo.png" alt="HarborCare Circle logo" className="w-9 h-9 flex-shrink-0" />
           <span className="flex items-baseline gap-1.5">
             HarborCare Circle
             <span className="font-mono text-xs font-normal text-warm-gray tracking-tight">
