@@ -1,0 +1,57 @@
+{
+  "title": "Emergency Preparation for Aging Parents",
+  "slug": "emergency-preparation-for-aging-parents",
+  "summary": "A little preparation before a crisis makes an actual crisis significantly easier to get through.",
+  "category": "Caregiving 101",
+  "subcategory": "Getting Organized",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Getting Organized",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-15",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Emergency Preparation for Aging Parents | HarborCare Circle",
+  "metaDescription": "A little preparation before a crisis makes an actual crisis significantly easier to get through.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "An emergency contact sheet and medication list are the two highest-value documents to prepare.",
+    "Preparation should happen while things are calm, not after an incident.",
+    "A simple, visible system beats an elaborate one no one can find in a hurry."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "The single most useful thing to have ready is a one-page emergency information sheet: emergency contacts, current medications, doctors, and key medical details. In an actual emergency, this saves precious time for whoever responds, whether that's a family member or a first responder.",
+        "This kind of preparation only helps if it happens before it's needed — trying to assemble this information during an actual crisis is exactly when it's hardest to do well. Doing it now, while things are calm, is the whole point.",
+        "A simple system that's actually findable — posted on the fridge, saved in a shared family folder — is more useful than a more elaborate system that only one person knows how to access."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Create an emergency information sheet this week.",
+    "Post or share it somewhere genuinely easy to find in a hurry.",
+    "Review and update it every few months."
+  ],
+  "relatedTool": {
+    "name": "Emergency Preparedness Checklist",
+    "slug": "emergency-preparedness",
+    "type": "checklist"
+  },
+  "disclaimer": "General preparedness guidance — this doesn't replace an actual emergency response plan discussed with a doctor for specific medical conditions.",
+  "sources": [
+    {
+      "name": "CDC",
+      "url": null
+    }
+  ],
+  "relatedArticles": [
+    "medication-organization-that-actually-works"
+  ],
+  "id": "art-c101-emergency-"
+}

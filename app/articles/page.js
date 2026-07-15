@@ -1,5 +1,5 @@
 import { getAllArticles } from '../../lib/content';
-import ArticlesHubView from '../../components/ArticlesHubView';
+import GroupedHubView from '../../components/GroupedHubView';
 
 export const metadata = {
   title: 'Articles & Guides | HarborCare Circle',
@@ -17,7 +17,9 @@ export default function ArticlesHubPage() {
   const categories = Object.keys(byCategory).sort();
 
   return (
-    <ArticlesHubView
+    <GroupedHubView
+      title="Articles & Guides"
+      description="Organized by topic."
       categories={categories}
       byCategory={byCategory}
       totalCount={articles.length}

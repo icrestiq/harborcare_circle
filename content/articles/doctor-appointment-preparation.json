@@ -1,0 +1,54 @@
+{
+  "title": "Doctor Appointment Preparation",
+  "slug": "doctor-appointment-preparation",
+  "summary": "A few minutes of preparation before an appointment gets meaningfully more out of a typically short visit.",
+  "category": "Caregiving 101",
+  "subcategory": "Getting Organized",
+  "tags": [],
+  "audience": "Adult child / family caregiver",
+  "journeyStage": "Getting Organized",
+  "urgencyLevel": "medium",
+  "author": "HarborCare Circle Editorial",
+  "reviewer": null,
+  "citationStatus": "citation_only",
+  "disclaimerLevel": "standard",
+  "lastUpdated": "2026-07-15",
+  "readingTimeMinutes": 2,
+  "seoTitle": "Doctor Appointment Preparation | HarborCare Circle",
+  "metaDescription": "A few minutes of preparation before an appointment gets meaningfully more out of a typically short visit.",
+  "featuredImage": null,
+  "whatYouNeedToKnow": [
+    "Writing questions down in advance prevents them from being forgotten in the moment.",
+    "Bringing a current medication list saves real time for the doctor.",
+    "Taking notes during the visit matters as much as the questions themselves."
+  ],
+  "tableOfContents": [],
+  "body": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Appointments are often shorter than families expect, and it's easy for prepared questions to be forgotten once in the room. Writing them down beforehand, in priority order, makes sure the most important ones get asked even if time runs short.",
+        "Bringing a current medication list saves valuable appointment time that would otherwise go to reconstructing it from memory, and reduces the chance of an error making it into the doctor's records.",
+        "Taking notes during the visit, or asking someone else to, matters as much as the questions themselves — it's common to leave an appointment remembering only a fraction of what was actually discussed."
+      ]
+    }
+  ],
+  "nextSteps": [
+    "Write down questions in priority order before the visit.",
+    "Bring a current medication list to every appointment.",
+    "Take notes during the visit, or bring someone who can."
+  ],
+  "relatedTool": null,
+  "disclaimer": "General preparation guidance — the doctor's direct guidance always takes priority over general tips.",
+  "sources": [
+    {
+      "name": "Agency for Healthcare Research and Quality",
+      "url": null
+    }
+  ],
+  "relatedArticles": [
+    "medication-organization-that-actually-works",
+    "signs-a-parent-may-need-help"
+  ],
+  "id": "art-c101-doctor-app"
+}
