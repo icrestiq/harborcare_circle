@@ -1,0 +1,88 @@
+{
+  "id": "chk-first-week-after-a-death",
+  "title": "First Week After a Death Checklist",
+  "slug": "first-week-after-a-death",
+  "summary": "Priorities for the week following a loss — still lighter than most families expect.",
+  "citationStatus": "citation_only",
+  "groups": [
+    {
+      "name": "Funeral & Immediate Logistics",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Finalize funeral or memorial plans",
+          "explanation": "Ask the funeral home for an itemized price list.",
+          "timing": "This week.",
+          "who": "Funeral home.",
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Check for any written wishes the person left",
+          "explanation": "Sometimes in estate documents, sometimes a separate note.",
+          "timing": "This week.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Arrange for out-of-town family logistics",
+          "explanation": "if applicable — travel, lodging.",
+          "timing": "This week.",
+          "who": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Home & Practical",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Set up mail forwarding or holding",
+          "explanation": "Prevents missed time-sensitive mail.",
+          "timing": "This week.",
+          "who": "Postal service.",
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Handle perishables, plants, and pets",
+          "explanation": "if the home will be less occupied.",
+          "timing": "This week.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Notify an employer, if time off is needed",
+          "explanation": "A brief, factual message is enough.",
+          "timing": "This week.",
+          "who": "Manager or HR.",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Setting Up for What's Next",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Start a single running list to track tasks and accounts",
+          "explanation": "going forward.",
+          "timing": "This week.",
+          "who": null,
+          "notes": "Sets up the following weeks' larger workload."
+        },
+        {
+          "id": "t2",
+          "title": "Order more death certificate copies than seems necessary",
+          "explanation": "10–15 is a reasonable starting estimate.",
+          "timing": "This week.",
+          "who": "Funeral home or state vital records.",
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

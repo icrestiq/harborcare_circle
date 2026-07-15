@@ -1,0 +1,98 @@
+{
+  "id": "chk-hospital-discharge",
+  "title": "Hospital Discharge Checklist",
+  "slug": "hospital-discharge",
+  "summary": "The other half of a hospital stay — making sure nothing gets lost in the rush of leaving.",
+  "citationStatus": "citation_only",
+  "groups": [
+    {
+      "name": "Medication Reconciliation",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Get a complete, written medication list",
+          "explanation": "Including what's stopped, changed, or newly added.",
+          "timing": "Before leaving.",
+          "who": "Discharging nurse or pharmacist.",
+          "notes": null,
+          "documents": "Discharge medication list."
+        },
+        {
+          "id": "t2",
+          "title": "Read the list back to confirm it matches what you're hearing",
+          "explanation": "Catches errors before they become a problem at home.",
+          "timing": "Before leaving.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Fill any new prescriptions before or immediately after leaving",
+          "explanation": "Avoids a gap in a critical medication.",
+          "timing": "Same day.",
+          "who": "Pharmacy.",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Follow-Up Care",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Confirm the first follow-up appointment is already scheduled",
+          "explanation": "Not just \"call to schedule one.\"",
+          "timing": "Before leaving.",
+          "who": "Discharge planner.",
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Get a direct number for questions in the first 48 hours",
+          "explanation": "Not just a general office line.",
+          "timing": "Before leaving.",
+          "who": null,
+          "notes": null,
+          "documents": "Discharge instructions."
+        },
+        {
+          "id": "t3",
+          "title": "Ask what specific symptoms warrant a call vs. an ER visit",
+          "explanation": "Concrete signs, not a general \"call if worried.\"",
+          "timing": "Before leaving.",
+          "who": "Discharging doctor or nurse.",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Home Readiness",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Confirm any home equipment is ready",
+          "explanation": "Hospital bed, walker, shower chair, oxygen, as applicable.",
+          "timing": "Before the transition day, ideally.",
+          "who": "Equipment supplier or home health team.",
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Do a quick home safety check for the new level of need",
+          "explanation": "Especially if mobility has changed during the stay.",
+          "timing": null,
+          "who": null,
+          "notes": "See Home Safety Checklist for the full version."
+        },
+        {
+          "id": "t3",
+          "title": "Confirm home health or follow-up care referrals are actually scheduled",
+          "explanation": "not just recommended.",
+          "timing": "Before leaving.",
+          "who": "Discharge planner.",
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

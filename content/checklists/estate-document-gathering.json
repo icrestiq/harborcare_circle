@@ -1,0 +1,104 @@
+{
+  "id": "chk-estate-document-gathering",
+  "title": "Estate Document Gathering Checklist",
+  "slug": "estate-document-gathering",
+  "summary": "Assembling what an executor or estate attorney will need.",
+  "citationStatus": "citation_only",
+  "groups": [
+    {
+      "name": "Core Legal Documents",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Original will and any trust documents",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Certified death certificates",
+          "explanation": "— several copies, since most institutions keep the one submitted.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Any prior estate planning correspondence",
+          "explanation": "from an attorney.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Financial Documents",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Full list of bank, investment, and retirement accounts",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Life insurance policies and beneficiary designations",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Most recent tax returns",
+          "explanation": "(typically the last 2–3 years).",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t4",
+          "title": "Outstanding debts",
+          "explanation": "— mortgages, loans, credit cards.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Property & Other",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Vehicle titles and property deeds",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Safe deposit box or home safe location and access info",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Digital account inventory",
+          "explanation": "— primary email, password manager, key online accounts.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

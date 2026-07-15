@@ -1,0 +1,96 @@
+{
+  "id": "chk-parent-moving-in",
+  "title": "Parent Moving In Checklist",
+  "slug": "parent-moving-in",
+  "summary": "For bringing a parent into your home — logistics, boundaries, and the adjustment period.",
+  "citationStatus": "citation_only",
+  "groups": [
+    {
+      "name": "Before the Move",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Hold a family meeting with everyone in the household",
+          "explanation": "Including a spouse or children who also live there.",
+          "timing": "4–6 weeks before, if possible.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Assess the home for ground-floor space, if available",
+          "explanation": "Bedroom and bathroom access matters as mobility needs may grow.",
+          "timing": "Before the move.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Make basic safety adjustments before move-in day",
+          "explanation": "Grab bars, night-lights, clear pathways.",
+          "timing": "Before the move.",
+          "who": null,
+          "notes": "See Home Safety Checklist."
+        }
+      ]
+    },
+    {
+      "name": "Setting Expectations",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Write out household expectations together",
+          "explanation": "Quiet hours, guest policy, shared space use.",
+          "timing": "Before the move.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Discuss financial contributions directly",
+          "explanation": "even if the answer is \"none needed.\"",
+          "timing": "Before the move.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Set up at least one private, closable space",
+          "explanation": "that's clearly the parent's own.",
+          "timing": "Before the move.",
+          "who": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "First 30 Days",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Expect some friction and extend patience",
+          "explanation": "A normal part of adjustment, not a sign of failure.",
+          "timing": "Ongoing.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Hold a 30-day check-in",
+          "explanation": "planned before the move happens.",
+          "timing": "30 days after move-in.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Revisit the household agreement",
+          "explanation": "based on what's actually working.",
+          "timing": "30 days after, and periodically after.",
+          "who": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

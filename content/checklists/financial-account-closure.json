@@ -1,0 +1,98 @@
+{
+  "id": "chk-financial-account-closure",
+  "title": "Financial Account Closure Checklist",
+  "slug": "financial-account-closure",
+  "summary": "Working through bank, credit, and other financial accounts methodically.",
+  "citationStatus": "citation_only",
+  "groups": [
+    {
+      "name": "Assessment",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "List every known account",
+          "explanation": "individual and joint.",
+          "timing": null,
+          "who": null,
+          "notes": "Check mail and statements for accounts you didn't know about."
+        },
+        {
+          "id": "t2",
+          "title": "Identify which accounts are joint (pass to co-owner) vs. individual (go through the estate)",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null,
+          "jurisdictionNote": "Exact process depends on state law and account titling."
+        },
+        {
+          "id": "t3",
+          "title": "Check for payable-on-death (POD) or transfer-on-death (TOD) designations",
+          "explanation": "These bypass probate.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Closing or Transferring",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Notify each bank with a certified death certificate",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null,
+          "documents": "Death certificate, proof of executor authority."
+        },
+        {
+          "id": "t2",
+          "title": "Confirm what proof of authority each institution specifically requires",
+          "explanation": "Varies by bank.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Update — don't necessarily cancel — auto and home insurance",
+          "explanation": "to reflect the new named insured.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Debt",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Confirm your actual relationship to any debt",
+          "explanation": "(authorized user vs. joint holder) before paying anything personally.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Request written verification before engaging with any debt collector",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Route legitimate estate debt through the estate",
+          "explanation": "not personal funds, unless you're a joint account holder.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

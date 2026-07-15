@@ -1,0 +1,125 @@
+{
+  "id": "chk-home-safety",
+  "title": "Home Safety Checklist",
+  "slug": "home-safety",
+  "summary": "A room-by-room pass through the home, prioritized by risk.",
+  "citationStatus": "citation_only",
+  "groups": [
+    {
+      "name": "Bathroom (Highest Priority)",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Install grab bars near the toilet and inside the shower/tub",
+          "explanation": "",
+          "timing": "This week.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Add non-slip mats inside the shower and just outside it",
+          "explanation": "",
+          "timing": "This week.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Consider a raised toilet seat",
+          "explanation": "Helps with the sit-to-stand movement, a common fall point.",
+          "timing": "This month.",
+          "who": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Bedroom & Hallways",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Clear the nighttime path to the bathroom",
+          "explanation": "Remove cords, rugs, and clutter.",
+          "timing": "This week.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Add motion-activated night-lights along that path",
+          "explanation": "",
+          "timing": "This week.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Keep a phone or call button within reach of the bed",
+          "explanation": "",
+          "timing": "This week.",
+          "who": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Living Areas & Stairs",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Remove or secure loose rugs",
+          "explanation": "One of the most common, most fixable hazards.",
+          "timing": "This week.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Confirm handrails are sturdy on both sides of any stairs",
+          "explanation": "",
+          "timing": "This month.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Improve lighting at the top and bottom of stairs",
+          "explanation": "Not just the middle.",
+          "timing": "This month.",
+          "who": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Whole-Home",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Check smoke and carbon monoxide detector batteries",
+          "explanation": "",
+          "timing": "This week.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Confirm a clear, unobstructed path to at least one exit",
+          "explanation": "",
+          "timing": "This week.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Post emergency contact info somewhere visible",
+          "explanation": "like the refrigerator.",
+          "timing": null,
+          "who": null,
+          "notes": "Pairs with the Emergency Information Sheet download."
+        }
+      ]
+    }
+  ]
+}

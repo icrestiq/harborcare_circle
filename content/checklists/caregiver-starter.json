@@ -1,0 +1,100 @@
+{
+  "id": "chk-caregiver-starter",
+  "title": "Caregiver Starter Checklist",
+  "slug": "caregiver-starter",
+  "summary": "For someone just stepping into a caregiving role — the foundational tasks that make everything after this easier.",
+  "citationStatus": "citation_only",
+  "groups": [
+    {
+      "name": "Getting Oriented",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Write down what you've noticed",
+          "explanation": "Specific changes, with rough dates — this becomes useful for both family conversations and doctors.",
+          "timing": "This week.",
+          "who": "N/A.",
+          "notes": null,
+          "documents": "None yet — just a running note."
+        },
+        {
+          "id": "t2",
+          "title": "Have an initial conversation with your parent",
+          "explanation": "A calm, low-pressure check-in, not a big \"we need to talk.\"",
+          "timing": "This week.",
+          "who": "Your parent, directly.",
+          "notes": "See \"Talking with Aging Parents\" article for approach."
+        },
+        {
+          "id": "t3",
+          "title": "Identify who else is involved",
+          "explanation": "Siblings, a spouse, close friends who already help informally.",
+          "timing": "This week.",
+          "who": "Family members.",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Getting Organized",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Locate key documents",
+          "explanation": "Power of attorney, health care proxy, insurance cards, ID.",
+          "timing": "First 2 weeks.",
+          "who": null,
+          "notes": null,
+          "jurisdictionNote": "POA requirements vary by state — confirm any existing document is durable and still valid.",
+          "documents": "POA, health care proxy, insurance cards, photo ID."
+        },
+        {
+          "id": "t2",
+          "title": "Build a current medication list",
+          "explanation": "Name, dose, timing, prescribing doctor for each.",
+          "timing": "First 2 weeks.",
+          "who": "Pharmacy, if list is incomplete.",
+          "notes": null,
+          "documents": "Pharmacy printout or pill bottles."
+        },
+        {
+          "id": "t3",
+          "title": "List current doctors and specialists",
+          "explanation": "Name, specialty, phone number, last visit date.",
+          "timing": "First 2 weeks.",
+          "who": "N/A — compiled from memory, mail, or the primary doctor's office.",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Setting Up Support",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Take the Care Readiness Assessment",
+          "explanation": "Turns scattered observations into a clearer starting picture.",
+          "timing": "This week.",
+          "who": null,
+          "notes": "Related tool — no sign-up required."
+        },
+        {
+          "id": "t2",
+          "title": "Hold a first family meeting",
+          "explanation": "Even informal — who can help with what, going forward.",
+          "timing": "Within a month.",
+          "who": "All involved family members.",
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Take the Caregiver Stress Self-Check yourself",
+          "explanation": "Starting this role sustainably matters as much as starting it well.",
+          "timing": "This week, and periodically after.",
+          "who": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

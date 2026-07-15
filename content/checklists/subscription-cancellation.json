@@ -1,0 +1,88 @@
+{
+  "id": "chk-subscription-cancellation",
+  "title": "Subscription Cancellation Checklist",
+  "slug": "subscription-cancellation",
+  "summary": "Finding and canceling the recurring charges that quietly continue otherwise.",
+  "citationStatus": "citation_only",
+  "groups": [
+    {
+      "name": "Finding Subscriptions",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Review 2–3 months of bank and credit card statements",
+          "explanation": "The most reliable way to find every active charge.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Check the primary email account for subscription confirmation emails",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Check app store account settings",
+          "explanation": "(Apple/Google) for mobile subscriptions.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Canceling",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Cancel streaming services directly through each platform",
+          "explanation": "not just by stopping payment.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Cancel or transfer cloud storage subscriptions",
+          "explanation": "especially if they hold important photos or documents — back up first.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Cancel subscription boxes, memberships, and recurring donations",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Tracking",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Keep a list of what's been canceled, with confirmation numbers",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Set a reminder to check statements again in a month",
+          "explanation": "in case anything was missed.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

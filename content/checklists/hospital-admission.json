@@ -1,0 +1,98 @@
+{
+  "id": "chk-hospital-admission",
+  "title": "Hospital Admission Checklist",
+  "slug": "hospital-admission",
+  "summary": "For a planned or sudden hospital stay — what to bring and confirm on the way in.",
+  "citationStatus": "citation_only",
+  "groups": [
+    {
+      "name": "Before You Leave",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Grab the go bag",
+          "explanation": "Phone charger, glasses/hearing aids, a change of clothes.",
+          "timing": "Immediately.",
+          "who": null,
+          "notes": "Ideally pre-packed in advance — see \"Hospital Admission: What to Bring\" article."
+        },
+        {
+          "id": "t2",
+          "title": "Bring the current medication list",
+          "explanation": "One of the single most useful things to hand the admitting team.",
+          "timing": "Immediately.",
+          "who": null,
+          "notes": null,
+          "documents": "Medication list."
+        },
+        {
+          "id": "t3",
+          "title": "Bring insurance card and photo ID",
+          "explanation": "Needed at registration.",
+          "timing": "Immediately.",
+          "who": null,
+          "notes": null,
+          "documents": "Insurance card, ID."
+        }
+      ]
+    },
+    {
+      "name": "At Admission",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Confirm the reason for admission in your own words",
+          "explanation": "Make sure it matches what you understood from the referring doctor or ER.",
+          "timing": "At check-in.",
+          "who": "Admitting nurse or doctor.",
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Identify the main point of contact for the care team",
+          "explanation": "One family member the team should call with updates.",
+          "timing": "At admission.",
+          "who": "Nursing staff.",
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Ask when daily rounds typically happen",
+          "explanation": "This is your best window for questions each day.",
+          "timing": "Day 1.",
+          "who": "Nursing staff.",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Ongoing During the Stay",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Keep a running question list",
+          "explanation": "Add questions as they come up rather than trying to remember them.",
+          "timing": "Throughout the stay.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Ask daily: \"what's the plan for today?\"",
+          "explanation": "More useful than a general \"how are they doing.\"",
+          "timing": "Daily.",
+          "who": "Care team during rounds.",
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Watch for and mention any sudden confusion",
+          "explanation": "Hospital delirium is common and often treatable — worth flagging right away.",
+          "timing": "Throughout the stay.",
+          "who": "Nursing staff, immediately if noticed.",
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "chk-first-24-hours-after-a-death",
+  "title": "First 24 Hours After a Death Checklist",
+  "slug": "first-24-hours-after-a-death",
+  "summary": "The genuinely short list of what needs to happen right away — everything else can wait.",
+  "citationStatus": "citation_only",
+  "groups": [
+    {
+      "name": "Immediate",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Confirm the death is handled by the right authority",
+          "explanation": "Hospice, doctor, or medical examiner, depending on circumstances.",
+          "timing": "Immediately.",
+          "who": null,
+          "notes": "See \"When to Call Hospice, the Doctor, or 911 After a Death.\""
+        },
+        {
+          "id": "t2",
+          "title": "Contact a funeral home",
+          "explanation": "They'll arrange transport and schedule a longer planning meeting later.",
+          "timing": "Within hours.",
+          "who": "Funeral home.",
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Notify 2–3 of the closest family members personally",
+          "explanation": "Let them help spread the word further.",
+          "timing": "Within hours.",
+          "who": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Also Today, If Manageable",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Ask the funeral home how they handle the death certificate filing",
+          "explanation": "No need to act on this yet, just understand the process.",
+          "timing": "When ready.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Identify who will coordinate next steps",
+          "explanation": "— doesn't need to be decided today, but worth naming.",
+          "timing": "When ready.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Take care of yourself first",
+          "explanation": "Rest, food, and support matter more than any task on this list today.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

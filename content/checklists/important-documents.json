@@ -1,0 +1,105 @@
+{
+  "id": "chk-important-documents",
+  "title": "Important Documents Checklist",
+  "slug": "important-documents",
+  "summary": "Locating and organizing the documents that matter most, before they're needed urgently.",
+  "citationStatus": "citation_only",
+  "groups": [
+    {
+      "name": "Legal",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Locate power of attorney (financial and medical)",
+          "explanation": "Confirm it's durable.",
+          "timing": null,
+          "who": null,
+          "notes": null,
+          "jurisdictionNote": "POA rules vary by state — confirm validity with an elder law attorney if unsure.",
+          "documents": "POA documents."
+        },
+        {
+          "id": "t2",
+          "title": "Locate a will or trust, if one exists",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null,
+          "documents": "Will/trust."
+        },
+        {
+          "id": "t3",
+          "title": "Locate an advance directive or living will",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null,
+          "documents": "Advance directive."
+        }
+      ]
+    },
+    {
+      "name": "Financial",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "List all bank and investment accounts",
+          "explanation": "Institution, account type, roughly where statements are kept.",
+          "timing": null,
+          "who": null,
+          "notes": null,
+          "documents": "Statements or online access info."
+        },
+        {
+          "id": "t2",
+          "title": "List insurance policies",
+          "explanation": "Life, health, long-term care, home, auto.",
+          "timing": null,
+          "who": null,
+          "notes": null,
+          "documents": "Policy numbers and insurer contact info."
+        },
+        {
+          "id": "t3",
+          "title": "Note where tax returns from recent years are kept",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null,
+          "documents": "Past 2–3 years of returns, if accessible."
+        }
+      ]
+    },
+    {
+      "name": "Personal & Medical",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Locate Social Security card and number",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null,
+          "documents": "SSN card or number recorded securely."
+        },
+        {
+          "id": "t2",
+          "title": "List current medications, doctors, and diagnoses",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null,
+          "documents": "Medication and provider list."
+        },
+        {
+          "id": "t3",
+          "title": "Note the location of a safe deposit box or home safe, if any",
+          "explanation": "Including who else has access.",
+          "timing": null,
+          "who": "Bank, if a safe deposit box exists.",
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

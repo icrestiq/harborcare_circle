@@ -1,0 +1,99 @@
+{
+  "id": "chk-assisted-living-search",
+  "title": "Assisted Living Search Checklist",
+  "slug": "assisted-living-search",
+  "summary": "For touring, comparing, and choosing a community.",
+  "citationStatus": "citation_only",
+  "groups": [
+    {
+      "name": "Before Touring",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Clarify budget and funding sources",
+          "explanation": "Private funds, long-term care insurance, veterans benefits.",
+          "timing": "Before first tour.",
+          "who": null,
+          "notes": "Use the Care Cost Estimator first.",
+          "documents": "Financial summary."
+        },
+        {
+          "id": "t2",
+          "title": "List must-haves vs. nice-to-haves",
+          "explanation": "Specific care needs, location, room type, memory care unit if needed.",
+          "timing": "Before first tour.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Schedule 2–3 tours, including one during a meal",
+          "explanation": "Daily life is more visible at meals than in a lobby tour.",
+          "timing": "Within 2–3 weeks.",
+          "who": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "During Tours",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Ask about staff-to-resident ratio and turnover",
+          "explanation": "More predictive of care quality than amenities.",
+          "timing": "At each tour.",
+          "who": "Community admissions staff.",
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Ask how care plans are reassessed as needs change",
+          "explanation": "And what triggers a move to a higher (costlier) care tier.",
+          "timing": "At each tour.",
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Talk to a current resident or family member if possible",
+          "explanation": "Often more revealing than the official tour.",
+          "timing": "At each tour.",
+          "who": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Before Signing",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Get an itemized price list, not just a general quote",
+          "explanation": "Communities must provide one on request.",
+          "timing": "Before deciding.",
+          "who": null,
+          "notes": null,
+          "documents": "Itemized contract/pricing."
+        },
+        {
+          "id": "t2",
+          "title": "Read the full contract, including rate-increase and refund policies",
+          "explanation": "Have a financial advisor or elder law attorney review it if possible.",
+          "timing": "Before signing.",
+          "who": "Elder law attorney (recommended).",
+          "notes": null,
+          "jurisdictionNote": "Contract terms and state oversight of assisted living vary significantly."
+        },
+        {
+          "id": "t3",
+          "title": "Check state inspection reports for the community",
+          "explanation": "Usually available through the state licensing agency.",
+          "timing": "Before deciding.",
+          "who": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

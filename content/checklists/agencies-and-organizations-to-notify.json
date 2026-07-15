@@ -1,0 +1,105 @@
+{
+  "id": "chk-agencies-and-organizations-to-notify",
+  "title": "Agencies and Organizations to Notify Checklist",
+  "slug": "agencies-and-organizations-to-notify",
+  "summary": "The fuller notification list, spread across the following weeks — not all urgent at once.",
+  "citationStatus": "citation_only",
+  "groups": [
+    {
+      "name": "Government",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Social Security Administration",
+          "explanation": "Often reported by the funeral home — confirm it happened.",
+          "timing": null,
+          "who": "SSA.",
+          "notes": "Ask about survivor benefits and any payment that may need returning."
+        },
+        {
+          "id": "t2",
+          "title": "Department of Motor Vehicles",
+          "explanation": "To cancel or transfer a driver's license and vehicle registration.",
+          "timing": null,
+          "who": "State DMV.",
+          "notes": null,
+          "jurisdictionNote": "Process varies by state."
+        },
+        {
+          "id": "t3",
+          "title": "Veterans Affairs, if applicable",
+          "explanation": "Burial benefits, survivor pension, DIC.",
+          "timing": null,
+          "who": "VA or a Veterans Service Organization.",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Financial & Credit",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "All three major credit bureaus",
+          "explanation": "individually. Prevents identity theft via a \"deceased\" flag.",
+          "timing": null,
+          "who": "Equifax, Experian, TransUnion.",
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "Banks and credit unions",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "Insurance providers",
+          "explanation": "Life, health, auto, home — updating or claiming as appropriate.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Professional & Personal",
+      "tasks": [
+        {
+          "id": "t1",
+          "title": "Doctors' offices",
+          "explanation": "to close records and cancel appointments.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t2",
+          "title": "An accountant or financial advisor, if one existed",
+          "explanation": "",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t3",
+          "title": "An attorney of record",
+          "explanation": "who may hold original estate documents.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        },
+        {
+          "id": "t4",
+          "title": "Employer or former employer",
+          "explanation": "for any pension, final pay, or benefits.",
+          "timing": null,
+          "who": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}
