@@ -159,44 +159,51 @@ export default function HomePage() {
               alt="Preview of the HarborCare Circle app showing today's medications and upcoming appointments"
               className="w-full max-w-[240px] drop-shadow-xl mb-6"
             />
-            <h2 className="text-2xl font-heading mb-3">The HarborCare Circle App</h2>
-            <p className="text-sm text-soft-navy mb-5 leading-relaxed max-w-2xl">
-              HarborCare Circle App is a family care coordination platform designed to help families
-              stay organized, connected, and informed while caring for aging loved ones. From managing
-              appointments, medications, tasks, and important documents to navigating hospitalizations,
-              life transitions, and after-loss responsibilities, HarborCare Circle brings everything
-              together in one secure place. Our mission is to reduce stress, improve communication, and
-              help families confidently navigate caregiving and life's most important transitions —
-              together.
-            </p>
-            <p className="text-sm text-soft-navy mb-6">
-              It isn't built yet. Joining the waitlist just means we'll email you when it's ready —
-              nothing else happens, and there's no obligation.
-            </p>
-            <Link
-              href="/waitlist"
-              className="inline-block bg-connection-orange text-white font-semibold text-sm px-6 py-3 rounded-xl shadow-[0_8px_16px_-4px_rgba(255,122,33,0.5)]"
-            >
-              Join the App Waitlist
-            </Link>
           </div>
 
-          <div
-            className="bg-[#FFFDF5] rounded-sm p-6 text-sm max-w-xl mx-auto shadow-[3px_4px_12px_rgba(16,42,67,0.18)] rotate-1"
-            style={{ fontFamily: "'Kalam', cursive" }}
-          >
-            <div className="grid sm:grid-cols-3 gap-4">
-              <div className="flex gap-2.5 items-start">
-                <span className="text-care-teal font-bold text-lg leading-none">✓</span>
-                <span>Assign checklist tasks to family members</span>
-              </div>
-              <div className="flex gap-2.5 items-start">
-                <span className="text-care-teal font-bold text-lg leading-none">✓</span>
-                <span>See who's handled what, in real time</span>
-              </div>
-              <div className="flex gap-2.5 items-start">
-                <span className="text-care-teal font-bold text-lg leading-none">✓</span>
-                <span>Keep documents in one secure place</span>
+          <div className="grid md:grid-cols-[1.3fr_1fr] gap-8 items-start">
+            <div className="text-left">
+              <h2 className="text-2xl font-heading mb-3">The HarborCare Circle App</h2>
+              <p className="text-sm text-soft-navy mb-5 leading-relaxed">
+                HarborCare Circle App is a family care coordination platform designed to help families
+                stay organized, connected, and informed while caring for aging loved ones. From managing
+                appointments, medications, tasks, and important documents to navigating hospitalizations,
+                life transitions, and after-loss responsibilities, HarborCare Circle brings everything
+                together in one secure place. Our mission is to reduce stress, improve communication, and
+                help families confidently navigate caregiving and life's most important transitions —
+                together.
+              </p>
+              <p className="text-sm text-soft-navy">
+                It isn't built yet. Joining the waitlist just means we'll email you when it's ready —
+                nothing else happens, and there's no obligation.
+              </p>
+            </div>
+
+            <div className="flex flex-col items-center gap-5">
+              <Link
+                href="/waitlist"
+                className="inline-block bg-connection-orange text-white font-semibold text-sm px-6 py-3 rounded-xl shadow-[0_8px_16px_-4px_rgba(255,122,33,0.5)]"
+              >
+                Join the App Waitlist
+              </Link>
+              <div
+                className="bg-[#FFFDF5] rounded-sm p-6 text-sm shadow-[3px_4px_12px_rgba(16,42,67,0.18)] rotate-1 w-full"
+                style={{ fontFamily: "'Kalam', cursive" }}
+              >
+                <div className="space-y-3">
+                  <div className="flex gap-2.5 items-start">
+                    <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                    <span>Assign checklist tasks to family members</span>
+                  </div>
+                  <div className="flex gap-2.5 items-start">
+                    <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                    <span>See who's handled what, in real time</span>
+                  </div>
+                  <div className="flex gap-2.5 items-start">
+                    <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                    <span>Keep documents in one secure place</span>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
