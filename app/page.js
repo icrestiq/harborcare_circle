@@ -144,21 +144,29 @@ export default function HomePage() {
                 Join the App Waitlist
               </Link>
             </div>
-            <div
-              className="bg-[#FFFDF5] rounded-sm p-6 text-sm space-y-4 shadow-[3px_4px_12px_rgba(16,42,67,0.18)] rotate-1"
-              style={{ fontFamily: "'Kalam', cursive" }}
-            >
-              <div className="flex gap-2.5 items-start">
-                <span className="text-care-teal font-bold text-lg leading-none">✓</span>
-                <span>Turn any checklist into tasks assigned to specific family members</span>
-              </div>
-              <div className="flex gap-2.5 items-start">
-                <span className="text-care-teal font-bold text-lg leading-none">✓</span>
-                <span>See who's already handled what, in real time</span>
-              </div>
-              <div className="flex gap-2.5 items-start">
-                <span className="text-care-teal font-bold text-lg leading-none">✓</span>
-                <span>Keep documents and notes in one shared, secure place</span>
+            <div className="flex flex-col items-center gap-5">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src="/app-preview.png"
+                alt="Preview of the HarborCare Circle app showing today's medications and upcoming appointments"
+                className="w-full max-w-[220px] drop-shadow-xl"
+              />
+              <div
+                className="bg-[#FFFDF5] rounded-sm p-6 text-sm space-y-4 shadow-[3px_4px_12px_rgba(16,42,67,0.18)] rotate-1 w-full"
+                style={{ fontFamily: "'Kalam', cursive" }}
+              >
+                <div className="flex gap-2.5 items-start">
+                  <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                  <span>Turn any checklist into tasks assigned to specific family members</span>
+                </div>
+                <div className="flex gap-2.5 items-start">
+                  <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                  <span>See who's already handled what, in real time</span>
+                </div>
+                <div className="flex gap-2.5 items-start">
+                  <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                  <span>Keep documents and notes in one shared, secure place</span>
+                </div>
               </div>
             </div>
           </div>
