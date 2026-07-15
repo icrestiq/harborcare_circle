@@ -1,0 +1,81 @@
+{
+  "id": "roadmap-001",
+  "title": "Your Care Journey Roadmap",
+  "intro": "Every family's path looks different. Tell us what's happening right now, and we'll put together a starting roadmap — priorities, first steps, and who to involve.",
+  "prompt": "What is happening in your family right now?",
+  "stages": [
+    {
+      "id": "emerging",
+      "label": "Parent is independent, but concerns are emerging",
+      "title": "Roadmap: Getting Ahead of Emerging Concerns",
+      "sections": [
+        { "heading": "Immediate priorities", "items": ["Have an honest, low-pressure conversation with your parent", "Start noting specific changes you've observed, with dates"] },
+        { "heading": "Next 7 days", "items": ["Take the Care Readiness Assessment together if they're open to it", "Do a quick home safety walk-through"] },
+        { "heading": "Next 30 days", "items": ["Schedule a check-up with their doctor", "Start a simple family caregiving plan"] },
+        { "heading": "Documents to locate", "items": ["Power of attorney (if it exists)", "A current medication list"] },
+        { "heading": "People to involve", "items": ["Siblings or other close family", "Their primary care doctor"] }
+      ]
+    },
+    {
+      "id": "daily",
+      "label": "Parent needs daily support",
+      "title": "Roadmap: Organizing Daily Support",
+      "sections": [
+        { "heading": "Immediate priorities", "items": ["Map out what daily support is actually needed", "Identify who's currently providing it, and where the gaps are"] },
+        { "heading": "Next 7 days", "items": ["Use the Family Responsibility Planner to divide tasks", "Set up a shared calendar or list for appointments and meds"] },
+        { "heading": "Next 30 days", "items": ["Look into respite care options for the primary caregiver", "Revisit the plan once routines settle in"] },
+        { "heading": "Documents to locate", "items": ["Insurance cards and policy numbers", "Financial power of attorney"] },
+        { "heading": "People to involve", "items": ["All siblings, even distant ones", "A home care agency, if help is needed"] }
+      ]
+    },
+    {
+      "id": "hospital",
+      "label": "Loved one is currently hospitalized",
+      "title": "Roadmap: Navigating a Hospital Stay",
+      "sections": [
+        { "heading": "Immediate priorities", "items": ["Identify one point of contact for the care team", "Get a current medication list to the hospital"] },
+        { "heading": "Next 7 days", "items": ["Attend daily rounds if possible", "Start asking about the discharge plan early"] },
+        { "heading": "Next 30 days", "items": ["Prepare the home for their return", "Schedule the first follow-up appointment"] },
+        { "heading": "Documents to locate", "items": ["Health care proxy / medical POA", "Insurance information"] },
+        { "heading": "People to involve", "items": ["Hospital social worker or discharge planner", "Family members who can help post-discharge"] }
+      ]
+    },
+    {
+      "id": "assisted",
+      "label": "Family is considering assisted living",
+      "title": "Roadmap: Exploring Assisted Living",
+      "sections": [
+        { "heading": "Immediate priorities", "items": ["Clarify budget and funding sources", "List must-haves versus nice-to-haves for a community"] },
+        { "heading": "Next 7 days", "items": ["Use the Assisted Living Comparison tool", "Schedule 2–3 tours"] },
+        { "heading": "Next 30 days", "items": ["Review contracts carefully before signing", "Plan the emotional and logistical side of moving day"] },
+        { "heading": "Documents to locate", "items": ["Financial records and any long-term care insurance", "Power of attorney"] },
+        { "heading": "People to involve", "items": ["Your parent, in every decision possible", "A financial advisor or elder law attorney"] }
+      ]
+    },
+    {
+      "id": "hospice",
+      "label": "Loved one is receiving hospice care",
+      "title": "Roadmap: Hospice Care",
+      "sections": [
+        { "heading": "Immediate priorities", "items": ["Understand what hospice does and doesn't cover", "Get the 24/7 support number saved somewhere visible"] },
+        { "heading": "Next 7 days", "items": ["Ask the hospice team what to expect day-to-day", "Loop in family members who want to be involved"] },
+        { "heading": "Next 30 days", "items": ["Lean on the social worker and chaplain for support", "Take care of your own rest and wellbeing"] },
+        { "heading": "Documents to locate", "items": ["Advance directives", "Funeral or final wishes, if documented"] },
+        { "heading": "People to involve", "items": ["The hospice care team", "Close family and anyone who needs to say goodbye"] }
+      ]
+    },
+    {
+      "id": "loss",
+      "label": "A loved one recently died",
+      "title": "Roadmap: The First Steps After a Loss",
+      "sections": [
+        { "heading": "Immediate priorities", "items": ["There's no need to handle everything today", "Contact close family and the funeral home"] },
+        { "heading": "Next 7 days", "items": ["Request 10+ copies of the death certificate", "Start the After-a-Loss Task Manager"] },
+        { "heading": "Next 30 days", "items": ["Notify Social Security, banks, and insurance", "Begin gathering estate documents"] },
+        { "heading": "Documents to locate", "items": ["Will and estate documents", "Life insurance policies"] },
+        { "heading": "People to involve", "items": ["An estate attorney, if needed", "Grief support — for you, too"] }
+      ]
+    }
+  ],
+  "caveat": "This reflects one reasonable path for your situation — not the only path. Adjust anything that doesn't fit."
+}

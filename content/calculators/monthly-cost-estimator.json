@@ -1,0 +1,17 @@
+{
+  "id": "calc-001",
+  "title": "Estimated Monthly Caregiving Cost",
+  "slug": "monthly-cost-estimator",
+  "summary": "Edit any number below — this updates automatically.",
+  "citationStatus": "citation_only",
+  "fields": [
+    { "id": "hours", "label": "In-home care hours per week", "hint": "Paid help with daily tasks, companionship, or supervision", "type": "range", "min": 0, "max": 80, "default": 20, "unit": "hrs/wk" },
+    { "id": "rate", "label": "Hourly rate for care", "hint": "Varies by region and level of care needed", "type": "number", "default": 28, "unit": "$/hour" },
+    { "id": "medical", "label": "Medical supplies & equipment", "hint": "Incontinence supplies, mobility aids, medication costs", "type": "number", "default": 150, "unit": "$/month" },
+    { "id": "transport", "label": "Transportation", "hint": "Rides to appointments, gas, rideshare", "type": "number", "default": 80, "unit": "$/month" },
+    { "id": "other", "label": "Other recurring costs", "hint": "Meal delivery, home modifications, misc.", "type": "number", "default": 60, "unit": "$/month" }
+  ],
+  "formula": "(hours/week × hourly rate × 4.33 weeks) + medical + transportation + other",
+  "regionNote": "Costs vary significantly by region — these are editable starting assumptions, not fixed averages.",
+  "disclaimer": "This is a planning estimate, not financial advice, and doesn't account for insurance, Medicaid, or veterans' benefits that may offset these costs."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "assess-001",
+  "title": "Care Readiness Assessment",
+  "slug": "care-readiness-assessment",
+  "summary": "8 minutes · Results are informational, not a diagnosis",
+  "citationStatus": "citation_only",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "How often does your parent forget to take medication or misses doses?",
+      "options": ["Rarely or never", "Occasionally", "Often", "I'm not sure — no one's tracking it"]
+    },
+    {
+      "id": "q2",
+      "question": "How is your parent managing meals and groceries?",
+      "options": ["Fully independent", "Needs occasional help", "Needs regular help", "Rarely eating well or shopping"]
+    },
+    {
+      "id": "q3",
+      "question": "Has your parent had any falls or near-falls recently?",
+      "options": ["No falls", "One minor incident", "More than one incident", "A fall requiring medical attention"]
+    },
+    {
+      "id": "q4",
+      "question": "How would you describe your parent's home environment?",
+      "options": ["Safe and well-maintained", "A few small hazards", "Several safety concerns", "Feels unsafe most days"]
+    },
+    {
+      "id": "q5",
+      "question": "How connected does your parent seem day to day?",
+      "options": ["Socially active", "Somewhat withdrawn", "Mostly isolated", "Rarely leaves the house or has visitors"]
+    }
+  ],
+  "results": [
+    {
+      "maxScore": 3,
+      "badge": "Mostly Independent",
+      "title": "Your parent seems to be managing well",
+      "body": "Based on your answers, day-to-day things are largely under control right now. This is a good time to put a few light safeguards in place before anything feels urgent."
+    },
+    {
+      "maxScore": 8,
+      "badge": "Concerns Emerging",
+      "title": "You're noticing the early signs",
+      "body": "Based on your answers, your parent seems mostly independent, with a few things worth keeping an eye on. This is a great time to start a light plan, before anything feels urgent."
+    },
+    {
+      "maxScore": 999,
+      "badge": "Needs Closer Attention",
+      "title": "A few things are worth addressing soon",
+      "body": "Based on your answers, there are several areas — safety, medication, or daily support — that would benefit from more active attention in the near term."
+    }
+  ],
+  "nextSteps": [
+    "Read \"Signs a Parent May Need Help\" to understand what to watch for",
+    "Start a simple family caregiving plan while things are calm",
+    "Check back in with this assessment in a few months"
+  ],
+  "disclaimer": "This assessment is informational only and isn't a medical diagnosis. If you have urgent concerns, contact your parent's doctor."
+}
