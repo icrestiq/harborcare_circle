@@ -16,6 +16,7 @@ export default function Header() {
         </Link>
 
         <nav className="hidden md:flex gap-7 text-sm font-medium">
+          <Link href="/articles" className="text-soft-navy hover:text-kin-blue">Articles</Link>
           <Link href="/caregiving-101" className="text-soft-navy hover:text-kin-blue">Caregiving 101</Link>
           <Link href="/conditions" className="text-soft-navy hover:text-kin-blue">Conditions</Link>
           <Link href="/life-transitions" className="text-soft-navy hover:text-kin-blue">Life Transitions</Link>
@@ -24,10 +25,10 @@ export default function Header() {
         </nav>
 
         <Link
-          href="/waitlist"
+          href="/#app-waitlist"
           className="bg-connection-orange text-white text-sm font-semibold px-4 py-2 rounded-lg"
         >
-          Join Waitlist
+          Join the App Waitlist
         </Link>
       </div>
     </header>
