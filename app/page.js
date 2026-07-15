@@ -2,13 +2,19 @@ import Link from 'next/link';
 import { getAllArticles, getAllChecklists } from '../lib/content';
 
 const JOURNEY_OPTIONS = [
-  { label: 'My parent may need help', href: '/assessments/care-readiness-assessment' },
-  { label: 'We need to organize family caregiving', href: '/roadmap' },
-  { label: 'My loved one is in the hospital', href: '/checklists/hospital-admission' },
-  { label: 'We are considering assisted living', href: '/calculators/monthly-cost-estimator' },
-  { label: 'I am caring for someone with dementia', href: '/conditions/dementia' },
-  { label: 'A loved one recently passed away', href: '/roadmap?stage=loss' },
+  { label: 'My parent may need help', sub: 'Take the Care Readiness Assessment', icon: '🧭', color: 'blue', href: '/assessments/care-readiness-assessment' },
+  { label: 'We need to organize family caregiving', sub: 'Build a Care Journey Roadmap', icon: '🗺️', color: 'teal', href: '/roadmap' },
+  { label: 'My loved one is in the hospital', sub: 'Open the Hospital Admission checklist', icon: '🏥', color: 'orange', href: '/checklists/hospital-admission' },
+  { label: 'We are considering assisted living', sub: 'Estimate monthly caregiving costs', icon: '💰', color: 'blue', href: '/calculators/monthly-cost-estimator' },
+  { label: 'I am caring for someone with dementia', sub: 'Explore the Conditions hub', icon: '🧠', color: 'teal', href: '/conditions/dementia' },
+  { label: 'A loved one recently passed away', sub: 'Start the After-a-Loss roadmap', icon: '🕊️', color: 'orange', href: '/roadmap?stage=loss' },
 ];
+
+const CARD_COLORS = {
+  blue: { bg: 'bg-blue-tint', text: 'text-kin-blue' },
+  teal: { bg: 'bg-teal-tint', text: 'text-care-teal' },
+  orange: { bg: 'bg-orange-tint', text: 'text-connection-orange' },
+};
 
 export default function HomePage() {
   const articles = getAllArticles();
@@ -29,8 +35,8 @@ export default function HomePage() {
           </video>
         </div>
         <div className="absolute inset-0 -z-10 bg-gradient-to-b from-soft-navy/40 via-soft-navy/25 to-soft-navy/60" />
-        <h1 className="font-heading font-extrabold text-white text-4xl md:text-5xl leading-tight max-w-3xl mx-auto">
-          Caregiving Is Hard. <br className="hidden md:block" />
+        <h1 className="font-heading font-extrabold text-white text-3xl sm:text-4xl md:text-5xl leading-tight max-w-4xl mx-auto">
+          Caregiving Is Hard. <br />
           Staying Coordinated Shouldn&apos;t Be.
         </h1>
         <p className="text-[#DCE6EF] max-w-xl mx-auto mt-5 text-lg">
@@ -55,17 +61,26 @@ export default function HomePage() {
           Start Here
         </p>
         <h2 className="text-center text-2xl font-heading mb-9">What brings you here today?</h2>
-        <div className="grid md:grid-cols-3 gap-4">
-          {JOURNEY_OPTIONS.map((opt) => (
-            <Link
-              key={opt.label}
-              href={opt.href}
-              className="bg-white border border-[#E7E2D8] rounded-2xl p-6 text-left hover:-translate-y-0.5 hover:shadow-lg transition"
-            >
-              <span className="block w-2.5 h-2.5 rounded-full bg-care-teal mb-3" />
-              <h3 className="font-semibold text-sm">{opt.label}</h3>
-            </Link>
-          ))}
+        <div className="grid md:grid-cols-3 gap-5">
+          {JOURNEY_OPTIONS.map((opt) => {
+            const c = CARD_COLORS[opt.color];
+            return (
+              <Link
+                key={opt.label}
+                href={opt.href}
+                className="group bg-white border border-[#E7E2D8] rounded-2xl p-6 text-left hover:-translate-y-1 hover:shadow-xl hover:border-transparent transition-all duration-200"
+              >
+                <div className={`w-11 h-11 rounded-xl ${c.bg} flex items-center justify-center text-xl mb-4`}>
+                  {opt.icon}
+                </div>
+                <h3 className="font-semibold text-[15px] mb-1 leading-snug">{opt.label}</h3>
+                <p className="text-xs text-warm-gray mb-3">{opt.sub}</p>
+                <span className={`text-xs font-semibold ${c.text} inline-flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity`}>
+                  Get started <span className="group-hover:translate-x-0.5 transition-transform">→</span>
+                </span>
+              </Link>
+            );
+          })}
         </div>
       </section>
 
@@ -74,37 +89,33 @@ export default function HomePage() {
           Latest
         </p>
         <h2 className="text-center text-2xl font-heading mb-9">From the resource hub</h2>
-        <div className="grid md:grid-cols-3 gap-4">
+        <div className="grid md:grid-cols-3 gap-5">
           {articles.slice(0, 2).map((article) => (
             <Link
               key={article.slug}
               href={`/articles/${article.slug}`}
-              className="bg-white border border-[#E7E2D8] rounded-2xl overflow-hidden hover:shadow-lg transition"
+              className="group bg-white border border-[#E7E2D8] rounded-2xl p-5 hover:-translate-y-1 hover:shadow-xl hover:border-transparent transition-all duration-200"
             >
-              <div className="h-20 bg-blue-tint flex items-center justify-center text-3xl">📄</div>
-              <div className="p-4">
-                <span className="inline-block text-xs font-semibold bg-teal-tint text-[#00838F] px-2 py-0.5 rounded-full mb-2">
-                  {article.category}
-                </span>
-                <h4 className="font-semibold text-sm mb-1">{article.title}</h4>
-                <p className="text-xs text-warm-gray">{article.readingTimeMinutes} min read</p>
-              </div>
+              <div className="w-10 h-10 rounded-lg bg-blue-tint flex items-center justify-center text-lg mb-4">📄</div>
+              <span className="inline-block text-xs font-semibold bg-teal-tint text-[#00838F] px-2 py-0.5 rounded-full mb-2">
+                {article.category}
+              </span>
+              <h4 className="font-semibold text-sm mb-1.5 leading-snug">{article.title}</h4>
+              <p className="text-xs text-warm-gray">{article.readingTimeMinutes} min read</p>
             </Link>
           ))}
           {checklists.slice(0, 1).map((checklist) => (
             <Link
               key={checklist.slug}
               href={`/checklists/${checklist.slug}`}
-              className="bg-white border border-[#E7E2D8] rounded-2xl overflow-hidden hover:shadow-lg transition"
+              className="group bg-white border border-[#E7E2D8] rounded-2xl p-5 hover:-translate-y-1 hover:shadow-xl hover:border-transparent transition-all duration-200"
             >
-              <div className="h-20 bg-orange-tint flex items-center justify-center text-3xl">✅</div>
-              <div className="p-4">
-                <span className="inline-block text-xs font-semibold bg-orange-tint text-[#B15300] px-2 py-0.5 rounded-full mb-2">
-                  Checklist
-                </span>
-                <h4 className="font-semibold text-sm mb-1">{checklist.title}</h4>
-                <p className="text-xs text-warm-gray">{checklist.groups.reduce((n, g) => n + g.tasks.length, 0)} tasks · Printable</p>
-              </div>
+              <div className="w-10 h-10 rounded-lg bg-orange-tint flex items-center justify-center text-lg mb-4">✅</div>
+              <span className="inline-block text-xs font-semibold bg-orange-tint text-[#B15300] px-2 py-0.5 rounded-full mb-2">
+                Checklist
+              </span>
+              <h4 className="font-semibold text-sm mb-1.5 leading-snug">{checklist.title}</h4>
+              <p className="text-xs text-warm-gray">{checklist.groups.reduce((n, g) => n + g.tasks.length, 0)} tasks · Printable</p>
             </Link>
           ))}
         </div>
@@ -120,57 +131,59 @@ export default function HomePage() {
 
       <section id="app-waitlist" className="max-w-6xl mx-auto px-6 pb-16 scroll-mt-24">
         <div className="bg-blue-tint rounded-2xl p-6 md:p-10 shadow-[0_20px_45px_-15px_rgba(16,42,67,0.35)] border border-white/60">
-          <div className="grid md:grid-cols-[1.2fr_1fr] gap-8 items-center">
-            <div>
-              <span className="inline-block bg-orange-tint text-[#B15300] text-xs font-semibold px-3 py-1 rounded-full mb-3">
-                Coming Soon
-              </span>
-              <h2 className="text-2xl font-heading mb-3">The HarborCare Circle App</h2>
-              <p className="text-sm text-soft-navy mb-3 leading-relaxed">
-                This website's articles, checklists, and tools are free and always will be. The
-                HarborCare Circle app is a separate, future product that turns this same content into
-                something families can actually coordinate together — assigning checklist tasks to
-                specific family members, tracking who's already handled what in real time, and keeping
-                a shared record instead of scattered texts and sticky notes.
-              </p>
-              <p className="text-sm text-soft-navy mb-5 leading-relaxed">
-                It isn't built yet. Joining the waitlist just means we'll email you when it's ready —
-                nothing else happens, and there's no obligation.
-              </p>
-              <Link
-                href="/waitlist"
-                className="inline-block bg-connection-orange text-white font-semibold text-sm px-6 py-3 rounded-xl shadow-[0_8px_16px_-4px_rgba(255,122,33,0.5)]"
-              >
-                Join the App Waitlist
-              </Link>
-            </div>
-            <div className="flex flex-col items-center gap-5">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                src="/app-preview.png"
-                alt="Preview of the HarborCare Circle app showing today's medications and upcoming appointments"
-                className="w-full max-w-[220px] drop-shadow-xl"
-              />
-              <div
-                className="bg-[#FFFDF5] rounded-sm p-6 text-sm space-y-4 shadow-[3px_4px_12px_rgba(16,42,67,0.18)] rotate-1 w-full"
-                style={{ fontFamily: "'Kalam', cursive" }}
-              >
-                <div className="flex gap-2.5 items-start">
-                  <span className="text-care-teal font-bold text-lg leading-none">✓</span>
-                  <span>Turn any checklist into tasks assigned to specific family members</span>
-                </div>
-                <div className="flex gap-2.5 items-start">
-                  <span className="text-care-teal font-bold text-lg leading-none">✓</span>
-                  <span>See who's already handled what, in real time</span>
-                </div>
-                <div className="flex gap-2.5 items-start">
-                  <span className="text-care-teal font-bold text-lg leading-none">✓</span>
-                  <span>Keep documents and notes in one shared, secure place</span>
-                </div>
+          <div className="flex flex-col items-center text-center mb-8">
+            <span className="inline-block bg-orange-tint text-[#B15300] text-xs font-semibold px-3 py-1 rounded-full mb-5">
+              Coming Soon
+            </span>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src="/app-preview.png"
+              alt="Preview of the HarborCare Circle app showing today's medications and upcoming appointments"
+              className="w-full max-w-[240px] drop-shadow-xl mb-6"
+            />
+            <h2 className="text-2xl font-heading mb-3">The HarborCare Circle App</h2>
+            <p className="text-sm text-soft-navy mb-5 leading-relaxed max-w-2xl">
+              HarborCare Circle App is a family care coordination platform designed to help families
+              stay organized, connected, and informed while caring for aging loved ones. From managing
+              appointments, medications, tasks, and important documents to navigating hospitalizations,
+              life transitions, and after-loss responsibilities, HarborCare Circle brings everything
+              together in one secure place. Our mission is to reduce stress, improve communication, and
+              help families confidently navigate caregiving and life's most important transitions —
+              together.
+            </p>
+            <p className="text-sm text-soft-navy mb-6">
+              It isn't built yet. Joining the waitlist just means we'll email you when it's ready —
+              nothing else happens, and there's no obligation.
+            </p>
+            <Link
+              href="/waitlist"
+              className="inline-block bg-connection-orange text-white font-semibold text-sm px-6 py-3 rounded-xl shadow-[0_8px_16px_-4px_rgba(255,122,33,0.5)]"
+            >
+              Join the App Waitlist
+            </Link>
+          </div>
+
+          <div
+            className="bg-[#FFFDF5] rounded-sm p-6 text-sm max-w-xl mx-auto shadow-[3px_4px_12px_rgba(16,42,67,0.18)] rotate-1"
+            style={{ fontFamily: "'Kalam', cursive" }}
+          >
+            <div className="grid sm:grid-cols-3 gap-4">
+              <div className="flex gap-2.5 items-start">
+                <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                <span>Assign checklist tasks to family members</span>
+              </div>
+              <div className="flex gap-2.5 items-start">
+                <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                <span>See who's handled what, in real time</span>
+              </div>
+              <div className="flex gap-2.5 items-start">
+                <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                <span>Keep documents in one secure place</span>
               </div>
             </div>
           </div>
         </div>
+
       </section>
 
 
