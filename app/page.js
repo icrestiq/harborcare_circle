@@ -119,42 +119,47 @@ export default function HomePage() {
       </section>
 
       <section id="app-waitlist" className="max-w-6xl mx-auto px-6 pb-16 scroll-mt-24">
-        <div className="bg-blue-tint rounded-2xl p-10 grid md:grid-cols-[1.2fr_1fr] gap-8 items-center">
-          <div>
-            <span className="inline-block bg-white text-kin-blue text-xs font-semibold px-3 py-1 rounded-full mb-3">
-              Coming Later
-            </span>
-            <h2 className="text-2xl font-heading mb-3">The HarborCare Circle App</h2>
-            <p className="text-sm text-soft-navy mb-3 leading-relaxed">
-              This website's articles, checklists, and tools are free and always will be. The
-              HarborCare Circle app is a separate, future product that turns this same content into
-              something families can actually coordinate together — assigning checklist tasks to
-              specific family members, tracking who's already handled what in real time, and keeping
-              a shared record instead of scattered texts and sticky notes.
-            </p>
-            <p className="text-sm text-soft-navy mb-5 leading-relaxed">
-              It isn't built yet. Joining the waitlist just means we'll email you when it's ready —
-              nothing else happens, and there's no obligation.
-            </p>
-            <Link
-              href="/waitlist"
-              className="inline-block bg-connection-orange text-white font-semibold text-sm px-6 py-3 rounded-xl"
+        <div className="bg-blue-tint rounded-2xl p-6 md:p-10 shadow-[0_20px_45px_-15px_rgba(16,42,67,0.35)] border border-white/60">
+          <div className="grid md:grid-cols-[1.2fr_1fr] gap-8 items-center">
+            <div>
+              <span className="inline-block bg-orange-tint text-[#B15300] text-xs font-semibold px-3 py-1 rounded-full mb-3">
+                Coming Soon
+              </span>
+              <h2 className="text-2xl font-heading mb-3">The HarborCare Circle App</h2>
+              <p className="text-sm text-soft-navy mb-3 leading-relaxed">
+                This website's articles, checklists, and tools are free and always will be. The
+                HarborCare Circle app is a separate, future product that turns this same content into
+                something families can actually coordinate together — assigning checklist tasks to
+                specific family members, tracking who's already handled what in real time, and keeping
+                a shared record instead of scattered texts and sticky notes.
+              </p>
+              <p className="text-sm text-soft-navy mb-5 leading-relaxed">
+                It isn't built yet. Joining the waitlist just means we'll email you when it's ready —
+                nothing else happens, and there's no obligation.
+              </p>
+              <Link
+                href="/waitlist"
+                className="inline-block bg-connection-orange text-white font-semibold text-sm px-6 py-3 rounded-xl shadow-[0_8px_16px_-4px_rgba(255,122,33,0.5)]"
+              >
+                Join the App Waitlist
+              </Link>
+            </div>
+            <div
+              className="bg-[#FFFDF5] rounded-sm p-6 text-sm space-y-4 shadow-[3px_4px_12px_rgba(16,42,67,0.18)] rotate-1"
+              style={{ fontFamily: "'Kalam', cursive" }}
             >
-              Join the App Waitlist
-            </Link>
-          </div>
-          <div className="bg-white rounded-xl p-6 text-sm space-y-3">
-            <div className="flex gap-2 items-start">
-              <span>✅</span>
-              <span>Turn any checklist into tasks assigned to specific family members</span>
-            </div>
-            <div className="flex gap-2 items-start">
-              <span>👀</span>
-              <span>See who's already handled what, in real time</span>
-            </div>
-            <div className="flex gap-2 items-start">
-              <span>📁</span>
-              <span>Keep documents and notes in one shared, secure place</span>
+              <div className="flex gap-2.5 items-start">
+                <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                <span>Turn any checklist into tasks assigned to specific family members</span>
+              </div>
+              <div className="flex gap-2.5 items-start">
+                <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                <span>See who's already handled what, in real time</span>
+              </div>
+              <div className="flex gap-2.5 items-start">
+                <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                <span>Keep documents and notes in one shared, secure place</span>
+              </div>
             </div>
           </div>
         </div>
