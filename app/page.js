@@ -75,7 +75,7 @@ export default function HomePage() {
         </p>
         <h2 className="text-center text-2xl font-heading mb-9">From the resource hub</h2>
         <div className="grid md:grid-cols-3 gap-4">
-          {articles.map((article) => (
+          {articles.slice(0, 2).map((article) => (
             <Link
               key={article.slug}
               href={`/articles/${article.slug}`}
@@ -91,7 +91,7 @@ export default function HomePage() {
               </div>
             </Link>
           ))}
-          {checklists.map((checklist) => (
+          {checklists.slice(0, 1).map((checklist) => (
             <Link
               key={checklist.slug}
               href={`/checklists/${checklist.slug}`}
@@ -107,6 +107,14 @@ export default function HomePage() {
               </div>
             </Link>
           ))}
+        </div>
+        <div className="flex justify-center gap-6 mt-8">
+          <Link href="/articles" className="text-sm font-semibold text-kin-blue underline">
+            See all {articles.length} articles →
+          </Link>
+          <Link href="/checklists" className="text-sm font-semibold text-kin-blue underline">
+            See all {checklists.length} checklists →
+          </Link>
         </div>
       </section>
 
