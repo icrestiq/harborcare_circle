@@ -17,7 +17,17 @@ export default function HomePage() {
   return (
     <>
       <section className="relative isolate overflow-hidden text-center px-6 pt-24 pb-20">
-        <div className="absolute inset-0 -z-10 bg-soft-navy" />
+        <div className="absolute inset-0 -z-20 overflow-hidden bg-soft-navy">
+          <video
+            autoPlay
+            muted
+            loop
+            playsInline
+            className="absolute top-1/2 left-1/2 min-w-full min-h-full w-auto h-auto -translate-x-1/2 -translate-y-1/2 object-cover"
+          >
+            <source src="/hero-video.mp4" type="video/mp4" />
+          </video>
+        </div>
         <div className="absolute inset-0 -z-10 bg-gradient-to-b from-soft-navy/40 via-soft-navy/25 to-soft-navy/60" />
         <h1 className="font-heading font-extrabold text-white text-4xl md:text-5xl leading-tight max-w-3xl mx-auto">
           Caregiving Is Hard. <br className="hidden md:block" />
@@ -71,7 +81,7 @@ export default function HomePage() {
               href={`/articles/${article.slug}`}
               className="bg-white border border-[#E7E2D8] rounded-2xl overflow-hidden hover:shadow-lg transition"
             >
-              <div className="h-20 bg-blue-tint" />
+              <div className="h-20 bg-blue-tint flex items-center justify-center text-3xl">📄</div>
               <div className="p-4">
                 <span className="inline-block text-xs font-semibold bg-teal-tint text-[#00838F] px-2 py-0.5 rounded-full mb-2">
                   {article.category}
@@ -87,7 +97,7 @@ export default function HomePage() {
               href={`/checklists/${checklist.slug}`}
               className="bg-white border border-[#E7E2D8] rounded-2xl overflow-hidden hover:shadow-lg transition"
             >
-              <div className="h-20 bg-orange-tint" />
+              <div className="h-20 bg-orange-tint flex items-center justify-center text-3xl">✅</div>
               <div className="p-4">
                 <span className="inline-block text-xs font-semibold bg-orange-tint text-[#B15300] px-2 py-0.5 rounded-full mb-2">
                   Checklist
