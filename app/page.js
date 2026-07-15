@@ -1,19 +1,20 @@
 import Link from 'next/link';
+import { Compass, Map, Building2, Wallet, Brain, HeartHandshake, FileText, ListChecks } from 'lucide-react';
 import { getAllArticles, getAllChecklists } from '../lib/content';
 
 const JOURNEY_OPTIONS = [
-  { label: 'My parent may need help', sub: 'Take the Care Readiness Assessment', icon: '🧭', color: 'blue', href: '/assessments/care-readiness-assessment' },
-  { label: 'We need to organize family caregiving', sub: 'Build a Care Journey Roadmap', icon: '🗺️', color: 'teal', href: '/roadmap' },
-  { label: 'My loved one is in the hospital', sub: 'Open the Hospital Admission checklist', icon: '🏥', color: 'orange', href: '/checklists/hospital-admission' },
-  { label: 'We are considering assisted living', sub: 'Estimate monthly caregiving costs', icon: '💰', color: 'blue', href: '/calculators/monthly-cost-estimator' },
-  { label: 'I am caring for someone with dementia', sub: 'Explore the Conditions hub', icon: '🧠', color: 'teal', href: '/conditions/dementia' },
-  { label: 'A loved one recently passed away', sub: 'Start the After-a-Loss roadmap', icon: '🕊️', color: 'orange', href: '/roadmap?stage=loss' },
+  { label: 'My parent may need help', sub: 'Take the Care Readiness Assessment', Icon: Compass, illustration: 'instant_support_elxh', color: 'blue', href: '/assessments/care-readiness-assessment' },
+  { label: 'We need to organize family caregiving', sub: 'Build a Care Journey Roadmap', Icon: Map, illustration: 'time_management_30iu', color: 'teal', href: '/roadmap' },
+  { label: 'My loved one is in the hospital', sub: 'Open the Hospital Admission checklist', Icon: Building2, illustration: 'doctors_hwty', color: 'orange', href: '/checklists/hospital-admission' },
+  { label: 'We are considering assisted living', sub: 'Estimate monthly caregiving costs', Icon: Wallet, illustration: 'house_searching_n8mp', color: 'blue', href: '/calculators/monthly-cost-estimator' },
+  { label: 'I am caring for someone with dementia', sub: 'Explore the Conditions hub', Icon: Brain, illustration: 'mindfulness_scgo', color: 'teal', href: '/conditions/dementia' },
+  { label: 'A loved one recently passed away', sub: 'Start the After-a-Loss roadmap', Icon: HeartHandshake, illustration: 'together_j0gj', color: 'orange', href: '/roadmap?stage=loss' },
 ];
 
 const CARD_COLORS = {
-  blue: { bg: 'bg-blue-tint', text: 'text-kin-blue' },
-  teal: { bg: 'bg-teal-tint', text: 'text-care-teal' },
-  orange: { bg: 'bg-orange-tint', text: 'text-connection-orange' },
+  blue: { bg: 'bg-blue-tint', text: 'text-kin-blue', border: 'border-t-kin-blue' },
+  teal: { bg: 'bg-teal-tint', text: 'text-care-teal', border: 'border-t-care-teal' },
+  orange: { bg: 'bg-orange-tint', text: 'text-connection-orange', border: 'border-t-connection-orange' },
 };
 
 export default function HomePage() {
@@ -64,20 +65,25 @@ export default function HomePage() {
         <div className="grid md:grid-cols-3 gap-5">
           {JOURNEY_OPTIONS.map((opt) => {
             const c = CARD_COLORS[opt.color];
+            const { Icon } = opt;
             return (
               <Link
                 key={opt.label}
                 href={opt.href}
-                className="group bg-white border border-[#E7E2D8] rounded-2xl p-6 text-left hover:-translate-y-1 hover:shadow-xl hover:border-transparent transition-all duration-200"
+                className={`group bg-white border border-[#E7E2D8] border-t-4 ${c.border} rounded-2xl overflow-hidden hover:-translate-y-1 hover:shadow-xl transition-all duration-200`}
               >
-                <div className={`w-11 h-11 rounded-xl ${c.bg} flex items-center justify-center text-xl mb-4`}>
-                  {opt.icon}
+                <div className={`h-28 ${c.bg} flex items-center justify-center`}>
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src={`/illustrations/${opt.illustration}.svg`} alt="" className="h-24" />
                 </div>
-                <h3 className="font-semibold text-[15px] mb-1 leading-snug">{opt.label}</h3>
-                <p className="text-xs text-warm-gray mb-3">{opt.sub}</p>
-                <span className={`text-xs font-semibold ${c.text} inline-flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity`}>
-                  Get started <span className="group-hover:translate-x-0.5 transition-transform">→</span>
-                </span>
+                <div className="p-5">
+                  <Icon className={`w-5 h-5 ${c.text} mb-3`} strokeWidth={2} />
+                  <h3 className="font-semibold text-[15px] mb-1 leading-snug">{opt.label}</h3>
+                  <p className="text-xs text-warm-gray mb-3">{opt.sub}</p>
+                  <span className={`text-xs font-semibold ${c.text} inline-flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity`}>
+                    Get started <span className="group-hover:translate-x-0.5 transition-transform">→</span>
+                  </span>
+                </div>
               </Link>
             );
           })}
@@ -94,28 +100,40 @@ export default function HomePage() {
             <Link
               key={article.slug}
               href={`/articles/${article.slug}`}
-              className="group bg-white border border-[#E7E2D8] rounded-2xl p-5 hover:-translate-y-1 hover:shadow-xl hover:border-transparent transition-all duration-200"
+              className="group bg-white border border-[#E7E2D8] border-t-4 border-t-kin-blue rounded-2xl overflow-hidden hover:-translate-y-1 hover:shadow-xl transition-all duration-200"
             >
-              <div className="w-10 h-10 rounded-lg bg-blue-tint flex items-center justify-center text-lg mb-4">📄</div>
-              <span className="inline-block text-xs font-semibold bg-teal-tint text-[#00838F] px-2 py-0.5 rounded-full mb-2">
-                {article.category}
-              </span>
-              <h4 className="font-semibold text-sm mb-1.5 leading-snug">{article.title}</h4>
-              <p className="text-xs text-warm-gray">{article.readingTimeMinutes} min read</p>
+              <div className="h-24 bg-blue-tint flex items-center justify-center">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src="/illustrations/notes1_cf55.svg" alt="" className="h-20" />
+              </div>
+              <div className="p-5">
+                <FileText className="w-4 h-4 text-kin-blue mb-2" strokeWidth={2} />
+                <span className="inline-block text-xs font-semibold bg-teal-tint text-[#00838F] px-2 py-0.5 rounded-full mb-2">
+                  {article.category}
+                </span>
+                <h4 className="font-semibold text-sm mb-1.5 leading-snug">{article.title}</h4>
+                <p className="text-xs text-warm-gray">{article.readingTimeMinutes} min read</p>
+              </div>
             </Link>
           ))}
           {checklists.slice(0, 1).map((checklist) => (
             <Link
               key={checklist.slug}
               href={`/checklists/${checklist.slug}`}
-              className="group bg-white border border-[#E7E2D8] rounded-2xl p-5 hover:-translate-y-1 hover:shadow-xl hover:border-transparent transition-all duration-200"
+              className="group bg-white border border-[#E7E2D8] border-t-4 border-t-connection-orange rounded-2xl overflow-hidden hover:-translate-y-1 hover:shadow-xl transition-all duration-200"
             >
-              <div className="w-10 h-10 rounded-lg bg-orange-tint flex items-center justify-center text-lg mb-4">✅</div>
-              <span className="inline-block text-xs font-semibold bg-orange-tint text-[#B15300] px-2 py-0.5 rounded-full mb-2">
-                Checklist
-              </span>
-              <h4 className="font-semibold text-sm mb-1.5 leading-snug">{checklist.title}</h4>
-              <p className="text-xs text-warm-gray">{checklist.groups.reduce((n, g) => n + g.tasks.length, 0)} tasks · Printable</p>
+              <div className="h-24 bg-orange-tint flex items-center justify-center">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src="/illustrations/checklist_7q37.svg" alt="" className="h-20" />
+              </div>
+              <div className="p-5">
+                <ListChecks className="w-4 h-4 text-connection-orange mb-2" strokeWidth={2} />
+                <span className="inline-block text-xs font-semibold bg-orange-tint text-[#B15300] px-2 py-0.5 rounded-full mb-2">
+                  Checklist
+                </span>
+                <h4 className="font-semibold text-sm mb-1.5 leading-snug">{checklist.title}</h4>
+                <p className="text-xs text-warm-gray">{checklist.groups.reduce((n, g) => n + g.tasks.length, 0)} tasks · Printable</p>
+              </div>
             </Link>
           ))}
         </div>
