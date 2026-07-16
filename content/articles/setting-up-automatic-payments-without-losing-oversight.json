@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "Setting up autopay for the essentials — utilities, insurance, housing costs — removes one of the more common and stressful failure points in caregiving: a missed payment leading to a service shutoff or late fee.",
+        "Setting up autopay for the essentials \u2014 utilities, insurance, housing costs \u2014 removes one of the more common and stressful failure points in caregiving: a missed payment leading to a service shutoff or late fee.",
         "Pairing automation with account alerts for large or unusual transactions, and a simple monthly review of statements, keeps enough oversight in place to catch billing errors, fraud, or unexpected changes without requiring constant manual tracking."
       ]
     }
@@ -46,7 +46,7 @@
     },
     {
       "name": "Consumer Financial Protection Bureau",
-      "url": null
+      "url": "https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/"
     }
   ],
   "id": "art-070",

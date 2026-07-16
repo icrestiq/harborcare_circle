@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "A full picture includes more than the obvious checking and savings accounts — pensions, Social Security, investment accounts, life insurance policies, long-term care insurance, debts, and property all factor into future planning and current decision-making.",
-        "It's common to discover accounts or policies a parent had forgotten about themselves, especially older ones — going through mail, tax returns, and old paperwork together is often more revealing than a single conversation."
+        "A full picture includes more than the obvious checking and savings accounts \u2014 pensions, Social Security, investment accounts, life insurance policies, long-term care insurance, debts, and property all factor into future planning and current decision-making.",
+        "It's common to discover accounts or policies a parent had forgotten about themselves, especially older ones \u2014 going through mail, tax returns, and old paperwork together is often more revealing than a single conversation."
       ]
     }
   ],
@@ -38,7 +38,7 @@
     "Revisit the picture periodically, since it changes over time."
   ],
   "relatedTool": null,
-  "disclaimer": "General organizational guidance, not financial advice — a financial advisor can help interpret the fuller picture once it's assembled.",
+  "disclaimer": "General organizational guidance, not financial advice \u2014 a financial advisor can help interpret the fuller picture once it's assembled.",
   "sources": [
     {
       "name": "Managing Someone Else's Money",
@@ -46,7 +46,7 @@
     },
     {
       "name": "Consumer Financial Protection Bureau",
-      "url": null
+      "url": "https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/"
     }
   ],
   "id": "art-073",

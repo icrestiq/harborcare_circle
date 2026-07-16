@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "The first real task is simply building a complete list — every account, due date, and amount — often pieced together from mail, bank statements, and direct conversation, since no single source usually has the full picture.",
+        "The first real task is simply building a complete list \u2014 every account, due date, and amount \u2014 often pieced together from mail, bank statements, and direct conversation, since no single source usually has the full picture.",
         "Where your parent is able to participate, involving them in this process (rather than quietly taking over) tends to preserve dignity and often surfaces accounts or details a family member wouldn't otherwise know about."
       ]
     }
@@ -38,7 +38,7 @@
     "Involve your parent directly wherever they're able to participate."
   ],
   "relatedTool": null,
-  "disclaimer": "General organizational guidance, not financial advice — a financial advisor can help set up an ongoing system for more complex situations.",
+  "disclaimer": "General organizational guidance, not financial advice \u2014 a financial advisor can help set up an ongoing system for more complex situations.",
   "sources": [
     {
       "name": "Managing Someone Else's Money",
@@ -46,7 +46,7 @@
     },
     {
       "name": "Consumer Financial Protection Bureau",
-      "url": null
+      "url": "https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/"
     }
   ],
   "id": "art-069",

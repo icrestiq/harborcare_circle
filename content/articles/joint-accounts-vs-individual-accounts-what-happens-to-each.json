@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "Most joint bank accounts include automatic \"rights of survivorship,\" meaning the funds pass directly to the surviving joint owner without probate — a notification and death certificate are usually all that's needed.",
+        "Most joint bank accounts include automatic \"rights of survivorship,\" meaning the funds pass directly to the surviving joint owner without probate \u2014 a notification and death certificate are usually all that's needed.",
         "Individual accounts without a named beneficiary typically become part of the estate and may go through probate, which can take months. However, accounts with a \"payable on death\" (POD) or \"transfer on death\" (TOD) designation bypass this, passing directly to the named person."
       ]
     }
@@ -38,11 +38,11 @@
     "Consider adding POD/TOD designations to other accounts going forward, where appropriate."
   ],
   "relatedTool": null,
-  "disclaimer": "General information, not legal advice — an estate attorney can clarify specific account treatment under your state's law.",
+  "disclaimer": "General information, not legal advice \u2014 an estate attorney can clarify specific account treatment under your state's law.",
   "sources": [
     {
       "name": "Consumer Financial Protection Bureau",
-      "url": null
+      "url": "https://www.consumerfinance.gov/ask-cfpb/what-happens-if-i-have-a-joint-bank-account-with-someone-who-died-en-1101/"
     }
   ],
   "id": "art-131",

@@ -18,7 +18,7 @@
   "metaDescription": "Scams targeting older adults are common, often sophisticated, and worth understanding well before they show up.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
-    "Urgency and secrecy are the two most common scam tactics — legitimate requests rarely demand both at once.",
+    "Urgency and secrecy are the two most common scam tactics \u2014 legitimate requests rarely demand both at once.",
     "Common scams involve fake grandchildren, government impersonation, and romance schemes.",
     "A \"let me call you back\" habit stops most scams cold."
   ],
@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "Scammers routinely rely on urgency (\"act now\") and secrecy (\"don't tell your family\") — a combination that legitimate businesses, government agencies, or family members almost never actually need. Recognizing that pattern alone stops a large share of attempts.",
+        "Scammers routinely rely on urgency (\"act now\") and secrecy (\"don't tell your family\") \u2014 a combination that legitimate businesses, government agencies, or family members almost never actually need. Recognizing that pattern alone stops a large share of attempts.",
         "Common scripts include a call claiming to be a grandchild in trouble needing money urgently, a supposed government agency threatening arrest over unpaid taxes, or a romantic relationship that eventually asks for money. Establishing a habit of \"let me call you back\" before acting on any financial request defeats nearly all of these."
       ]
     }
@@ -38,7 +38,7 @@
     "Consider a bank alert for large or unusual withdrawals."
   ],
   "relatedTool": null,
-  "disclaimer": "General awareness guidance — report suspected fraud to the FTC or local authorities.",
+  "disclaimer": "General awareness guidance \u2014 report suspected fraud to the FTC or local authorities.",
   "sources": [
     {
       "name": "Protecting Older Adults from Fraud and Financial Exploitation",
@@ -46,7 +46,7 @@
     },
     {
       "name": "Consumer Financial Protection Bureau",
-      "url": null
+      "url": "https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/protecting-against-fraud/"
     }
   ],
   "id": "art-071",

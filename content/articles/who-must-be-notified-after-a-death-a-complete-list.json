@@ -28,7 +28,7 @@
       "heading": null,
       "paragraphs": [
         "The full list typically includes Social Security, the DMV, banks and credit card companies, insurance providers (life, health, auto, home), employers or former employers, and any professional contacts like doctors or accountants. Utilities and subscriptions round out the list.",
-        "Spreading this across several weeks, rather than trying to notify everyone in the first days, is both realistic and reasonable — most institutions have no urgency on their end, even if it feels like there should be."
+        "Spreading this across several weeks, rather than trying to notify everyone in the first days, is both realistic and reasonable \u2014 most institutions have no urgency on their end, even if it feels like there should be."
       ]
     }
   ],
@@ -38,11 +38,11 @@
     "Check off each notification as it's completed, noting confirmation numbers."
   ],
   "relatedTool": null,
-  "disclaimer": "General organizational guidance — specific notification requirements can vary by state and institution.",
+  "disclaimer": "General organizational guidance \u2014 specific notification requirements can vary by state and institution.",
   "sources": [
     {
-      "name": "Consumer Financial Protection Bureau",
-      "url": null
+      "name": "CFPB: Taking Control of Your Finances (Financial Checklist for Survivors)",
+      "url": "https://files.consumerfinance.gov/f/documents/cfpb_surviving-spouse_booklet.pdf"
     }
   ],
   "id": "art-113",

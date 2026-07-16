@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Confusion between family members about who's tracking what is one of the most common breakdowns in shared financial caregiving — a single, shared source of truth (even a well-organized shared folder) prevents most of it.",
-        "Balancing accessibility with security matters here — not everyone needs access to everything, and it's worth being thoughtful about who can see or act on which accounts, particularly for financial ones."
+        "Confusion between family members about who's tracking what is one of the most common breakdowns in shared financial caregiving \u2014 a single, shared source of truth (even a well-organized shared folder) prevents most of it.",
+        "Balancing accessibility with security matters here \u2014 not everyone needs access to everything, and it's worth being thoughtful about who can see or act on which accounts, particularly for financial ones."
       ]
     }
   ],
@@ -46,7 +46,7 @@
     },
     {
       "name": "Consumer Financial Protection Bureau",
-      "url": null
+      "url": "https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/"
     }
   ],
   "id": "art-072",
