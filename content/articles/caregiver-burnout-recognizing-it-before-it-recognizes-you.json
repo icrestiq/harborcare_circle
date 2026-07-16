@@ -1,7 +1,7 @@
 {
   "title": "Caregiver Burnout: Recognizing It Before It Recognizes You",
   "slug": "caregiver-burnout-recognizing-it-before-it-recognizes-you",
-  "summary": "Burnout tends to arrive quietly, building for weeks before it's obvious — knowing the early signs helps you catch it sooner.",
+  "summary": "Burnout tends to arrive quietly, building for weeks before it's obvious \u2014 knowing the early signs helps you catch it sooner.",
   "category": "Caregiving 101",
   "subcategory": "Daily Support",
   "tags": [],
@@ -15,12 +15,12 @@
   "lastUpdated": "2026-07-15",
   "readingTimeMinutes": 2,
   "seoTitle": "Caregiver Burnout: Recognizing It Before It Recognizes You | HarborCare Circle",
-  "metaDescription": "Burnout tends to arrive quietly, building for weeks before it's obvious — knowing the early signs helps you catch it sooner.",
+  "metaDescription": "Burnout tends to arrive quietly, building for weeks before it's obvious \u2014 knowing the early signs helps you catch it sooner.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Exhaustion that doesn't improve with rest is a stronger signal than a single hard day.",
     "Irritability and loss of patience are common early signs, not just tiredness.",
-    "Burnout is a sign the current setup isn't sustainable — not a personal failing."
+    "Burnout is a sign the current setup isn't sustainable \u2014 not a personal failing."
   ],
   "tableOfContents": [],
   "body": [
@@ -28,8 +28,8 @@
       "heading": null,
       "paragraphs": [
         "A single hard day is a normal part of caregiving. A pattern of exhaustion that doesn't improve with a weekend off, or that's present even on lighter days, is a different and more concerning signal worth taking seriously.",
-        "Increased irritability, shorter patience, and a sense of resentment — even toward someone you love and want to help — are common early signs of burnout, not evidence of being a bad caregiver. These feelings are data about the situation, not a character flaw.",
-        "It's worth stating plainly: burnout usually means the current arrangement isn't sustainable, not that the caregiver is failing. The fix is more often a change to the situation — more support, more rest, a different division of labor — than trying to push through with willpower alone."
+        "Increased irritability, shorter patience, and a sense of resentment \u2014 even toward someone you love and want to help \u2014 are common early signs of burnout, not evidence of being a bad caregiver. These feelings are data about the situation, not a character flaw.",
+        "It's worth stating plainly: burnout usually means the current arrangement isn't sustainable, not that the caregiver is failing. The fix is more often a change to the situation \u2014 more support, more rest, a different division of labor \u2014 than trying to push through with willpower alone."
       ]
     }
   ],
@@ -38,8 +38,12 @@
     "Name specifically what's become unsustainable, not just \"everything.\"",
     "Ask for concrete help with one specific task this week."
   ],
-  "relatedTool": null,
-  "disclaimer": "If burnout feels severe or you're having thoughts of harming yourself, please reach out to a doctor, therapist, or crisis line — this article is general information, not a substitute for support.",
+  "relatedTool": {
+    "name": "Take the Caregiver Stress Self-Check",
+    "slug": "caregiver-stress-self-check",
+    "type": "assessment"
+  },
+  "disclaimer": "If burnout feels severe or you're having thoughts of harming yourself, please reach out to a doctor, therapist, or crisis line \u2014 this article is general information, not a substitute for support.",
   "sources": [
     {
       "name": "Family Caregiver Alliance",

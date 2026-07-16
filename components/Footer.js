@@ -29,10 +29,17 @@ export default function Footer() {
           <Link href="/privacy" className="block text-sm mb-2 hover:text-white">Privacy Policy</Link>
           <Link href="/terms" className="block text-sm mb-2 hover:text-white">Terms of Use</Link>
           <Link href="/disclaimer" className="block text-sm mb-2 hover:text-white">Medical &amp; Legal Disclaimer</Link>
+          <Link href="/content-ratings" className="block text-sm mb-2 hover:text-white">Content Ratings</Link>
+          <Link href="/target-audience" className="block text-sm mb-2 hover:text-white">Target Audience</Link>
         </div>
       </div>
-      <div className="max-w-6xl mx-auto border-t border-[#24405A] mt-8 pt-5 text-center text-xs text-[#9FB0C0]">
-        In a medical emergency, call 911 (or your local emergency number). HarborCare Circle does not provide medical, legal, or financial advice.
+      <div className="max-w-6xl mx-auto border-t border-[#24405A] mt-8 pt-5 text-center text-xs text-[#9FB0C0] space-y-2">
+        <p>In a medical emergency, call 911 (or your local emergency number). HarborCare Circle does not provide medical, legal, or financial advice.</p>
+        <p>
+          HarborCare Circle is a product of iCrestiQ, LLC · Easley, South Carolina ·{' '}
+          <a href="mailto:hello@icrestiq.com" className="underline hover:text-white">hello@icrestiq.com</a>
+        </p>
+        <p>© {new Date().getFullYear()} iCrestiQ, LLC. All rights reserved.</p>
       </div>
     </footer>
   );

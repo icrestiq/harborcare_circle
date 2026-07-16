@@ -1,0 +1,66 @@
+{
+  "id": "assess-002",
+  "title": "Caregiver Stress Self-Check",
+  "slug": "caregiver-stress-self-check",
+  "summary": "5 minutes · An honest check-in, not a diagnosis",
+  "citationStatus": "citation_only",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "How often do you feel exhausted, even after a full night's sleep?",
+      "options": ["Rarely", "Sometimes", "Often", "Almost every day"]
+    },
+    {
+      "id": "q2",
+      "question": "How often do you feel resentful or short-tempered about caregiving tasks?",
+      "options": ["Rarely", "Sometimes", "Often", "Almost every day"]
+    },
+    {
+      "id": "q3",
+      "question": "How much has caregiving crowded out your own sleep, meals, or health needs?",
+      "options": ["Not much", "A little", "A fair amount", "Significantly"]
+    },
+    {
+      "id": "q4",
+      "question": "How connected do you still feel to friends, hobbies, or things outside of caregiving?",
+      "options": ["Still connected", "Somewhat pulled back", "Mostly isolated", "Almost entirely disconnected"]
+    },
+    {
+      "id": "q5",
+      "question": "How often do you feel like there's no one else who can step in and help?",
+      "options": ["Rarely — I have support", "Sometimes", "Often", "Almost always"]
+    },
+    {
+      "id": "q6",
+      "question": "Have you had thoughts that you can't keep doing this, or that something has to change?",
+      "options": ["No", "Occasionally", "Fairly often", "Frequently"]
+    }
+  ],
+  "results": [
+    {
+      "maxScore": 4,
+      "badge": "Managing Okay",
+      "title": "You're carrying a real load, and handling it",
+      "body": "Your answers suggest caregiving is demanding, but you still have some room to breathe. This is a good time to build in small supports before things get heavier."
+    },
+    {
+      "maxScore": 10,
+      "badge": "Showing Early Strain",
+      "title": "Some signs of strain are showing up",
+      "body": "Based on your answers, caregiving is starting to take a real toll — on your sleep, your patience, or your own life outside of it. Worth addressing now, before it builds further."
+    },
+    {
+      "maxScore": 999,
+      "badge": "Significant Burnout Signs",
+      "title": "What you're feeling is real, and it matters",
+      "body": "Your answers point to real burnout signs — exhaustion, isolation, or feeling like there's no way out. This deserves attention, and you deserve support, not just for your loved one's sake but for your own."
+    }
+  ],
+  "nextSteps": [
+    "Read \"Caregiver Burnout: Recognizing It Before It Recognizes You\" for concrete next steps",
+    "Ask for concrete help with one specific task this week, not \"everything\"",
+    "Talk to your own doctor if exhaustion, sleep, or mood concerns feel like more than you can manage alone",
+    "Check back in with this self-check periodically — burnout builds gradually"
+  ],
+  "disclaimer": "This self-check is informational only and isn't a mental health diagnosis. If you're having thoughts of self-harm or feel unable to cope, please reach out to a crisis line or a mental health professional."
+}

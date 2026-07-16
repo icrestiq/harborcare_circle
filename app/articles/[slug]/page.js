@@ -95,13 +95,17 @@ export default function ArticlePage({ params }) {
 
       <h4 className="text-xs font-semibold text-warm-gray mb-2">Sources</h4>
       <ul className="text-sm text-warm-gray space-y-1">
-        {article.sources.map((s) => (
-          <li key={s.name}>
-            <a href={s.url} className="underline" target="_blank" rel="noopener noreferrer">
-              {s.name}
-            </a>
-          </li>
-        ))}
+        {article.sources.map((s) =>
+          s.url ? (
+            <li key={s.name}>
+              <a href={s.url} className="underline" target="_blank" rel="noopener noreferrer">
+                {s.name}
+              </a>
+            </li>
+          ) : (
+            <li key={s.name}>{s.name}</li>
+          )
+        )}
       </ul>
     </div>
   );

@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Burnout rarely arrives as a single moment — it tends to build slowly enough that the person experiencing it often doesn't notice until it's fairly advanced, which is exactly why a deliberate, honest check-in matters.",
-        "Comparing your energy, mood, and sense of self now against a year ago — rather than just asking \"am I okay today?\" — often reveals a clearer picture of gradual change that's easy to miss day to day."
+        "Burnout rarely arrives as a single moment \u2014 it tends to build slowly enough that the person experiencing it often doesn't notice until it's fairly advanced, which is exactly why a deliberate, honest check-in matters.",
+        "Comparing your energy, mood, and sense of self now against a year ago \u2014 rather than just asking \"am I okay today?\" \u2014 often reveals a clearer picture of gradual change that's easy to miss day to day."
       ]
     }
   ],
@@ -37,8 +37,12 @@
     "Compare how you feel now to a year ago, specifically.",
     "Treat what you find as seriously as any other part of the caregiving plan."
   ],
-  "relatedTool": null,
-  "disclaimer": "If this check-in reveals significant burnout, please treat it seriously — a doctor or therapist can offer real support, not just this article's suggestions.",
+  "relatedTool": {
+    "name": "Take the Caregiver Stress Self-Check",
+    "slug": "caregiver-stress-self-check",
+    "type": "assessment"
+  },
+  "disclaimer": "If this check-in reveals significant burnout, please treat it seriously \u2014 a doctor or therapist can offer real support, not just this article's suggestions.",
   "sources": [
     {
       "name": "Family Caregiver Alliance",

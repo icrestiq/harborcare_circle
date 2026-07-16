@@ -7,7 +7,7 @@ const JOURNEY_OPTIONS = [
   { label: 'We need to organize family caregiving', sub: 'Build a Care Journey Roadmap', Icon: Map, illustration: 'time_management_30iu', color: 'teal', href: '/roadmap' },
   { label: 'My loved one is in the hospital', sub: 'Open the Hospital Admission checklist', Icon: Building2, illustration: 'doctors_hwty', color: 'orange', href: '/checklists/hospital-admission' },
   { label: 'We are considering assisted living', sub: 'Estimate monthly caregiving costs', Icon: Wallet, illustration: 'house_searching_n8mp', color: 'blue', href: '/calculators/monthly-cost-estimator' },
-  { label: 'I am caring for someone with dementia', sub: 'Explore the Conditions hub', Icon: Brain, illustration: 'mindfulness_scgo', color: 'teal', href: '/conditions/dementia' },
+  { label: 'I am caring for someone with dementia', sub: 'Explore the Conditions hub', Icon: Brain, illustration: 'mindfulness_scgo', color: 'teal', href: '/conditions#conditions-i-cognitive-neurological' },
   { label: 'A loved one recently passed away', sub: 'Start the After-a-Loss roadmap', Icon: HeartHandshake, illustration: 'together_j0gj', color: 'orange', href: '/roadmap?stage=loss' },
 ];
 
