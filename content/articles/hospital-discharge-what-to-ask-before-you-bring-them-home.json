@@ -2,7 +2,7 @@
   "title": "Hospital Discharge: What to Ask Before You Bring Them Home",
   "slug": "hospital-discharge-what-to-ask-before-you-bring-them-home",
   "summary": "Discharge day moves fast, and it's easy to leave with less information than you need. These are the questions worth asking before you walk out the door.",
-  "category": "Life Transitions → Hospital discharge",
+  "category": "Life Transitions \u2192 Hospital discharge",
   "subcategory": "Hospitalized / leaving hospital",
   "tags": [],
   "audience": "Adult child / family caregiver",
@@ -18,7 +18,7 @@
   "metaDescription": "Discharge day moves fast, and it's easy to leave with less information than you need. These are the questions worth asking before you walk out the door.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
-    "Discharge instructions are often given verbally, quickly, and once — ask for them in writing.",
+    "Discharge instructions are often given verbally, quickly, and once \u2014 ask for them in writing.",
     "The most common post-discharge problems are medication mix-ups and missed follow-up appointments.",
     "You're allowed to slow the process down and ask for a moment to absorb what's being said."
   ],
@@ -31,7 +31,7 @@
     {
       "heading": "Medications",
       "paragraphs": [
-        "Ask for a complete, written list of every medication your loved one should be taking now — including which old medications have been stopped, and why. Medication changes around a hospital stay are one of the most common sources of confusion and error at home, so it's worth reading the list back before you leave to confirm it matches what you're hearing."
+        "Ask for a complete, written list of every medication your loved one should be taking now \u2014 including which old medications have been stopped, and why. Medication changes around a hospital stay are one of the most common sources of confusion and error at home, so it's worth reading the list back before you leave to confirm it matches what you're hearing."
       ]
     },
     {
@@ -48,7 +48,7 @@
     }
   ],
   "nextSteps": [
-    "Bring a notebook or your phone to discharge — write things down as they're said, don't rely on memory.",
+    "Bring a notebook or your phone to discharge \u2014 write things down as they're said, don't rely on memory.",
     "Use the Hospital Discharge Checklist to make sure nothing gets missed in the rush.",
     "Confirm the first follow-up appointment is on the calendar before you leave the building, not after."
   ],
@@ -60,8 +60,8 @@
       "url": "https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html"
     },
     {
-      "name": "Agency for Healthcare Research and Quality",
-      "url": null
+      "name": "AHRQ: IDEAL Discharge Planning",
+      "url": "https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html"
     }
   ],
   "id": "art-004",

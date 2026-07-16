@@ -29,7 +29,7 @@
       "paragraphs": [
         "Appointments are often shorter than families expect, and it's easy for prepared questions to be forgotten once in the room. Writing them down beforehand, in priority order, makes sure the most important ones get asked even if time runs short.",
         "Bringing a current medication list saves valuable appointment time that would otherwise go to reconstructing it from memory, and reduces the chance of an error making it into the doctor's records.",
-        "Taking notes during the visit, or asking someone else to, matters as much as the questions themselves — it's common to leave an appointment remembering only a fraction of what was actually discussed."
+        "Taking notes during the visit, or asking someone else to, matters as much as the questions themselves \u2014 it's common to leave an appointment remembering only a fraction of what was actually discussed."
       ]
     }
   ],
@@ -39,11 +39,11 @@
     "Take notes during the visit, or bring someone who can."
   ],
   "relatedTool": null,
-  "disclaimer": "General preparation guidance — the doctor's direct guidance always takes priority over general tips.",
+  "disclaimer": "General preparation guidance \u2014 the doctor's direct guidance always takes priority over general tips.",
   "sources": [
     {
       "name": "Agency for Healthcare Research and Quality",
-      "url": null
+      "url": "https://www.ahrq.gov/questions"
     }
   ],
   "relatedArticles": [

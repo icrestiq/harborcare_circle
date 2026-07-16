@@ -20,7 +20,7 @@
   "whatYouNeedToKnow": [
     "A consistent daily question set is more effective than trying to cover everything at once.",
     "Asking about the plan for the day (not just \"how are they doing\") gets more useful answers.",
-    "Write down responses — details blur quickly across a multi-day stay."
+    "Write down responses \u2014 details blur quickly across a multi-day stay."
   ],
   "tableOfContents": [],
   "body": [
@@ -34,11 +34,11 @@
   ],
   "nextSteps": [
     "Use the same core question set daily rather than starting fresh each time.",
-    "Write down the answers — details are easy to lose track of over several days.",
+    "Write down the answers \u2014 details are easy to lose track of over several days.",
     "Ask specifically what needs to happen before discharge is considered."
   ],
   "relatedTool": null,
-  "disclaimer": "General guidance — every hospital stay and care team communication style is a little different.",
+  "disclaimer": "General guidance \u2014 every hospital stay and care team communication style is a little different.",
   "sources": [
     {
       "name": "IDEAL Discharge Planning",
@@ -46,7 +46,7 @@
     },
     {
       "name": "Agency for Healthcare Research and Quality",
-      "url": null
+      "url": "https://www.ahrq.gov/questions"
     }
   ],
   "id": "art-042",

@@ -1,7 +1,7 @@
 {
   "title": "Notifying Credit Bureaus to Prevent Identity Theft",
   "slug": "notifying-credit-bureaus-to-prevent-identity-theft",
-  "summary": "Deceased individuals are a common target for identity theft — notifying credit bureaus promptly closes that door.",
+  "summary": "Deceased individuals are a common target for identity theft \u2014 notifying credit bureaus promptly closes that door.",
   "category": "After a Loss II: Notifications & Accounts",
   "subcategory": "Who Must Be Notified",
   "tags": [],
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "Notifying Credit Bureaus to Prevent Identity Theft | HarborCare Circle",
-  "metaDescription": "Deceased individuals are a common target for identity theft — notifying credit bureaus promptly closes that door.",
+  "metaDescription": "Deceased individuals are a common target for identity theft \u2014 notifying credit bureaus promptly closes that door.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "The three major credit bureaus should be notified individually.",
@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Equifax, Experian, and TransUnion each maintain separate records, so notifying one does not automatically notify the others — each needs its own notification, typically requiring a copy of the death certificate.",
-        "Once notified, bureaus place a \"deceased\" flag on the credit file, which helps prevent scammers from opening new credit in the person's name — a real and surprisingly common form of exploitation."
+        "Equifax, Experian, and TransUnion each maintain separate records, so notifying one does not automatically notify the others \u2014 each needs its own notification, typically requiring a copy of the death certificate.",
+        "Once notified, bureaus place a \"deceased\" flag on the credit file, which helps prevent scammers from opening new credit in the person's name \u2014 a real and surprisingly common form of exploitation."
       ]
     }
   ],
@@ -38,11 +38,11 @@
     "Request a copy of the final credit report to check for existing suspicious activity."
   ],
   "relatedTool": null,
-  "disclaimer": "General guidance — each bureau's specific submission process may differ slightly.",
+  "disclaimer": "General guidance \u2014 each bureau's specific submission process may differ slightly.",
   "sources": [
     {
       "name": "Federal Trade Commission",
-      "url": null
+      "url": "https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts"
     }
   ],
   "id": "art-114",

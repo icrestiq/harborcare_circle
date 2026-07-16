@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "At minimum, any platform handling health, financial, or family coordination information should use encryption and let you control who specifically can access what — these are baseline expectations now, not premium extras.",
-        "It's worth asking, before joining anything, what happens to your data if you later stop using the service — whether it's deleted, how quickly, and whether you can request it be removed entirely, not just deactivated."
+        "At minimum, any platform handling health, financial, or family coordination information should use encryption and let you control who specifically can access what \u2014 these are baseline expectations now, not premium extras.",
+        "It's worth asking, before joining anything, what happens to your data if you later stop using the service \u2014 whether it's deleted, how quickly, and whether you can request it be removed entirely, not just deactivated."
       ]
     }
   ],
@@ -42,7 +42,7 @@
   "sources": [
     {
       "name": "Federal Trade Commission",
-      "url": null
+      "url": "https://consumer.ftc.gov/features/protecting-your-privacy-online"
     }
   ],
   "id": "art-171",

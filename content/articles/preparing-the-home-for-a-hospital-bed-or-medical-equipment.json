@@ -1,7 +1,7 @@
 {
   "title": "Preparing the Home for a Hospital Bed or Medical Equipment",
   "slug": "preparing-the-home-for-a-hospital-bed-or-medical-equipment",
-  "summary": "Bringing medical equipment home requires a bit of planning — mostly about space, power, and safety, not complexity.",
+  "summary": "Bringing medical equipment home requires a bit of planning \u2014 mostly about space, power, and safety, not complexity.",
   "category": "Life Transitions I: The Hospital-to-Home Arc",
   "subcategory": "",
   "tags": [],
@@ -15,10 +15,10 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "Preparing the Home for a Hospital Bed or Medical Equipment | HarborCare Circle",
-  "metaDescription": "Bringing medical equipment home requires a bit of planning — mostly about space, power, and safety, not complexity.",
+  "metaDescription": "Bringing medical equipment home requires a bit of planning \u2014 mostly about space, power, and safety, not complexity.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
-    "Placement should prioritize both safety and social connection — not an isolated back room.",
+    "Placement should prioritize both safety and social connection \u2014 not an isolated back room.",
     "Electrical needs (especially for powered equipment) should be checked ahead of delivery.",
     "A clear path for equipment delivery and future emergency access matters."
   ],
@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "Where equipment is placed matters more than people expect — a hospital bed in an isolated back bedroom can unintentionally cut someone off from the household's daily life, while a spot near a shared living space, if feasible, keeps them more connected.",
+        "Where equipment is placed matters more than people expect \u2014 a hospital bed in an isolated back bedroom can unintentionally cut someone off from the household's daily life, while a spot near a shared living space, if feasible, keeps them more connected.",
         "For powered equipment (hospital beds, oxygen concentrators, lifts), check that the outlet can handle the load and consider a battery backup for power outages, especially for anything medically necessary like oxygen."
       ]
     }
@@ -38,15 +38,15 @@
     "Clear a path for both equipment delivery and future emergency access."
   ],
   "relatedTool": null,
-  "disclaimer": "General setup guidance — the equipment supplier or home health team can advise on specific placement and safety needs.",
+  "disclaimer": "General setup guidance \u2014 the equipment supplier or home health team can advise on specific placement and safety needs.",
   "sources": [
     {
       "name": "IDEAL Discharge Planning",
       "url": "https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html"
     },
     {
-      "name": "Agency for Healthcare Research and Quality",
-      "url": null
+      "name": "AHRQ: IDEAL Discharge Planning",
+      "url": "https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html"
     }
   ],
   "id": "art-046",
