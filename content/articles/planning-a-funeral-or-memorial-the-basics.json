@@ -18,7 +18,7 @@
   "metaDescription": "Funeral planning involves more decisions than people expect, but they can be made at a pace that feels manageable.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
-    "Costs and options should be discussed clearly and openly with the funeral home — asking about pricing isn't inappropriate.",
+    "Costs and options should be discussed clearly and openly with the funeral home \u2014 asking about pricing isn't inappropriate.",
     "Consider whether the person left any wishes in writing.",
     "Family input matters, but one person should coordinate final decisions."
   ],
@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "It's completely appropriate to ask a funeral home for an itemized price list — funeral homes are required to provide one, and reviewing it clearly helps avoid both overspending and confusion later.",
-        "Check for any written wishes — sometimes in estate documents, sometimes just a note the person left — since honoring specific wishes, where they exist, can simplify some decisions and provide real comfort."
+        "It's completely appropriate to ask a funeral home for an itemized price list \u2014 funeral homes are required to provide one, and reviewing it clearly helps avoid both overspending and confusion later.",
+        "Check for any written wishes \u2014 sometimes in estate documents, sometimes just a note the person left \u2014 since honoring specific wishes, where they exist, can simplify some decisions and provide real comfort."
       ]
     }
   ],
@@ -42,11 +42,11 @@
     "slug": "",
     "type": "roadmap"
   },
-  "disclaimer": "Every family and every service looks different — there's no universally \"right\" way to do this.",
+  "disclaimer": "Every family and every service looks different \u2014 there's no universally \"right\" way to do this.",
   "sources": [
     {
       "name": "Federal Trade Commission (Funeral Rule)",
-      "url": null
+      "url": "https://consumer.ftc.gov/articles/ftc-funeral-rule"
     }
   ],
   "id": "art-101",

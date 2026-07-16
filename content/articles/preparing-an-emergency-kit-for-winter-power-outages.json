@@ -28,7 +28,7 @@
       "heading": null,
       "paragraphs": [
         "For anyone relying on powered medical equipment (oxygen concentrators, certain mobility aids), a battery backup or a clear plan for where to go during an extended outage is the single highest-priority item in a winter emergency kit.",
-        "Beyond that, warm blankets, flashlights with extra batteries, a battery-powered or hand-crank radio, and a few days of non-perishable food and water round out a reasonable basic kit — along with a plan for keeping refrigerated medications cool if the outage is extended."
+        "Beyond that, warm blankets, flashlights with extra batteries, a battery-powered or hand-crank radio, and a few days of non-perishable food and water round out a reasonable basic kit \u2014 along with a plan for keeping refrigerated medications cool if the outage is extended."
       ]
     }
   ],
@@ -38,11 +38,11 @@
     "Have a specific plan for refrigerated medications during an extended outage."
   ],
   "relatedTool": null,
-  "disclaimer": "General preparedness guidance — anyone using critical medical equipment should discuss a specific backup plan with their equipment provider.",
+  "disclaimer": "General preparedness guidance \u2014 anyone using critical medical equipment should discuss a specific backup plan with their equipment provider.",
   "sources": [
     {
       "name": "Federal Emergency Management Agency",
-      "url": null
+      "url": "https://www.ready.gov/winter-ready"
     }
   ],
   "id": "art-156",

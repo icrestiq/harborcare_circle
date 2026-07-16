@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "Setting up mail forwarding to a family member's address ensures nothing important — a bill, a tax document, a benefits notice — gets missed simply because it went to an empty home.",
+        "Setting up mail forwarding to a family member's address ensures nothing important \u2014 a bill, a tax document, a benefits notice \u2014 gets missed simply because it went to an empty home.",
         "Reviewing forwarded mail for a few months afterward tends to reveal accounts or subscriptions that weren't otherwise on anyone's radar, making it a genuinely useful ongoing step, not just a one-time task."
       ]
     }
@@ -38,11 +38,11 @@
     "Watch specifically for anything time-sensitive or unfamiliar."
   ],
   "relatedTool": null,
-  "disclaimer": "General guidance — mail forwarding services and timelines are set by the postal service directly.",
+  "disclaimer": "General guidance \u2014 mail forwarding services and timelines are set by the postal service directly.",
   "sources": [
     {
       "name": "United States Postal Service",
-      "url": null
+      "url": "https://www.usps.com/manage/mail-for-deceased.htm"
     }
   ],
   "id": "art-115",

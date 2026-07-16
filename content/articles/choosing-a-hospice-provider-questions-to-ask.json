@@ -1,8 +1,8 @@
 {
   "title": "Choosing a Hospice Provider: Questions to Ask",
   "slug": "choosing-a-hospice-provider-questions-to-ask",
-  "summary": "Not all hospice providers are the same — a few specific questions help identify a good fit for your family's situation.",
-  "category": "Hospice & End-of-Life (Weeks 1–3 of 4)",
+  "summary": "Not all hospice providers are the same \u2014 a few specific questions help identify a good fit for your family's situation.",
+  "category": "Hospice & End-of-Life (Weeks 1\u20133 of 4)",
   "subcategory": "Starting Hospice",
   "tags": [],
   "audience": "Adult child / family caregiver",
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "Choosing a Hospice Provider: Questions to Ask | HarborCare Circle",
-  "metaDescription": "Not all hospice providers are the same — a few specific questions help identify a good fit for your family's situation.",
+  "metaDescription": "Not all hospice providers are the same \u2014 a few specific questions help identify a good fit for your family's situation.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Ask about after-hours availability and typical response time, specifically.",
@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Response time for after-hours concerns varies meaningfully between providers, and it's worth asking directly rather than assuming — a family in the middle of a difficult night needs a provider who responds quickly and reliably.",
-        "Some hospice providers offer additional services like music or art therapy, expanded chaplaincy, or specific complementary care options — these aren't universal, and asking directly reveals real differences between providers in the same area."
+        "Response time for after-hours concerns varies meaningfully between providers, and it's worth asking directly rather than assuming \u2014 a family in the middle of a difficult night needs a provider who responds quickly and reliably.",
+        "Some hospice providers offer additional services like music or art therapy, expanded chaplaincy, or specific complementary care options \u2014 these aren't universal, and asking directly reveals real differences between providers in the same area."
       ]
     }
   ],
@@ -42,7 +42,7 @@
     "slug": "",
     "type": "roadmap"
   },
-  "disclaimer": "General guidance — Medicare's hospice compare tool and direct conversations with the current care team can help identify strong local options.",
+  "disclaimer": "General guidance \u2014 Medicare's hospice compare tool and direct conversations with the current care team can help identify strong local options.",
   "sources": [
     {
       "name": "Choosing Hospice: Determining Where to Find Services",
@@ -50,7 +50,7 @@
     },
     {
       "name": "CaringInfo (National Alliance for Care at Home)",
-      "url": null
+      "url": "https://www.caringinfo.org/types-of-care/hospice-care/choosing-and-finding-hospice-care/"
     }
   ],
   "id": "art-084",

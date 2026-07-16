@@ -28,7 +28,7 @@
       "heading": null,
       "paragraphs": [
         "Rather than an all-or-nothing approach, most success comes from a few consistent habits: similar meal timing day to day, awareness of carbohydrate portions, and gradually swapping in more vegetables and whole grains rather than eliminating entire food groups at once.",
-        "A registered dietitian, ideally one experienced with diabetes, can build a plan around foods your parent actually likes and will realistically keep eating — which matters more for long-term success than a theoretically perfect diet no one follows."
+        "A registered dietitian, ideally one experienced with diabetes, can build a plan around foods your parent actually likes and will realistically keep eating \u2014 which matters more for long-term success than a theoretically perfect diet no one follows."
       ]
     }
   ],
@@ -42,7 +42,7 @@
     "slug": "monthly-cost-estimator",
     "type": "calculator"
   },
-  "disclaimer": "General guidance — a registered dietitian and the treating physician should guide any specific dietary plan.",
+  "disclaimer": "General guidance \u2014 a registered dietitian and the treating physician should guide any specific dietary plan.",
   "sources": [
     {
       "name": "Eating Well & Managing Diabetes",
@@ -50,7 +50,7 @@
     },
     {
       "name": "American Diabetes Association",
-      "url": null
+      "url": "https://diabetes.org/food-nutrition/eating-healthy"
     }
   ],
   "id": "art-031",

@@ -28,8 +28,8 @@
       "heading": null,
       "paragraphs": [
         "The single most useful thing to have ready is a one-page emergency information sheet: emergency contacts, current medications, doctors, and key medical details. In an actual emergency, this saves precious time for whoever responds, whether that's a family member or a first responder.",
-        "This kind of preparation only helps if it happens before it's needed — trying to assemble this information during an actual crisis is exactly when it's hardest to do well. Doing it now, while things are calm, is the whole point.",
-        "A simple system that's actually findable — posted on the fridge, saved in a shared family folder — is more useful than a more elaborate system that only one person knows how to access."
+        "This kind of preparation only helps if it happens before it's needed \u2014 trying to assemble this information during an actual crisis is exactly when it's hardest to do well. Doing it now, while things are calm, is the whole point.",
+        "A simple system that's actually findable \u2014 posted on the fridge, saved in a shared family folder \u2014 is more useful than a more elaborate system that only one person knows how to access."
       ]
     }
   ],
@@ -43,11 +43,11 @@
     "slug": "emergency-preparedness",
     "type": "checklist"
   },
-  "disclaimer": "General preparedness guidance — this doesn't replace an actual emergency response plan discussed with a doctor for specific medical conditions.",
+  "disclaimer": "General preparedness guidance \u2014 this doesn't replace an actual emergency response plan discussed with a doctor for specific medical conditions.",
   "sources": [
     {
-      "name": "CDC",
-      "url": null
+      "name": "CDC: Emergency Preparedness for Older Adults",
+      "url": "https://www.cdc.gov/aging/emergency-preparedness/"
     }
   ],
   "relatedArticles": [

@@ -28,7 +28,7 @@
       "heading": null,
       "paragraphs": [
         "Setting up mail holding or forwarding through the postal service is a small task that prevents both clutter and a slow trickle of things needing attention later. Similarly, checking on perishable food, plants, and any pets is worth handling promptly.",
-        "If the home will sit empty for a while — during travel for a funeral, for instance — arranging for a neighbor or family member to check in occasionally is a reasonable, low-effort safeguard."
+        "If the home will sit empty for a while \u2014 during travel for a funeral, for instance \u2014 arranging for a neighbor or family member to check in occasionally is a reasonable, low-effort safeguard."
       ]
     }
   ],
@@ -42,11 +42,11 @@
     "slug": "",
     "type": "roadmap"
   },
-  "disclaimer": "These are small, practical steps — none require immediate expertise or urgency beyond the basics.",
+  "disclaimer": "These are small, practical steps \u2014 none require immediate expertise or urgency beyond the basics.",
   "sources": [
     {
       "name": "United States Postal Service",
-      "url": null
+      "url": "https://www.usps.com/manage/mail-for-deceased.htm"
     }
   ],
   "id": "art-103",

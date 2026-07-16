@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "The DD-214 (Certificate of Release or Discharge from Active Duty) is the document most VA benefit applications require — if the family already has a copy, that's the fastest path; if not, it can be requested through the National Archives' National Personnel Records Center.",
-        "Because processing these requests can take weeks, requesting a copy as early as possible — even before all benefit paperwork is ready — helps avoid delays down the line."
+        "The DD-214 (Certificate of Release or Discharge from Active Duty) is the document most VA benefit applications require \u2014 if the family already has a copy, that's the fastest path; if not, it can be requested through the National Archives' National Personnel Records Center.",
+        "Because processing these requests can take weeks, requesting a copy as early as possible \u2014 even before all benefit paperwork is ready \u2014 helps avoid delays down the line."
       ]
     }
   ],
@@ -38,11 +38,11 @@
     "Keep the copy with other estate documents once received."
   ],
   "relatedTool": null,
-  "disclaimer": "General information — the National Archives can confirm current request procedures and timelines.",
+  "disclaimer": "General information \u2014 the National Archives can confirm current request procedures and timelines.",
   "sources": [
     {
       "name": "National Archives and Records Administration",
-      "url": null
+      "url": "https://www.archives.gov/veterans/military-service-records"
     }
   ],
   "id": "art-124",

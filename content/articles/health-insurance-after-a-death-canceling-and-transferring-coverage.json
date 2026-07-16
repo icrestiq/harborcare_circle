@@ -28,7 +28,7 @@
       "heading": null,
       "paragraphs": [
         "If the deceased carried employer health coverage for a spouse or dependents, that coverage often ends automatically, but continuation options like COBRA are generally available for a limited period, at the family's cost.",
-        "For a surviving spouse approaching or at Medicare eligibility age, understanding enrollment windows matters, since missing certain deadlines can result in penalties — worth addressing this fairly soon rather than assuming there's no rush."
+        "For a surviving spouse approaching or at Medicare eligibility age, understanding enrollment windows matters, since missing certain deadlines can result in penalties \u2014 worth addressing this fairly soon rather than assuming there's no rush."
       ]
     }
   ],
@@ -42,11 +42,11 @@
     "slug": "monthly-cost-estimator",
     "type": "calculator"
   },
-  "disclaimer": "General information — the employer's benefits office or Medicare directly can confirm specific timelines and options.",
+  "disclaimer": "General information \u2014 the employer's benefits office or Medicare directly can confirm specific timelines and options.",
   "sources": [
     {
       "name": "U.S. Department of Labor",
-      "url": null
+      "url": "https://www.dol.gov/agencies/ebsa/workers-and-families/death-of-a-family-member"
     }
   ],
   "id": "art-127",

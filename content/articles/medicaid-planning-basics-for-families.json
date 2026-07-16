@@ -28,7 +28,7 @@
       "heading": null,
       "paragraphs": [
         "Unlike Medicare, Medicaid is income- and asset-based, with specific limits that vary by state, and is the primary way many families eventually cover long-term nursing home costs once private funds are exhausted.",
-        "Medicaid also applies a \"look-back period\" (often five years) examining whether assets were transferred away before applying, which can affect eligibility if not planned for carefully — this is exactly the kind of detail where early professional guidance matters most."
+        "Medicaid also applies a \"look-back period\" (often five years) examining whether assets were transferred away before applying, which can affect eligibility if not planned for carefully \u2014 this is exactly the kind of detail where early professional guidance matters most."
       ]
     }
   ],
@@ -50,7 +50,7 @@
     },
     {
       "name": "Centers for Medicare & Medicaid Services",
-      "url": null
+      "url": "https://www.medicaid.gov/medicaid/long-term-services-supports"
     }
   ],
   "id": "art-075",

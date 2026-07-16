@@ -1,7 +1,7 @@
 {
   "title": "Stroke Recovery: What the First 90 Days Look Like",
   "slug": "stroke-recovery-what-the-first-90-days-look-like",
-  "summary": "The first three months after a stroke are when the most rapid recovery typically happens — and when the most decisions get made. Here's a general sense of the arc.",
+  "summary": "The first three months after a stroke are when the most rapid recovery typically happens \u2014 and when the most decisions get made. Here's a general sense of the arc.",
   "category": "Conditions II: Physical Health",
   "subcategory": "",
   "tags": [],
@@ -15,10 +15,10 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "Stroke Recovery: What the First 90 Days Look Like | HarborCare Circle",
-  "metaDescription": "The first three months after a stroke are when the most rapid recovery typically happens — and when the most decisions get made. Here's a general sense of ",
+  "metaDescription": "The first three months after a stroke are when the most rapid recovery typically happens \u2014 and when the most decisions get made. Here's a general sense of ",
   "featuredImage": null,
   "whatYouNeedToKnow": [
-    "Most recovery gains happen in the first 3–6 months, though improvement can continue longer.",
+    "Most recovery gains happen in the first 3\u20136 months, though improvement can continue longer.",
     "Rehabilitation (physical, occupational, speech) is usually the main driver of recovery, not time alone.",
     "Emotional changes, including depression, are common after stroke and often overlooked."
   ],
@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "The first days after a stroke are usually spent in the hospital, followed by a decision about rehabilitation setting — inpatient rehab, a skilled nursing facility, or home-based therapy, depending on the severity and what's available. The first 90 days tend to bring the fastest visible improvement, driven mainly by consistent therapy rather than rest alone.",
-        "It's easy to focus entirely on physical recovery and miss emotional changes — depression after stroke is common and sometimes caused directly by the stroke's effect on the brain, not just the difficulty of the situation."
+        "The first days after a stroke are usually spent in the hospital, followed by a decision about rehabilitation setting \u2014 inpatient rehab, a skilled nursing facility, or home-based therapy, depending on the severity and what's available. The first 90 days tend to bring the fastest visible improvement, driven mainly by consistent therapy rather than rest alone.",
+        "It's easy to focus entirely on physical recovery and miss emotional changes \u2014 depression after stroke is common and sometimes caused directly by the stroke's effect on the brain, not just the difficulty of the situation."
       ]
     }
   ],
@@ -38,7 +38,7 @@
     "Watch for mood changes and mention them at follow-up appointments."
   ],
   "relatedTool": null,
-  "disclaimer": "General recovery patterns — every stroke and recovery path is different, and the care team's specific guidance should always take priority.",
+  "disclaimer": "General recovery patterns \u2014 every stroke and recovery path is different, and the care team's specific guidance should always take priority.",
   "sources": [
     {
       "name": "Stroke rehabilitation: What to expect as you recover",
@@ -46,7 +46,7 @@
     },
     {
       "name": "Mayo Clinic",
-      "url": null
+      "url": "https://www.mayoclinic.org/diseases-conditions/stroke/in-depth/stroke-rehabilitation/art-20045172"
     }
   ],
   "id": "art-019",

@@ -1,7 +1,7 @@
 {
   "title": "Medication Organization That Actually Works",
   "slug": "medication-organization-that-actually-works",
-  "summary": "Medication mix-ups are one of the most common and most preventable caregiving problems — a simple system closes most of the gap.",
+  "summary": "Medication mix-ups are one of the most common and most preventable caregiving problems \u2014 a simple system closes most of the gap.",
   "category": "Caregiving 101",
   "subcategory": "Getting Organized",
   "tags": [],
@@ -15,11 +15,11 @@
   "lastUpdated": "2026-07-15",
   "readingTimeMinutes": 2,
   "seoTitle": "Medication Organization That Actually Works | HarborCare Circle",
-  "metaDescription": "Medication mix-ups are one of the most common and most preventable caregiving problems — a simple system closes most of the gap.",
+  "metaDescription": "Medication mix-ups are one of the most common and most preventable caregiving problems \u2014 a simple system closes most of the gap.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "A single master list beats separate notes across pill bottles and memory.",
-    "Pillboxes, apps, and pharmacy sync all work — the point is picking one and sticking with it.",
+    "Pillboxes, apps, and pharmacy sync all work \u2014 the point is picking one and sticking with it.",
     "Regular pharmacist review catches interactions a family might miss."
   ],
   "tableOfContents": [],
@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "A single, current, written medication list — name, dose, timing, prescribing doctor — prevents most of the confusion that comes from relying on pill bottles and memory scattered across different people's understanding.",
+        "A single, current, written medication list \u2014 name, dose, timing, prescribing doctor \u2014 prevents most of the confusion that comes from relying on pill bottles and memory scattered across different people's understanding.",
         "Whether the actual organization method is a weekly pillbox, a phone app with reminders, or a pharmacy that pre-sorts doses, the specific tool matters less than picking one system and using it consistently, rather than switching methods or relying on willpower alone.",
         "Asking a pharmacist to review the full medication list periodically, especially when a new prescription is added, can catch interactions or duplications that aren't obvious to a family managing multiple doctors and prescriptions."
       ]
@@ -39,11 +39,11 @@
     "Ask a pharmacist for a periodic full medication review."
   ],
   "relatedTool": null,
-  "disclaimer": "General organizational guidance — never change dosing or medications without the prescribing doctor's guidance.",
+  "disclaimer": "General organizational guidance \u2014 never change dosing or medications without the prescribing doctor's guidance.",
   "sources": [
     {
-      "name": "American Geriatrics Society",
-      "url": null
+      "name": "American Geriatrics Society Health in Aging Foundation: Avoiding Overmedication and Harmful Drug Reactions",
+      "url": "https://www.help4seniors.org/wp-content/uploads/2025/05/HIA-TipSheet_Avoiding_Overmedication.indd_090215FINAL.pdf"
     }
   ],
   "relatedArticles": [

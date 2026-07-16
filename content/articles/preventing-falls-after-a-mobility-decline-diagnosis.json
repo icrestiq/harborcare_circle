@@ -38,7 +38,7 @@
     "Ask about a physical therapy referral focused on strength and balance."
   ],
   "relatedTool": null,
-  "disclaimer": "General guidance — a physical therapist can build a specific fall-prevention plan appropriate to the individual situation.",
+  "disclaimer": "General guidance \u2014 a physical therapist can build a specific fall-prevention plan appropriate to the individual situation.",
   "sources": [
     {
       "name": "Check for Safety",
@@ -46,7 +46,7 @@
     },
     {
       "name": "CDC STEADI Initiative",
-      "url": null
+      "url": "https://www.cdc.gov/steadi/index.html"
     }
   ],
   "id": "art-029",
