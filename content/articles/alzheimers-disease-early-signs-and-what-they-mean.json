@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Early Alzheimer's usually shows up as trouble with recent memory — forgetting a conversation from yesterday, asking the same question again shortly after it was answered, or losing track of dates. This is different from normal aging, where someone might forget a name but remember it later, or take longer to learn something new without losing the ability entirely.",
-        "A second early flag is difficulty with familiar tasks or navigation — getting confused on a regular drive, or struggling to follow a recipe used for years. These changes tend to be gradual, which is part of why families often notice them only in hindsight."
+        "Early Alzheimer's usually shows up as trouble with recent memory \u2014 forgetting a conversation from yesterday, asking the same question again shortly after it was answered, or losing track of dates. This is different from normal aging, where someone might forget a name but remember it later, or take longer to learn something new without losing the ability entirely.",
+        "A second early flag is difficulty with familiar tasks or navigation \u2014 getting confused on a regular drive, or struggling to follow a recipe used for years. These changes tend to be gradual, which is part of why families often notice them only in hindsight."
       ]
     }
   ],
@@ -42,7 +42,7 @@
     "slug": "care-readiness-assessment",
     "type": "assessment"
   },
-  "disclaimer": "This describes general early patterns, not a diagnostic checklist. Memory changes have many causes, several of them treatable — a proper evaluation matters more than self-diagnosis.",
+  "disclaimer": "This describes general early patterns, not a diagnostic checklist. Memory changes have many causes, several of them treatable \u2014 a proper evaluation matters more than self-diagnosis.",
   "sources": [
     {
       "name": "10 Early Signs and Symptoms of Alzheimer's & Dementia",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Alzheimer's Association",
-      "url": null
+      "url": "https://www.alz.org/alzheimers-dementia/10_signs"
     }
   ],
   "id": "art-005",

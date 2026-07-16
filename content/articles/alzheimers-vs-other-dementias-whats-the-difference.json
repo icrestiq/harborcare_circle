@@ -42,7 +42,7 @@
     "slug": "care-readiness-assessment",
     "type": "assessment"
   },
-  "disclaimer": "General overview only — an accurate diagnosis requires specialist evaluation, and types can sometimes overlap.",
+  "disclaimer": "General overview only \u2014 an accurate diagnosis requires specialist evaluation, and types can sometimes overlap.",
   "sources": [
     {
       "name": "Types of Dementia",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Alzheimer's Association",
-      "url": null
+      "url": "https://www.alz.org/alzheimers-dementia/what-is-dementia/types-of-dementia"
     }
   ],
   "id": "art-016",

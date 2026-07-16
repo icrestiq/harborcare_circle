@@ -18,7 +18,7 @@
   "metaDescription": "Wandering is common in dementia and can be genuinely dangerous, but most homes can be made much safer with a few specific changes.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
-    "Wandering often has a reason behind it — looking for something, or a past routine.",
+    "Wandering often has a reason behind it \u2014 looking for something, or a past routine.",
     "Door alarms and ID bracelets are simple, effective safeguards.",
     "A plan matters more than constant supervision, which isn't sustainable long-term."
   ],
@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "Wandering rarely happens at random — it's often tied to a felt need, like wanting to \"go home\" (even while already there), looking for a past routine like going to work, or simple restlessness. Understanding the likely trigger can help you address the underlying feeling instead of just the behavior.",
+        "Wandering rarely happens at random \u2014 it's often tied to a felt need, like wanting to \"go home\" (even while already there), looking for a past routine like going to work, or simple restlessness. Understanding the likely trigger can help you address the underlying feeling instead of just the behavior.",
         "Practical safeguards make the biggest difference: door and window alarms, a GPS tracker or medical ID bracelet, and removing visual cues like coats or keys by the door that might prompt a \"let's go\" instinct."
       ]
     }
@@ -46,7 +46,7 @@
     },
     {
       "name": "Alzheimer's Association",
-      "url": null
+      "url": "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
     }
   ],
   "id": "art-008",

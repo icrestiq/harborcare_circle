@@ -2,7 +2,7 @@
   "title": "Understanding a Dementia Diagnosis: What Changes and What Doesn't",
   "slug": "understanding-a-dementia-diagnosis-what-changes-and-what-doesnt",
   "summary": "A dementia diagnosis changes a lot, but not everything, and not all at once. Here's what tends to shift first, and what usually stays the same longer than families expect.",
-  "category": "Conditions → Dementia",
+  "category": "Conditions \u2192 Dementia",
   "subcategory": "Early diagnosis",
   "tags": [],
   "audience": "Adult child / family caregiver",
@@ -19,7 +19,7 @@
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Dementia affects memory and thinking, but personality and long-held habits often stay recognizable for a long time.",
-    "Diagnosis is a starting point for planning, not a countdown — the pace varies enormously person to person.",
+    "Diagnosis is a starting point for planning, not a countdown \u2014 the pace varies enormously person to person.",
     "The most useful early step is usually practical (documents, routines, support) rather than medical."
   ],
   "tableOfContents": [
@@ -32,24 +32,24 @@
       "heading": "What actually changes early on",
       "paragraphs": [
         "The first changes families usually notice are practical ones: forgetting recent conversations, repeating questions, or struggling with tasks that involve several steps, like managing bills or following a recipe. These changes tend to show up before bigger shifts in personality or recognition of family members, which often come much later.",
-        "It's common for a newly diagnosed person to be aware that something is wrong, which can bring its own grief and frustration. That awareness is worth taking seriously — it's a real experience, not just a symptom to manage around."
+        "It's common for a newly diagnosed person to be aware that something is wrong, which can bring its own grief and frustration. That awareness is worth taking seriously \u2014 it's a real experience, not just a symptom to manage around."
       ]
     },
     {
       "heading": "What often stays the same",
       "paragraphs": [
-        "Humor, warmth, opinions, long-term memories, and a person's core personality often remain intact for a surprising amount of time. Many families find that focusing conversations on the past — a familiar story, an old photo, a favorite song — works better than testing short-term memory, which can feel like a series of small failures to the person living with the diagnosis.",
-        "Day-to-day independence also often continues much longer than people expect, especially with some structure in place — consistent routines, simplified choices, and reducing background noise and clutter tend to help more than most medical interventions at this stage."
+        "Humor, warmth, opinions, long-term memories, and a person's core personality often remain intact for a surprising amount of time. Many families find that focusing conversations on the past \u2014 a familiar story, an old photo, a favorite song \u2014 works better than testing short-term memory, which can feel like a series of small failures to the person living with the diagnosis.",
+        "Day-to-day independence also often continues much longer than people expect, especially with some structure in place \u2014 consistent routines, simplified choices, and reducing background noise and clutter tend to help more than most medical interventions at this stage."
       ]
     }
   ],
   "nextSteps": [
-    "Have the \"important documents\" conversation now, while it's easier — power of attorney, health care proxy, and financial access.",
+    "Have the \"important documents\" conversation now, while it's easier \u2014 power of attorney, health care proxy, and financial access.",
     "Build a simple daily routine together rather than overhauling everything at once.",
     "Take the Home Safety Assessment to catch a few easy fixes before they become urgent."
   ],
   "relatedTool": null,
-  "disclaimer": "This content explains general patterns in early dementia and isn't a substitute for guidance from your loved one's neurologist or care team. Every diagnosis and its progression is different — if you're facing new or sudden symptoms, contact their doctor.",
+  "disclaimer": "This content explains general patterns in early dementia and isn't a substitute for guidance from your loved one's neurologist or care team. Every diagnosis and its progression is different \u2014 if you're facing new or sudden symptoms, contact their doctor.",
   "sources": [
     {
       "name": "10 Early Signs and Symptoms of Alzheimer's & Dementia",
@@ -57,7 +57,7 @@
     },
     {
       "name": "Alzheimer's Association",
-      "url": null
+      "url": "https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage"
     }
   ],
   "id": "art-001",

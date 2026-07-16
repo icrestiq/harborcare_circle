@@ -42,7 +42,7 @@
     "slug": "care-readiness-assessment",
     "type": "assessment"
   },
-  "disclaimer": "If agitation becomes severe or includes safety risks, mention it to their doctor — some cases benefit from timing or environmental adjustments, and occasionally medication review.",
+  "disclaimer": "If agitation becomes severe or includes safety risks, mention it to their doctor \u2014 some cases benefit from timing or environmental adjustments, and occasionally medication review.",
   "sources": [
     {
       "name": "Sleep Issues and Sundowning",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Alzheimer's Association",
-      "url": null
+      "url": "https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning"
     }
   ],
   "id": "art-015",
