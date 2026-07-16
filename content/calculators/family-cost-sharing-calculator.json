@@ -1,0 +1,15 @@
+{
+  "id": "calc-002",
+  "title": "Family Cost-Sharing Calculator",
+  "slug": "family-cost-sharing-calculator",
+  "type": "cost-sharing",
+  "summary": "Split an estimated monthly caregiving cost across family members — evenly, by income, or however feels fair to your family.",
+  "citationStatus": "citation_only",
+  "defaultTotalMonthlyCost": 3200,
+  "defaultMembers": [
+    { "name": "You", "income": 65000 },
+    { "name": "Sibling", "income": 65000 }
+  ],
+  "regionNote": "This splits a number you provide — it doesn't estimate caregiving costs itself. If you need help arriving at a total, try the Monthly Cost Estimator first.",
+  "disclaimer": "This is a planning tool meant to support a conversation, not a legal or financial determination of what anyone owes. What's fair often depends on more than income alone — time contributed, distance, and circumstances this tool can't see. Treat the result as a starting point for a family conversation, not the final word."
+}
