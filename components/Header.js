@@ -22,6 +22,7 @@ export default function Header() {
           <Link href="/life-transitions" className="text-soft-navy hover:text-kin-blue">Life Transitions</Link>
           <Link href="/after-a-loss" className="text-soft-navy hover:text-kin-blue">After a Loss</Link>
           <Link href="/checklists" className="text-soft-navy hover:text-kin-blue">Checklists</Link>
+          <Link href="/calculators" className="text-soft-navy hover:text-kin-blue">Calculators</Link>
         </nav>
 
         <Link

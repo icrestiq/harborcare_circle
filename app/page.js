@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { Compass, Map, Building2, Wallet, Brain, HeartHandshake, FileText, ListChecks } from 'lucide-react';
-import { getAllArticles, getAllChecklists } from '../lib/content';
+import { getAllArticles, getAllChecklists, getAllCalculators } from '../lib/content';
 
 const JOURNEY_OPTIONS = [
   { label: 'My parent may need help', sub: 'Take the Care Readiness Assessment', Icon: Compass, illustration: 'instant_support_elxh', color: 'blue', href: '/assessments/care-readiness-assessment' },
@@ -20,6 +20,7 @@ const CARD_COLORS = {
 export default function HomePage() {
   const articles = getAllArticles();
   const checklists = getAllChecklists();
+  const calculators = getAllCalculators();
 
   return (
     <>
@@ -137,12 +138,15 @@ export default function HomePage() {
             </Link>
           ))}
         </div>
-        <div className="flex justify-center gap-6 mt-8">
+        <div className="flex justify-center gap-6 mt-8 flex-wrap">
           <Link href="/articles" className="text-sm font-semibold text-kin-blue underline">
             See all {articles.length} articles →
           </Link>
           <Link href="/checklists" className="text-sm font-semibold text-kin-blue underline">
             See all {checklists.length} checklists →
+          </Link>
+          <Link href="/calculators" className="text-sm font-semibold text-kin-blue underline">
+            See all {calculators.length} calculators →
           </Link>
         </div>
       </section>
