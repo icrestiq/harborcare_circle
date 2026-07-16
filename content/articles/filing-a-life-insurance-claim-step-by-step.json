@@ -28,7 +28,7 @@
       "heading": null,
       "paragraphs": [
         "The basic requirements are consistent across most insurers: the policy number (or enough information for the insurer to locate it), a certified death certificate, and a completed claim form naming the beneficiary.",
-        "Often the hardest part isn't the paperwork itself but locating the policy — checking old mail, financial records, and asking the person's employer (for any workplace policies) can help track it down if it's not immediately obvious."
+        "Often the hardest part isn't the paperwork itself but locating the policy \u2014 checking old mail, financial records, and asking the person's employer (for any workplace policies) can help track it down if it's not immediately obvious."
       ]
     }
   ],
@@ -38,11 +38,11 @@
     "Submit the complete claim form promptly, since incomplete forms cause the most delay."
   ],
   "relatedTool": null,
-  "disclaimer": "General guidance — each insurer's specific claim process and required forms may vary slightly.",
+  "disclaimer": "General guidance \u2014 each insurer's specific claim process and required forms may vary slightly.",
   "sources": [
     {
-      "name": "National Association of Insurance Commissioners",
-      "url": null
+      "name": "NAIC Life Insurance Buyer's Guide",
+      "url": "https://content.naic.org/sites/default/files/publication-lig-lp-consumer-life.pdf"
     }
   ],
   "id": "art-125",

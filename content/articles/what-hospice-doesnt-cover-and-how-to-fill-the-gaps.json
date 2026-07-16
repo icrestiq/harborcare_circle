@@ -1,8 +1,8 @@
 {
   "title": "What Hospice Doesn't Cover (and How to Fill the Gaps)",
   "slug": "what-hospice-doesnt-cover-and-how-to-fill-the-gaps",
-  "summary": "Hospice covers a great deal, but not everything — knowing the boundaries in advance prevents surprise gaps.",
-  "category": "Hospice & End-of-Life (Weeks 1–3 of 4)",
+  "summary": "Hospice covers a great deal, but not everything \u2014 knowing the boundaries in advance prevents surprise gaps.",
+  "category": "Hospice & End-of-Life (Weeks 1\u20133 of 4)",
   "subcategory": "Hospice, Palliative Care, and Comfort",
   "tags": [],
   "audience": "Adult child / family caregiver",
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "What Hospice Doesn't Cover (and How to Fill the Gaps) | HarborCare Circle",
-  "metaDescription": "Hospice covers a great deal, but not everything — knowing the boundaries in advance prevents surprise gaps.",
+  "metaDescription": "Hospice covers a great deal, but not everything \u2014 knowing the boundaries in advance prevents surprise gaps.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Hospice generally covers medications, equipment, and services related to the terminal diagnosis.",
@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Hospice (through Medicare's hospice benefit, for those enrolled) generally covers medications, equipment, and services directly related to the terminal diagnosis, along with the core visiting care team — but room and board costs at an assisted living or nursing facility are often billed separately, which can surprise families expecting fuller coverage.",
-        "Because hospice specifically shifts away from curative treatment for the terminal condition, any treatment aimed at curing that particular illness generally falls outside its coverage — though care for unrelated conditions may still continue."
+        "Hospice (through Medicare's hospice benefit, for those enrolled) generally covers medications, equipment, and services directly related to the terminal diagnosis, along with the core visiting care team \u2014 but room and board costs at an assisted living or nursing facility are often billed separately, which can surprise families expecting fuller coverage.",
+        "Because hospice specifically shifts away from curative treatment for the terminal condition, any treatment aimed at curing that particular illness generally falls outside its coverage \u2014 though care for unrelated conditions may still continue."
       ]
     }
   ],
@@ -42,15 +42,15 @@
     "slug": "monthly-cost-estimator",
     "type": "calculator"
   },
-  "disclaimer": "General information, not financial advice — the hospice provider's admissions team can clarify exact coverage for your situation.",
+  "disclaimer": "General information, not financial advice \u2014 the hospice provider's admissions team can clarify exact coverage for your situation.",
   "sources": [
     {
       "name": "Hospice FAQs",
       "url": "https://www.nhpco.org/hospice-care-overview/hospice-faqs/"
     },
     {
-      "name": "National Hospice and Palliative Care Organization",
-      "url": null
+      "name": "Medicare.gov: Hospice Care Coverage",
+      "url": "https://www.medicare.gov/coverage/hospice-care"
     }
   ],
   "id": "art-088",

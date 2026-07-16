@@ -1,7 +1,7 @@
 {
   "title": "Parkinson's Medication Timing: Why It Matters So Much",
   "slug": "parkinsons-medication-timing-why-it-matters-so-much",
-  "summary": "With Parkinson's, taking medication even 15–30 minutes late can visibly affect symptoms. Here's why timing gets so much attention.",
+  "summary": "With Parkinson's, taking medication even 15\u201330 minutes late can visibly affect symptoms. Here's why timing gets so much attention.",
   "category": "Conditions I: Cognitive & Neurological",
   "subcategory": "",
   "tags": [],
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "Parkinson's Medication Timing: Why It Matters So Much | HarborCare Circle",
-  "metaDescription": "With Parkinson's, taking medication even 15–30 minutes late can visibly affect symptoms. Here's why timing gets so much attention.",
+  "metaDescription": "With Parkinson's, taking medication even 15\u201330 minutes late can visibly affect symptoms. Here's why timing gets so much attention.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Parkinson's medications (especially levodopa) work on a tight schedule tied to symptom control.",
@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Many Parkinson's medications work within a narrow window — taken on time, they smooth out symptoms; taken late, a person can experience a noticeable \"off\" period with more rigidity or slowed movement until the next dose takes effect. This is different from most medications, where a slightly late dose has little visible effect.",
-        "Because of this, a reliable system matters more here than almost anywhere else in caregiving — a pillbox with time slots, phone alarms, or a medication app can all work, as long as it's consistent and someone besides the person with Parkinson's is also tracking it."
+        "Many Parkinson's medications work within a narrow window \u2014 taken on time, they smooth out symptoms; taken late, a person can experience a noticeable \"off\" period with more rigidity or slowed movement until the next dose takes effect. This is different from most medications, where a slightly late dose has little visible effect.",
+        "Because of this, a reliable system matters more here than almost anywhere else in caregiving \u2014 a pillbox with time slots, phone alarms, or a medication app can all work, as long as it's consistent and someone besides the person with Parkinson's is also tracking it."
       ]
     }
   ],
@@ -38,7 +38,7 @@
     "Ask the doctor about flexibility if a routine (like travel) will disrupt the usual schedule."
   ],
   "relatedTool": null,
-  "disclaimer": "This article describes general patterns only. Medication timing, dosing, and interactions are specific to the individual and the exact medications involved — never adjust a dose, schedule, or medication based on this article. Confirm all specifics directly with the prescribing doctor or pharmacist before making any change.",
+  "disclaimer": "This article describes general patterns only. Medication timing, dosing, and interactions are specific to the individual and the exact medications involved \u2014 never adjust a dose, schedule, or medication based on this article. Confirm all specifics directly with the prescribing doctor or pharmacist before making any change.",
   "sources": [
     {
       "name": "Managing 'Off' Time in Parkinson's",
@@ -46,7 +46,7 @@
     },
     {
       "name": "Parkinson's Foundation",
-      "url": null
+      "url": "https://www.parkinson.org/library/podcast/109"
     }
   ],
   "id": "art-013",

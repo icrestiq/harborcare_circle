@@ -18,7 +18,7 @@
   "metaDescription": "Parkinson's caregiving evolves over time, and knowing what tends to come next helps families plan rather than react.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
-    "Early-stage support is often light — mostly encouragement and appointment logistics.",
+    "Early-stage support is often light \u2014 mostly encouragement and appointment logistics.",
     "Mid-stage often adds home safety and daily task support.",
     "Later stages may involve significant physical care needs."
   ],
@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "In early Parkinson's, the caregiving role is often light — helping track medication timing, attending appointments together, and encouraging continued exercise, which has real, evidence-based benefit for symptom management.",
+        "In early Parkinson's, the caregiving role is often light \u2014 helping track medication timing, attending appointments together, and encouraging continued exercise, which has real, evidence-based benefit for symptom management.",
         "As the condition progresses, support often expands to include home safety adaptations, help with daily tasks affected by tremor or slowed movement, and eventually more direct physical assistance. The pace varies enormously between individuals, so this progression isn't a fixed timeline."
       ]
     }
@@ -35,10 +35,10 @@
   "nextSteps": [
     "Encourage regular exercise and physical therapy from an early stage.",
     "Revisit home safety needs periodically rather than once.",
-    "Connect with a Parkinson's support group — the community is active and genuinely helpful."
+    "Connect with a Parkinson's support group \u2014 the community is active and genuinely helpful."
   ],
   "relatedTool": null,
-  "disclaimer": "General guidance — a movement disorder specialist can offer a more specific sense of what to expect for a particular case.",
+  "disclaimer": "General guidance \u2014 a movement disorder specialist can offer a more specific sense of what to expect for a particular case.",
   "sources": [
     {
       "name": "Exercise",
@@ -46,7 +46,7 @@
     },
     {
       "name": "Parkinson's Foundation",
-      "url": null
+      "url": "https://www.parkinson.org/resources-support/carepartners/advanced/daily-living"
     }
   ],
   "id": "art-017",

@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Unlike a hospital stay focused on medical stabilization, a rehab stay centers on structured, daily physical, occupational, and sometimes speech therapy aimed at specific functional goals — walking a certain distance, managing stairs, or handling daily tasks independently again.",
-        "Insurance coverage, especially Medicare's specific rules around skilled nursing and rehab stays, can be confusing and directly affects how long a stay is covered — it's worth asking the facility's social worker or discharge planner about this early, not near the end of the stay."
+        "Unlike a hospital stay focused on medical stabilization, a rehab stay centers on structured, daily physical, occupational, and sometimes speech therapy aimed at specific functional goals \u2014 walking a certain distance, managing stairs, or handling daily tasks independently again.",
+        "Insurance coverage, especially Medicare's specific rules around skilled nursing and rehab stays, can be confusing and directly affects how long a stay is covered \u2014 it's worth asking the facility's social worker or discharge planner about this early, not near the end of the stay."
       ]
     }
   ],
@@ -42,15 +42,15 @@
     "slug": "monthly-cost-estimator",
     "type": "calculator"
   },
-  "disclaimer": "General overview — a facility's social worker or discharge planner can address the specific insurance and timeline questions for a given stay.",
+  "disclaimer": "General overview \u2014 a facility's social worker or discharge planner can address the specific insurance and timeline questions for a given stay.",
   "sources": [
     {
       "name": "Skilled Nursing Facility Care",
       "url": "https://www.medicare.gov/coverage/skilled-nursing-facility-care"
     },
     {
-      "name": "Medicare.gov",
-      "url": null
+      "name": "Medicare.gov: Medicare Coverage of Skilled Nursing Facility Care",
+      "url": "https://www.medicare.gov/publications/10153-Medicare-Skilled-Nursing-Facility-Care.pdf"
     }
   ],
   "id": "art-035",

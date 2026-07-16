@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "Because several heart medications interact with timing, meals, or each other, consistency matters more here than with many other conditions — a pill organizer with specific time slots, rather than just \"morning\" and \"evening,\" reduces the risk of errors.",
+        "Because several heart medications interact with timing, meals, or each other, consistency matters more here than with many other conditions \u2014 a pill organizer with specific time slots, rather than just \"morning\" and \"evening,\" reduces the risk of errors.",
         "Keeping one master medication list, updated after every appointment and shared with every doctor and pharmacy involved, is one of the most effective ways to prevent dangerous interactions or duplications, especially when multiple specialists are prescribing."
       ]
     }
@@ -38,7 +38,7 @@
     "Ask the pharmacist to review the full list periodically for interactions."
   ],
   "relatedTool": null,
-  "disclaimer": "This article describes general patterns only. Medication timing, dosing, and interactions are specific to the individual and the exact medications involved — never adjust a dose, schedule, or medication based on this article. Confirm all specifics directly with the prescribing doctor or pharmacist before making any change.",
+  "disclaimer": "This article describes general patterns only. Medication timing, dosing, and interactions are specific to the individual and the exact medications involved \u2014 never adjust a dose, schedule, or medication based on this article. Confirm all specifics directly with the prescribing doctor or pharmacist before making any change.",
   "sources": [
     {
       "name": "Medication Management",
@@ -46,7 +46,7 @@
     },
     {
       "name": "American Heart Association",
-      "url": null
+      "url": "https://www.heart.org/en/health-topics/cardiac-rehab/managing-your-medicines/taking-control-of-your-medicines"
     }
   ],
   "id": "art-028",

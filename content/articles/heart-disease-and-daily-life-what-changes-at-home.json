@@ -1,7 +1,7 @@
 {
   "title": "Heart Disease and Daily Life: What Changes at Home",
   "slug": "heart-disease-and-daily-life-what-changes-at-home",
-  "summary": "A heart disease diagnosis often means practical changes at home — not necessarily dramatic ones, but consistent daily habits that matter.",
+  "summary": "A heart disease diagnosis often means practical changes at home \u2014 not necessarily dramatic ones, but consistent daily habits that matter.",
   "category": "Conditions II: Physical Health",
   "subcategory": "",
   "tags": [],
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "Heart Disease and Daily Life: What Changes at Home | HarborCare Circle",
-  "metaDescription": "A heart disease diagnosis often means practical changes at home — not necessarily dramatic ones, but consistent daily habits that matter.",
+  "metaDescription": "A heart disease diagnosis often means practical changes at home \u2014 not necessarily dramatic ones, but consistent daily habits that matter.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Diet and activity changes are usually more impactful day-to-day than people expect.",
@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "Small daily habits — reduced sodium, regular light activity as approved by the doctor, and consistent medication timing — tend to matter more for heart disease than any single dramatic change. Consistency is the theme throughout.",
+        "Small daily habits \u2014 reduced sodium, regular light activity as approved by the doctor, and consistent medication timing \u2014 tend to matter more for heart disease than any single dramatic change. Consistency is the theme throughout.",
         "One specific thing worth tracking: sudden weight gain over a couple of days can signal fluid retention related to heart function, and is worth mentioning to the doctor promptly rather than waiting for a scheduled visit."
       ]
     }
@@ -38,7 +38,7 @@
     "Keep an updated medication list on hand for every appointment."
   ],
   "relatedTool": null,
-  "disclaimer": "General guidance — always follow the cardiologist's specific recommendations for diet, activity, and medication.",
+  "disclaimer": "General guidance \u2014 always follow the cardiologist's specific recommendations for diet, activity, and medication.",
   "sources": [
     {
       "name": "Managing Heart Failure Symptoms",
@@ -46,7 +46,7 @@
     },
     {
       "name": "American Heart Association",
-      "url": null
+      "url": "https://www.heart.org/en/health-topics/heart-failure/warning-signs-of-heart-failure"
     }
   ],
   "id": "art-021",

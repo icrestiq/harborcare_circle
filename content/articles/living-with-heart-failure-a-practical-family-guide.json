@@ -18,7 +18,7 @@
   "metaDescription": "Heart failure is a manageable chronic condition for many people, but it requires close attention to a few specific daily signals.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
-    "\"Heart failure\" doesn't mean the heart has stopped — it means it's not pumping as effectively as it should.",
+    "\"Heart failure\" doesn't mean the heart has stopped \u2014 it means it's not pumping as effectively as it should.",
     "Daily weight tracking is one of the most useful early-warning tools.",
     "Fluid and sodium intake often need closer attention than with other heart conditions."
   ],
@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "The term can sound alarming, but heart failure describes reduced pumping efficiency, not a heart that's failed outright — many people live well with it for years using the right combination of medication, diet, and monitoring.",
-        "Daily weight checks at the same time each day are one of the most effective tools for catching fluid buildup early, often before other symptoms appear — a gain of a few pounds in a couple of days is worth calling the doctor about, not waiting to mention at the next visit."
+        "The term can sound alarming, but heart failure describes reduced pumping efficiency, not a heart that's failed outright \u2014 many people live well with it for years using the right combination of medication, diet, and monitoring.",
+        "Daily weight checks at the same time each day are one of the most effective tools for catching fluid buildup early, often before other symptoms appear \u2014 a gain of a few pounds in a couple of days is worth calling the doctor about, not waiting to mention at the next visit."
       ]
     }
   ],
@@ -38,7 +38,7 @@
     "Learn the specific symptoms (swelling, breathlessness, sudden weight gain) that warrant a call."
   ],
   "relatedTool": null,
-  "disclaimer": "General guidance — always follow the cardiologist's specific instructions for this condition.",
+  "disclaimer": "General guidance \u2014 always follow the cardiologist's specific instructions for this condition.",
   "sources": [
     {
       "name": "Managing Heart Failure Symptoms",
@@ -46,7 +46,7 @@
     },
     {
       "name": "American Heart Association",
-      "url": null
+      "url": "https://www.heart.org/en/health-topics/heart-failure/warning-signs-of-heart-failure"
     }
   ],
   "id": "art-032",

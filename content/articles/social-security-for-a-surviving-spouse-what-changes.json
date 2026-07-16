@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "A surviving spouse already receiving their own Social Security retirement benefit may be eligible to switch to a survivor benefit if it's higher, rather than simply continuing on their own smaller benefit — this isn't automatic and typically needs to be requested.",
+        "A surviving spouse already receiving their own Social Security retirement benefit may be eligible to switch to a survivor benefit if it's higher, rather than simply continuing on their own smaller benefit \u2014 this isn't automatic and typically needs to be requested.",
         "There's also a modest one-time lump-sum death benefit available to some surviving spouses, worth asking about directly since it isn't always mentioned proactively."
       ]
     }
@@ -38,11 +38,11 @@
     "Clarify how remarriage, if relevant, affects eligibility."
   ],
   "relatedTool": null,
-  "disclaimer": "General information — Social Security can calculate the specific benefit comparison for your situation.",
+  "disclaimer": "General information \u2014 Social Security can calculate the specific benefit comparison for your situation.",
   "sources": [
     {
-      "name": "Social Security Administration",
-      "url": null
+      "name": "SSA: Survivors Benefits (Pub. No. 05-10084)",
+      "url": "https://www.ssa.gov/pubs/EN-05-10084.pdf"
     }
   ],
   "id": "art-120",

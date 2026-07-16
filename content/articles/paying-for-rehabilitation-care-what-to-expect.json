@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Medicare's coverage for skilled rehab generally requires a prior qualifying hospital stay and has a defined benefit period, with cost-sharing that increases the longer the stay continues — but the exact details depend on the specific plan and situation, so general summaries only go so far.",
-        "Importantly, coverage isn't just about hitting a day count — it can end earlier if the facility determines a patient isn't continuing to show functional progress, which is why understanding the stated goals of the stay matters for the family too."
+        "Medicare's coverage for skilled rehab generally requires a prior qualifying hospital stay and has a defined benefit period, with cost-sharing that increases the longer the stay continues \u2014 but the exact details depend on the specific plan and situation, so general summaries only go so far.",
+        "Importantly, coverage isn't just about hitting a day count \u2014 it can end earlier if the facility determines a patient isn't continuing to show functional progress, which is why understanding the stated goals of the stay matters for the family too."
       ]
     }
   ],
@@ -42,15 +42,15 @@
     "slug": "monthly-cost-estimator",
     "type": "calculator"
   },
-  "disclaimer": "General information, not financial advice — a facility's billing office or a Medicare/Medicaid counselor can address your specific coverage details.",
+  "disclaimer": "General information, not financial advice \u2014 a facility's billing office or a Medicare/Medicaid counselor can address your specific coverage details.",
   "sources": [
     {
       "name": "Skilled Nursing Facility Care",
       "url": "https://www.medicare.gov/coverage/skilled-nursing-facility-care"
     },
     {
-      "name": "Medicare.gov",
-      "url": null
+      "name": "Medicare.gov: Medicare Coverage of Skilled Nursing Facility Care",
+      "url": "https://www.medicare.gov/publications/10153-Medicare-Skilled-Nursing-Facility-Care.pdf"
     }
   ],
   "id": "art-043",

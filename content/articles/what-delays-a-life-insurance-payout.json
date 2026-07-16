@@ -1,7 +1,7 @@
 {
   "title": "What Delays a Life Insurance Payout",
   "slug": "what-delays-a-life-insurance-payout",
-  "summary": "A few common issues account for most life insurance payout delays — knowing them helps you avoid or resolve them faster.",
+  "summary": "A few common issues account for most life insurance payout delays \u2014 knowing them helps you avoid or resolve them faster.",
   "category": "After a Loss II: Notifications & Accounts",
   "subcategory": "Insurance Claims",
   "tags": [],
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "What Delays a Life Insurance Payout | HarborCare Circle",
-  "metaDescription": "A few common issues account for most life insurance payout delays — knowing them helps you avoid or resolve them faster.",
+  "metaDescription": "A few common issues account for most life insurance payout delays \u2014 knowing them helps you avoid or resolve them faster.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Incomplete forms are the most common cause of delay.",
@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "Missing signatures, an incorrect policy number, or an incomplete claim form are the most frequent causes of delay — double-checking the form before submission prevents most of this.",
+        "Missing signatures, an incorrect policy number, or an incomplete claim form are the most frequent causes of delay \u2014 double-checking the form before submission prevents most of this.",
         "If the policy was purchased very recently (often within the last two years), insurers may investigate more closely under what's called a contestability period. Similarly, if beneficiary designations are unclear, outdated, or contested by multiple parties, resolution can take considerably longer."
       ]
     }
@@ -38,11 +38,11 @@
     "Address any beneficiary disputes as early as possible, ideally with legal guidance."
   ],
   "relatedTool": null,
-  "disclaimer": "General information — the specific insurer can clarify the status and any issues with a particular claim.",
+  "disclaimer": "General information \u2014 the specific insurer can clarify the status and any issues with a particular claim.",
   "sources": [
     {
-      "name": "National Association of Insurance Commissioners",
-      "url": null
+      "name": "NAIC Life Insurance Buyer's Guide",
+      "url": "https://content.naic.org/sites/default/files/publication-lig-lp-consumer-life.pdf"
     }
   ],
   "id": "art-126",

@@ -1,7 +1,7 @@
 {
   "title": "Rehab vs. Skilled Nursing: What's the Difference?",
   "slug": "rehab-vs-skilled-nursing-whats-the-difference",
-  "summary": "These terms get used almost interchangeably, but they describe somewhat different things — and the difference affects both care and cost.",
+  "summary": "These terms get used almost interchangeably, but they describe somewhat different things \u2014 and the difference affects both care and cost.",
   "category": "Life Transitions I: The Hospital-to-Home Arc",
   "subcategory": "",
   "tags": [],
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "Rehab vs. Skilled Nursing: What's the Difference? | HarborCare Circle",
-  "metaDescription": "These terms get used almost interchangeably, but they describe somewhat different things — and the difference affects both care and cost.",
+  "metaDescription": "These terms get used almost interchangeably, but they describe somewhat different things \u2014 and the difference affects both care and cost.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "\"Rehab\" usually refers to short-term, goal-focused therapy after a hospitalization.",
@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "\"Rehabilitation\" typically describes a short-term stay focused on regaining specific functional abilities, often in the same building as a skilled nursing facility. \"Skilled nursing\" is a broader term that can describe either that same short-term rehab stay or longer-term care for ongoing medical needs — the distinction often depends on the specific goals and expected length of stay, not the building itself.",
+        "\"Rehabilitation\" typically describes a short-term stay focused on regaining specific functional abilities, often in the same building as a skilled nursing facility. \"Skilled nursing\" is a broader term that can describe either that same short-term rehab stay or longer-term care for ongoing medical needs \u2014 the distinction often depends on the specific goals and expected length of stay, not the building itself.",
         "This distinction matters most for insurance: Medicare, for example, covers short-term skilled rehab differently than longer-term skilled nursing care, so it's worth asking directly which category applies."
       ]
     }
@@ -42,15 +42,15 @@
     "slug": "monthly-cost-estimator",
     "type": "calculator"
   },
-  "disclaimer": "General terminology overview — a facility's admissions or billing staff can clarify the specific category and coverage for a given stay.",
+  "disclaimer": "General terminology overview \u2014 a facility's admissions or billing staff can clarify the specific category and coverage for a given stay.",
   "sources": [
     {
       "name": "Skilled Nursing Facility Care",
       "url": "https://www.medicare.gov/coverage/skilled-nursing-facility-care"
     },
     {
-      "name": "Medicare.gov",
-      "url": null
+      "name": "Medicare.gov: Medicare Coverage of Skilled Nursing Facility Care",
+      "url": "https://www.medicare.gov/publications/10153-Medicare-Skilled-Nursing-Facility-Care.pdf"
     }
   ],
   "id": "art-039",

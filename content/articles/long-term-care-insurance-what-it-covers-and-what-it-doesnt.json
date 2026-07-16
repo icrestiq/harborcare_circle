@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Most long-term care policies pay out once a person needs help with a specific number of \"activities of daily living\" (bathing, dressing, eating, and similar), but the exact threshold and required documentation vary by policy — worth confirming directly rather than assuming.",
-        "Waiting periods (a length of time needing care before benefits start) and daily or monthly benefit caps can significantly affect how far the coverage actually goes — these details are often buried in policy language that's worth a careful read, or a call to the insurer directly."
+        "Most long-term care policies pay out once a person needs help with a specific number of \"activities of daily living\" (bathing, dressing, eating, and similar), but the exact threshold and required documentation vary by policy \u2014 worth confirming directly rather than assuming.",
+        "Waiting periods (a length of time needing care before benefits start) and daily or monthly benefit caps can significantly affect how far the coverage actually goes \u2014 these details are often buried in policy language that's worth a careful read, or a call to the insurer directly."
       ]
     }
   ],
@@ -42,15 +42,15 @@
     "slug": "monthly-cost-estimator",
     "type": "calculator"
   },
-  "disclaimer": "This is general information, not financial advice. Coverage terms, triggers, and exclusions are specific to each policy — confirm exact coverage directly with the insurer or a financial advisor before making decisions based on this article.",
+  "disclaimer": "This is general information, not financial advice. Coverage terms, triggers, and exclusions are specific to each policy \u2014 confirm exact coverage directly with the insurer or a financial advisor before making decisions based on this article.",
   "sources": [
     {
       "name": "A Shopper's Guide to Long-Term Care Insurance",
       "url": "https://content.naic.org/sites/default/files/publication-ltc-lp-shoppers-guide-long-term.pdf"
     },
     {
-      "name": "National Association of Insurance Commissioners",
-      "url": null
+      "name": "NAIC: A Shopper's Guide to Long-Term Care Insurance",
+      "url": "https://content.naic.org/sites/default/files/publication-ltc-lp-shoppers-guide-long-term.pdf"
     }
   ],
   "id": "art-074",

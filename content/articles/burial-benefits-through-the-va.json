@@ -38,11 +38,11 @@
     "Apply for the burial allowance and headstone benefit even if burial isn't in a VA cemetery."
   ],
   "relatedTool": null,
-  "disclaimer": "General information — the VA can confirm specific eligibility and current benefit amounts.",
+  "disclaimer": "General information \u2014 the VA can confirm specific eligibility and current benefit amounts.",
   "sources": [
     {
       "name": "U.S. Department of Veterans Affairs",
-      "url": null
+      "url": "https://www.va.gov/family-and-caregiver-benefits/burials-and-memorials/"
     }
   ],
   "id": "art-122",

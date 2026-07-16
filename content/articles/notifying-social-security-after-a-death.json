@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "In many cases, the funeral home reports the death to Social Security as part of their standard process, but it's worth confirming this happened rather than assuming — a family member can also call the Social Security Administration directly to report it.",
-        "Social Security benefits are not payable for the month of death, so if a payment was received covering that month, it typically needs to be returned — the agency can explain the specific process for this."
+        "In many cases, the funeral home reports the death to Social Security as part of their standard process, but it's worth confirming this happened rather than assuming \u2014 a family member can also call the Social Security Administration directly to report it.",
+        "Social Security benefits are not payable for the month of death, so if a payment was received covering that month, it typically needs to be returned \u2014 the agency can explain the specific process for this."
       ]
     }
   ],
@@ -38,11 +38,11 @@
     "Ask specifically about any payment that may need to be returned."
   ],
   "relatedTool": null,
-  "disclaimer": "General information — the Social Security Administration can address the specific details of your situation.",
+  "disclaimer": "General information \u2014 the Social Security Administration can address the specific details of your situation.",
   "sources": [
     {
       "name": "Social Security Administration",
-      "url": null
+      "url": "https://www.ssa.gov/survivor"
     }
   ],
   "id": "art-117",

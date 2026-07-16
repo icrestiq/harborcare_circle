@@ -28,7 +28,7 @@
       "heading": null,
       "paragraphs": [
         "Dependency and Indemnity Compensation is a tax-free monthly benefit available to some surviving spouses and dependents when a death is connected to military service, distinct from general Social Security survivor benefits.",
-        "If the veteran elected the Survivor Benefit Plan during their service, it provides an ongoing monthly annuity to the surviving spouse — worth confirming whether this election was made, since it directly affects what's owed."
+        "If the veteran elected the Survivor Benefit Plan during their service, it provides an ongoing monthly annuity to the surviving spouse \u2014 worth confirming whether this election was made, since it directly affects what's owed."
       ]
     }
   ],
@@ -38,11 +38,11 @@
     "Confirm any changes to TRICARE or other military health benefits."
   ],
   "relatedTool": null,
-  "disclaimer": "General information — the VA or Defense Finance and Accounting Service can confirm specific benefit status.",
+  "disclaimer": "General information \u2014 the VA or Defense Finance and Accounting Service can confirm specific benefit status.",
   "sources": [
     {
       "name": "U.S. Department of Veterans Affairs",
-      "url": null
+      "url": "https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/dependency-indemnity-compensation/"
     }
   ],
   "id": "art-123",

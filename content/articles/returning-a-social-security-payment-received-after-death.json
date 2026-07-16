@@ -1,7 +1,7 @@
 {
   "title": "Returning a Social Security Payment Received After Death",
   "slug": "returning-a-social-security-payment-received-after-death",
-  "summary": "A payment received around the time of death sometimes needs to be returned — knowing the process avoids confusion or accidental issues later.",
+  "summary": "A payment received around the time of death sometimes needs to be returned \u2014 knowing the process avoids confusion or accidental issues later.",
   "category": "After a Loss II: Notifications & Accounts",
   "subcategory": "Social Security",
   "tags": [],
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "Returning a Social Security Payment Received After Death | HarborCare Circle",
-  "metaDescription": "A payment received around the time of death sometimes needs to be returned — knowing the process avoids confusion or accidental issues later.",
+  "metaDescription": "A payment received around the time of death sometimes needs to be returned \u2014 knowing the process avoids confusion or accidental issues later.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Social Security benefits cover the prior month, so timing can be confusing.",
@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "Because Social Security payments are issued for the previous month, a payment arriving shortly after a death may actually cover a month the person was alive for, or it may need to be returned — the timing takes some untangling.",
+        "Because Social Security payments are issued for the previous month, a payment arriving shortly after a death may actually cover a month the person was alive for, or it may need to be returned \u2014 the timing takes some untangling.",
         "If a payment needs to be returned, this is often handled by contacting the bank (for direct deposits) or Social Security directly, who can guide the specific return process."
       ]
     }
@@ -38,11 +38,11 @@
     "Ask for written confirmation once resolved."
   ],
   "relatedTool": null,
-  "disclaimer": "General information — Social Security can confirm the specific status of any payment in question.",
+  "disclaimer": "General information \u2014 Social Security can confirm the specific status of any payment in question.",
   "sources": [
     {
-      "name": "Social Security Administration",
-      "url": null
+      "name": "SSA: Social Security Survivors Benefits Toolkit",
+      "url": "https://www.ssa.gov/marketing/assets/materials/toolkit-ss-survivors-benefit.pdf"
     }
   ],
   "id": "art-119",
