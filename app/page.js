@@ -150,19 +150,19 @@ export default function HomePage() {
       <section id="app-waitlist" className="max-w-6xl mx-auto px-6 pb-16 scroll-mt-24">
         <div className="bg-blue-tint rounded-2xl p-6 md:p-10 shadow-[0_20px_45px_-15px_rgba(16,42,67,0.35)] border border-white/60">
           <div className="flex flex-col items-center text-center mb-8">
-            <span className="inline-block bg-orange-tint text-[#B15300] text-xs font-semibold px-3 py-1 rounded-full mb-5">
+            <span className="inline-block bg-orange-tint text-[#B15300] text-xs font-semibold px-3 py-1 rounded-full">
               Coming Soon
             </span>
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src="/app-preview.png"
-              alt="Preview of the HarborCare Circle app showing today's medications and upcoming appointments"
-              className="w-full max-w-[240px] drop-shadow-xl mb-6"
-            />
           </div>
 
           <div className="grid md:grid-cols-[1.3fr_1fr] gap-8 items-start">
             <div className="text-left">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src="/app-preview.png"
+                alt="Preview of the HarborCare Circle app showing today's medications and upcoming appointments"
+                className="w-full max-w-[240px] drop-shadow-xl mb-6 mx-auto block"
+              />
               <h2 className="text-2xl font-heading mb-3">The HarborCare Circle App</h2>
               <p className="text-sm text-soft-navy mb-5 leading-relaxed">
                 HarborCare Circle App is a family care coordination platform designed to help families
@@ -202,6 +202,18 @@ export default function HomePage() {
                   <div className="flex gap-2.5 items-start">
                     <span className="text-care-teal font-bold text-lg leading-none">✓</span>
                     <span>Keep documents in one secure place</span>
+                  </div>
+                  <div className="flex gap-2.5 items-start">
+                    <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                    <span>Coordinate medications &amp; appointments</span>
+                  </div>
+                  <div className="flex gap-2.5 items-start">
+                    <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                    <span>Share updates with your whole family circle</span>
+                  </div>
+                  <div className="flex gap-2.5 items-start">
+                    <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                    <span>Get gentle reminders for what's next</span>
                   </div>
                 </div>
               </div>
