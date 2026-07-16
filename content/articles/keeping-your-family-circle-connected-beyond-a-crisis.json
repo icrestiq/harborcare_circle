@@ -1,7 +1,7 @@
 {
   "title": "Keeping Your Family Circle Connected Beyond a Crisis",
   "slug": "keeping-your-family-circle-connected-beyond-a-crisis",
-  "summary": "Most caregiving coordination tools get used hardest during a crisis and abandoned right after — the app is designed to stay useful in the calmer stretches too.",
+  "summary": "Most caregiving coordination tools get used hardest during a crisis and abandoned right after \u2014 the app is designed to stay useful in the calmer stretches too.",
   "category": "Software Connection + Year-in-Review",
   "subcategory": "Why We Built What We Built",
   "tags": [],
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "Keeping Your Family Circle Connected Beyond a Crisis | HarborCare Circle",
-  "metaDescription": "Most caregiving coordination tools get used hardest during a crisis and abandoned right after — the app is designed to stay useful in the calmer stretches ",
+  "metaDescription": "Most caregiving coordination tools get used hardest during a crisis and abandoned right after \u2014 the app is designed to stay useful in the calmer stretches ",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Crisis-driven coordination tends to fade once the crisis passes, even though needs continue.",
@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "It's a common pattern: a family pulls together tightly during a hospitalization or crisis, coordinating closely, and then that coordination naturally fades once things stabilize — even though ongoing needs (medications, appointments, gradual changes) don't actually disappear.",
-        "Designing for the quieter, ongoing stretches — not just the dramatic ones — is part of why the app aims to stay lightweight enough to check in on periodically, rather than requiring the same intensity of engagement at all times."
+        "It's a common pattern: a family pulls together tightly during a hospitalization or crisis, coordinating closely, and then that coordination naturally fades once things stabilize \u2014 even though ongoing needs (medications, appointments, gradual changes) don't actually disappear.",
+        "Designing for the quieter, ongoing stretches \u2014 not just the dramatic ones \u2014 is part of why the app aims to stay lightweight enough to check in on periodically, rather than requiring the same intensity of engagement at all times."
       ]
     }
   ],
@@ -41,7 +41,7 @@
   "sources": [
     {
       "name": "Family Caregiver Alliance",
-      "url": null
+      "url": "https://www.caregiver.org/"
     }
   ],
   "id": "art-163",

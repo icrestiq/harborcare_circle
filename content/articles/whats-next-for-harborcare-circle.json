@@ -19,7 +19,7 @@
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "The free website and its tools continue to expand.",
-    "The app, still in development, aims to extend — not replace — what's already useful here.",
+    "The app, still in development, aims to extend \u2014 not replace \u2014 what's already useful here.",
     "Feedback from real families continues to shape what gets built next."
   ],
   "tableOfContents": [],
@@ -27,22 +27,22 @@
     {
       "heading": null,
       "paragraphs": [
-        "The free resource hub will keep growing — more articles, more checklists, more conditions and transitions covered — regardless of anything else in development, since that free value was always the starting point, not a placeholder for something else.",
-        "The planned app extends specific pain points already identified here — shared task tracking, document storage, deeper after-loss support — built based on what real families using this site have described needing most."
+        "The free resource hub will keep growing \u2014 more articles, more checklists, more conditions and transitions covered \u2014 regardless of anything else in development, since that free value was always the starting point, not a placeholder for something else.",
+        "The planned app extends specific pain points already identified here \u2014 shared task tracking, document storage, deeper after-loss support \u2014 built based on what real families using this site have described needing most."
       ]
     }
   ],
   "nextSteps": [
     "Keep using and returning to the free resources, which will keep expanding.",
     "Join the waitlist if the app's direction sounds useful for your situation.",
-    "Share feedback — it genuinely shapes what gets built next."
+    "Share feedback \u2014 it genuinely shapes what gets built next."
   ],
   "relatedTool": null,
   "disclaimer": "Reflects current plans, which may evolve based on what families continue to need.",
   "sources": [
     {
       "name": "Family Caregiver Alliance",
-      "url": null
+      "url": "https://www.caregiver.org/"
     }
   ],
   "id": "art-175",

@@ -1,7 +1,7 @@
 {
   "title": "From Checklist to Shared Task: What HarborCare Circle the App Adds",
   "slug": "from-checklist-to-shared-task-what-harborcare-circle-the-app-adds",
-  "summary": "The free checklists on this site solve part of the coordination problem — the app is built to solve the rest of it.",
+  "summary": "The free checklists on this site solve part of the coordination problem \u2014 the app is built to solve the rest of it.",
   "category": "Software Connection + Year-in-Review",
   "subcategory": "Why We Built What We Built",
   "tags": [],
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "From Checklist to Shared Task: What HarborCare Circle the App Adds | HarborCare Circle",
-  "metaDescription": "The free checklists on this site solve part of the coordination problem — the app is built to solve the rest of it.",
+  "metaDescription": "The free checklists on this site solve part of the coordination problem \u2014 the app is built to solve the rest of it.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "A checklist tells you what needs doing; it doesn't track who's doing it.",
@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "A printable or on-screen checklist works well for a single person tracking their own progress, but caregiving is rarely a solo effort — once several family members are involved, a static list can't show who's already handled a task or who's planning to.",
-        "The app extends this same content into assignable tasks — a sibling can claim \"schedule the follow-up appointment,\" mark it done, and everyone else sees it update in real time, removing the \"did someone already do this?\" uncertainty that static lists can't solve."
+        "A printable or on-screen checklist works well for a single person tracking their own progress, but caregiving is rarely a solo effort \u2014 once several family members are involved, a static list can't show who's already handled a task or who's planning to.",
+        "The app extends this same content into assignable tasks \u2014 a sibling can claim \"schedule the follow-up appointment,\" mark it done, and everyone else sees it update in real time, removing the \"did someone already do this?\" uncertainty that static lists can't solve."
       ]
     }
   ],
@@ -42,7 +42,7 @@
   "sources": [
     {
       "name": "Family Caregiver Alliance",
-      "url": null
+      "url": "https://www.caregiver.org/"
     }
   ],
   "id": "art-162",

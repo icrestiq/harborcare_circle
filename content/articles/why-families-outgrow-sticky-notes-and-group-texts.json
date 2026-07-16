@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "A group text is genuinely useful for quick updates in the moment, but it's a poor long-term record — important details get buried under unrelated messages within days, and nobody can easily search back for \"what did the doctor say in March.\"",
-        "Physical methods like a kitchen whiteboard work fine when everyone lives together, but break down as soon as coordination needs to span multiple households — which is usually the specific moment families start looking for a better system."
+        "A group text is genuinely useful for quick updates in the moment, but it's a poor long-term record \u2014 important details get buried under unrelated messages within days, and nobody can easily search back for \"what did the doctor say in March.\"",
+        "Physical methods like a kitchen whiteboard work fine when everyone lives together, but break down as soon as coordination needs to span multiple households \u2014 which is usually the specific moment families start looking for a better system."
       ]
     }
   ],
@@ -42,7 +42,7 @@
   "sources": [
     {
       "name": "Family Caregiver Alliance",
-      "url": null
+      "url": "https://www.caregiver.org/"
     }
   ],
   "id": "art-166",

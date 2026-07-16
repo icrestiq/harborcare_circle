@@ -19,7 +19,7 @@
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "A ground-floor bedroom and bathroom, if possible, prevents a lot of future difficulty.",
-    "Privacy — a door that closes, a space that's truly theirs — matters more than people expect.",
+    "Privacy \u2014 a door that closes, a space that's truly theirs \u2014 matters more than people expect.",
     "Basic safety adjustments (grab bars, lighting) are easiest to make before moving day, not after."
   ],
   "tableOfContents": [],
@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "If your home has a ground-floor bedroom and bathroom option, using it prevents future struggles with stairs as mobility changes — even if it's not strictly necessary on day one. It's much easier to set this up in advance than to retrofit later during a crisis.",
-        "A private space with a door that closes — even if it's not a huge room — helps a parent maintain some sense of autonomy and dignity in someone else's home, which matters more to most people than the room's size."
+        "If your home has a ground-floor bedroom and bathroom option, using it prevents future struggles with stairs as mobility changes \u2014 even if it's not strictly necessary on day one. It's much easier to set this up in advance than to retrofit later during a crisis.",
+        "A private space with a door that closes \u2014 even if it's not a huge room \u2014 helps a parent maintain some sense of autonomy and dignity in someone else's home, which matters more to most people than the room's size."
       ]
     }
   ],
@@ -38,7 +38,7 @@
     "Set up at least one private, closable space that's clearly theirs."
   ],
   "relatedTool": null,
-  "disclaimer": "General guidance — an occupational therapist can offer a more thorough home safety assessment tailored to specific needs.",
+  "disclaimer": "General guidance \u2014 an occupational therapist can offer a more thorough home safety assessment tailored to specific needs.",
   "sources": [
     {
       "name": "Home Away from Home: Relocating Your Parents",
@@ -46,7 +46,7 @@
     },
     {
       "name": "Family Caregiver Alliance",
-      "url": null
+      "url": "https://www.caregiver.org/resource/home-away-home-relocating-your-parents/"
     }
   ],
   "id": "art-054",

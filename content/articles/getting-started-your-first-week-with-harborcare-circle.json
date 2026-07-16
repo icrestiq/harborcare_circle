@@ -18,7 +18,7 @@
   "metaDescription": "If you're new here, a simple first week makes this resource immediately useful without feeling overwhelming.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
-    "You don't need to read everything — starting with your specific situation is enough.",
+    "You don't need to read everything \u2014 starting with your specific situation is enough.",
     "One assessment or checklist is a good first concrete step.",
     "Bookmarking a few relevant hubs makes returning easier than searching each time."
   ],
@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "Rather than trying to absorb the whole site, starting with whatever specifically matches your situation right now — a condition, a transition, an urgent checklist — is the most useful entry point, not a chronological read-through.",
+        "Rather than trying to absorb the whole site, starting with whatever specifically matches your situation right now \u2014 a condition, a transition, an urgent checklist \u2014 is the most useful entry point, not a chronological read-through.",
         "Completing one assessment or starting one checklist in your first week turns abstract browsing into a concrete first step, and bookmarking the hub most relevant to your situation makes it easy to return without re-searching each time."
       ]
     }
@@ -42,11 +42,11 @@
     "slug": "care-readiness-assessment",
     "type": "assessment"
   },
-  "disclaimer": "A practical orientation for new visitors — welcome to HarborCare Circle.",
+  "disclaimer": "A practical orientation for new visitors \u2014 welcome to HarborCare Circle.",
   "sources": [
     {
       "name": "Family Caregiver Alliance",
-      "url": null
+      "url": "https://www.caregiver.org/"
     }
   ],
   "id": "art-176",

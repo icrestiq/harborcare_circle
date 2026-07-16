@@ -1,7 +1,7 @@
 {
   "title": "What Changes When Care Becomes a Team Effort",
   "slug": "what-changes-when-care-becomes-a-team-effort",
-  "summary": "Caregiving that's shared deliberately, rather than falling to one person by default, tends to hold up better over time — here's why that shift matters.",
+  "summary": "Caregiving that's shared deliberately, rather than falling to one person by default, tends to hold up better over time \u2014 here's why that shift matters.",
   "category": "Software Connection + Year-in-Review",
   "subcategory": "Why We Built What We Built",
   "tags": [],
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "What Changes When Care Becomes a Team Effort | HarborCare Circle",
-  "metaDescription": "Caregiving that's shared deliberately, rather than falling to one person by default, tends to hold up better over time — here's why that shift matters.",
+  "metaDescription": "Caregiving that's shared deliberately, rather than falling to one person by default, tends to hold up better over time \u2014 here's why that shift matters.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Caregiving often starts with one default person and stays that way by inertia, not by design.",
@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "It's extremely common for one family member to become the default caregiver simply because they live closest or spoke up first — and for that arrangement to persist by inertia long after it stops being sustainable or fair.",
-        "Good intentions about \"sharing the load\" often fail in practice without shared visibility into what's actually happening — which is the underlying reason coordination tools matter as much as the caregiving tasks themselves."
+        "It's extremely common for one family member to become the default caregiver simply because they live closest or spoke up first \u2014 and for that arrangement to persist by inertia long after it stops being sustainable or fair.",
+        "Good intentions about \"sharing the load\" often fail in practice without shared visibility into what's actually happening \u2014 which is the underlying reason coordination tools matter as much as the caregiving tasks themselves."
       ]
     }
   ],
@@ -37,11 +37,11 @@
     "Consider the Family Responsibility Planner as a starting point for a more deliberate split."
   ],
   "relatedTool": null,
-  "disclaimer": "General reflection — every family's ideal division of labor looks different.",
+  "disclaimer": "General reflection \u2014 every family's ideal division of labor looks different.",
   "sources": [
     {
       "name": "Family Caregiver Alliance",
-      "url": null
+      "url": "https://www.caregiver.org/resource/holding-family-meeting/"
     }
   ],
   "id": "art-164",
