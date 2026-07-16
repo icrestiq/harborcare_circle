@@ -1,7 +1,7 @@
 {
   "title": "Keeping Your Family Circle Connected Beyond a Crisis",
   "slug": "keeping-your-family-circle-connected-beyond-a-crisis",
-  "summary": "Most caregiving coordination tools get used hardest during a crisis and abandoned right after \u2014 the app is designed to stay useful in the calmer stretches too.",
+  "summary": "Most caregiving coordination gets used hardest during a crisis and abandoned right after \u2014 even though the quieter, ongoing needs don't actually disappear.",
   "category": "Software Connection + Year-in-Review",
   "subcategory": "Why We Built What We Built",
   "tags": [],
@@ -15,12 +15,12 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "Keeping Your Family Circle Connected Beyond a Crisis | HarborCare Circle",
-  "metaDescription": "Most caregiving coordination tools get used hardest during a crisis and abandoned right after \u2014 the app is designed to stay useful in the calmer stretches ",
+  "metaDescription": "Most caregiving coordination gets used hardest during a crisis and abandoned right after \u2014 the ongoing needs don't actually disappear.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Crisis-driven coordination tends to fade once the crisis passes, even though needs continue.",
     "Ongoing, lower-intensity coordination still benefits from shared visibility.",
-    "The goal is a tool that flexes with intensity, not one built only for emergencies."
+    "What matters is a system that can flex with intensity, rather than one that only works during emergencies."
   ],
   "tableOfContents": [],
   "body": [
@@ -28,7 +28,7 @@
       "heading": null,
       "paragraphs": [
         "It's a common pattern: a family pulls together tightly during a hospitalization or crisis, coordinating closely, and then that coordination naturally fades once things stabilize \u2014 even though ongoing needs (medications, appointments, gradual changes) don't actually disappear.",
-        "Designing for the quieter, ongoing stretches \u2014 not just the dramatic ones \u2014 is part of why the app aims to stay lightweight enough to check in on periodically, rather than requiring the same intensity of engagement at all times."
+        "Whatever system a family uses, it helps to think about the quieter, ongoing stretches \u2014 not just the dramatic ones \u2014 since a system that only gets used during emergencies tends to fall out of habit exactly when smaller, gradual changes are easiest to miss."
       ]
     }
   ],
@@ -37,7 +37,7 @@
     "Consider what a lower-effort, ongoing check-in system would look like for your situation."
   ],
   "relatedTool": null,
-  "disclaimer": "This describes the app's design philosophy, not a specific available feature yet.",
+  "disclaimer": "General observation about common caregiving coordination patterns.",
   "sources": [
     {
       "name": "Family Caregiver Alliance",
