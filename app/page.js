@@ -211,6 +211,129 @@ export default function HomePage() {
 
       </section>
 
+      <section id="legacy-circle-app" className="max-w-6xl mx-auto px-6 pb-16 scroll-mt-24">
+        <div className="bg-blue-tint rounded-2xl p-6 md:p-10 shadow-[0_20px_45px_-15px_rgba(16,42,67,0.35)] border border-white/60">
+          <div className="flex flex-col items-center text-center mb-8">
+            <span className="inline-block bg-orange-tint text-[#B15300] text-xs font-semibold px-3 py-1 rounded-full mb-5">
+              Scheduled for Release: End of 2026
+            </span>
+          </div>
+
+          <div className="grid md:grid-cols-[1.3fr_1fr] gap-8 items-start">
+            <div className="text-left">
+              <h2 className="text-2xl font-heading mb-3">Legacy Circle App</h2>
+              <p className="text-sm text-soft-navy mb-5 leading-relaxed">
+                Legacy Circle App helps families preserve the stories, memories, and experiences
+                that make every life unique. Through recorded interviews, voice recordings, family
+                recipes, photographs, videos, and personal stories, Legacy Circle creates a lasting
+                digital archive that can be shared across generations. Powered by AI organization
+                and storytelling tools, it transforms treasured memories into a searchable family
+                legacy, ensuring that important moments, wisdom, traditions, and family history are
+                never lost.
+              </p>
+              <p className="text-sm text-soft-navy">
+                It isn't built yet. Joining the waitlist just means we'll email you when it's ready —
+                nothing else happens, and there's no obligation.
+              </p>
+            </div>
+
+            <div className="flex flex-col items-center gap-5">
+              <Link
+                href="/waitlist?product=legacy-circle"
+                className="inline-block bg-connection-orange text-white font-semibold text-sm px-6 py-3 rounded-xl shadow-[0_8px_16px_-4px_rgba(255,122,33,0.5)]"
+              >
+                Join the App Waitlist
+              </Link>
+              <div
+                className="bg-[#FFFDF5] rounded-sm p-6 text-sm shadow-[3px_4px_12px_rgba(16,42,67,0.18)] rotate-1 w-full"
+                style={{ fontFamily: "'Kalam', cursive" }}
+              >
+                <div className="space-y-3">
+                  <div className="flex gap-2.5 items-start">
+                    <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                    <span>Preserve stories, memories &amp; experiences</span>
+                  </div>
+                  <div className="flex gap-2.5 items-start">
+                    <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                    <span>Recorded interviews &amp; voice recordings</span>
+                  </div>
+                  <div className="flex gap-2.5 items-start">
+                    <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                    <span>Family recipes, photos &amp; videos</span>
+                  </div>
+                  <div className="flex gap-2.5 items-start">
+                    <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                    <span>Personal stories, safely archived</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="continuity-circle-kit" className="max-w-6xl mx-auto px-6 pb-16 scroll-mt-24">
+        <div className="bg-blue-tint rounded-2xl p-6 md:p-10 shadow-[0_20px_45px_-15px_rgba(16,42,67,0.35)] border border-white/60">
+          <div className="flex flex-col items-center text-center mb-8">
+            <span className="inline-block bg-orange-tint text-[#B15300] text-xs font-semibold px-3 py-1 rounded-full mb-5">
+              Due: Mid Q1 2027
+            </span>
+          </div>
+
+          <div className="grid md:grid-cols-[1.3fr_1fr] gap-8 items-start">
+            <div className="text-left">
+              <h2 className="text-2xl font-heading mb-3">Continuity Circle Kit</h2>
+              <p className="text-sm text-soft-navy mb-5 leading-relaxed">
+                Continuity Circle Kit Document Organizer is a guided family information system
+                designed to keep life's most important documents organized, accessible, and
+                protected. From insurance policies, wills, powers of attorney, and medical
+                information to financial accounts, property records, and emergency contacts, the
+                organizer helps families gather critical information in one secure location before
+                it's urgently needed. Whether preparing for an unexpected emergency, supporting
+                aging parents, or simplifying estate and executor responsibilities, Continuity
+                Circle Kit provides a clear, structured roadmap that helps families stay organized,
+                reduce stress, and ensure important information is never lost when it matters most.
+              </p>
+              <p className="text-sm text-soft-navy">
+                It isn't built yet. Joining the waitlist just means we'll email you when it's ready —
+                nothing else happens, and there's no obligation.
+              </p>
+            </div>
+
+            <div className="flex flex-col items-center gap-5">
+              <Link
+                href="/waitlist?product=continuity-circle-kit"
+                className="inline-block bg-connection-orange text-white font-semibold text-sm px-6 py-3 rounded-xl shadow-[0_8px_16px_-4px_rgba(255,122,33,0.5)]"
+              >
+                Join the App Waitlist
+              </Link>
+              <div
+                className="bg-[#FFFDF5] rounded-sm p-6 text-sm shadow-[3px_4px_12px_rgba(16,42,67,0.18)] rotate-1 w-full"
+                style={{ fontFamily: "'Kalam', cursive" }}
+              >
+                <div className="space-y-3">
+                  <div className="flex gap-2.5 items-start">
+                    <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                    <span>Insurance, wills, POA &amp; medical info organized</span>
+                  </div>
+                  <div className="flex gap-2.5 items-start">
+                    <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                    <span>Financial accounts &amp; property records in one place</span>
+                  </div>
+                  <div className="flex gap-2.5 items-start">
+                    <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                    <span>Emergency contacts, ready when needed</span>
+                  </div>
+                  <div className="flex gap-2.5 items-start">
+                    <span className="text-care-teal font-bold text-lg leading-none">✓</span>
+                    <span>A clear roadmap for estate &amp; executor tasks</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 
       <section className="max-w-6xl mx-auto px-6 pb-20">
         <div className="bg-soft-navy text-white rounded-2xl p-10 grid md:grid-cols-3 gap-6">
