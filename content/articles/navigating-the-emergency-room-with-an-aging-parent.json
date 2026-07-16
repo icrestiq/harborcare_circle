@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Handing the ER team a written medication list and a short summary — what happened, when, and any relevant history — saves valuable time and reduces the chance of important details being missed under pressure.",
-        "It's common for older adults to seem more confused in an unfamiliar, loud ER environment than they normally are at home — this is sometimes called \"ER delirium\" and doesn't necessarily reflect an underlying cognitive problem, though it's still worth mentioning to the team."
+        "Handing the ER team a written medication list and a short summary \u2014 what happened, when, and any relevant history \u2014 saves valuable time and reduces the chance of important details being missed under pressure.",
+        "It's common for older adults to seem more confused in an unfamiliar, loud ER environment than they normally are at home \u2014 this is sometimes called \"ER delirium\" and doesn't necessarily reflect an underlying cognitive problem, though it's still worth mentioning to the team."
       ]
     }
   ],
@@ -38,7 +38,7 @@
     "Request updates proactively rather than waiting, since ERs can be chaotic."
   ],
   "relatedTool": null,
-  "disclaimer": "General guidance for a stressful, fast-moving situation — always follow the direct instructions of the treating ER team.",
+  "disclaimer": "General guidance for a stressful, fast-moving situation \u2014 always follow the direct instructions of the treating ER team.",
   "sources": [
     {
       "name": "Geriatric Emergency Department Guidelines",
@@ -46,7 +46,7 @@
     },
     {
       "name": "American College of Emergency Physicians",
-      "url": null
+      "url": "https://www.acep.org/siteassets/sites/geda/media/documnets/geda-guidelines.pdf"
     }
   ],
   "id": "art-037",

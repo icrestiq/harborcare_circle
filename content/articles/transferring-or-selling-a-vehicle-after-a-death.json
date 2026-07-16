@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Each state's DMV has its own specific process, but most require a certified death certificate along with proof of who inherits the vehicle — either through a will, small estate affidavit, or probate documentation, depending on the estate's size and state rules.",
-        "Before continuing to drive or sell the vehicle, confirming that insurance coverage is updated to reflect the new owner is an important, sometimes overlooked step — driving on a lapsed or improperly named policy carries real risk."
+        "Each state's DMV has its own specific process, but most require a certified death certificate along with proof of who inherits the vehicle \u2014 either through a will, small estate affidavit, or probate documentation, depending on the estate's size and state rules.",
+        "Before continuing to drive or sell the vehicle, confirming that insurance coverage is updated to reflect the new owner is an important, sometimes overlooked step \u2014 driving on a lapsed or improperly named policy carries real risk."
       ]
     }
   ],
@@ -38,11 +38,11 @@
     "Update insurance before continued use or sale."
   ],
   "relatedTool": null,
-  "disclaimer": "General information — your state's DMV is the authoritative source for the specific process required.",
+  "disclaimer": "General information \u2014 your state's DMV is the authoritative source for the specific process required.",
   "sources": [
     {
       "name": "American Association of Motor Vehicle Administrators",
-      "url": null
+      "url": "https://www.aamva.org/topics/vehicle-title"
     }
   ],
   "id": "art-137",

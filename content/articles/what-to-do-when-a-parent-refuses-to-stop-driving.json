@@ -1,7 +1,7 @@
 {
   "title": "What to Do When a Parent Refuses to Stop Driving",
   "slug": "what-to-do-when-a-parent-refuses-to-stop-driving",
-  "summary": "When persuasion isn't working, families do have some real options — though none of them are easy or fast.",
+  "summary": "When persuasion isn't working, families do have some real options \u2014 though none of them are easy or fast.",
   "category": "Life Transitions II: Moving & Driving",
   "subcategory": "Parent Can No Longer Drive",
   "tags": [],
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "What to Do When a Parent Refuses to Stop Driving | HarborCare Circle",
-  "metaDescription": "When persuasion isn't working, families do have some real options — though none of them are easy or fast.",
+  "metaDescription": "When persuasion isn't working, families do have some real options \u2014 though none of them are easy or fast.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "A doctor can sometimes report safety concerns to the DMV, depending on the state.",
@@ -28,7 +28,7 @@
       "heading": null,
       "paragraphs": [
         "Rules vary by state, but in many places a doctor can submit a report to the DMV recommending a re-evaluation of driving privileges, which can carry more official weight than a family request alone. It's worth asking their doctor directly whether this is an option.",
-        "As a last resort, some families make the car less accessible — parking it elsewhere, disabling it temporarily, or having a frank conversation about not replacing keys. These steps understandably feel difficult and are usually a final option after other approaches haven't worked, not a first move."
+        "As a last resort, some families make the car less accessible \u2014 parking it elsewhere, disabling it temporarily, or having a frank conversation about not replacing keys. These steps understandably feel difficult and are usually a final option after other approaches haven't worked, not a first move."
       ]
     }
   ],
@@ -41,16 +41,8 @@
   "disclaimer": "DMV reporting rules and processes vary significantly by state and are general information here, not legal advice. Confirm the actual process with your state's DMV or an elder law attorney before relying on it.",
   "sources": [
     {
-      "name": "NHTSA/American Geriatrics Society",
-      "url": null
-    },
-    {
-      "name": "[\"Clinician's Guide to Assessing and Counseling Older Drivers",
-      "url": null
-    },
-    {
-      "name": "\" Ch. 8 (State Licensing and Reporting Laws)](https://www.nhtsa.gov/sites/nhtsa.gov/files/812228_cliniciansguidetoolderdrivers.pdf)",
-      "url": null
+      "name": "Clinician's Guide to Assessing and Counseling Older Drivers (NHTSA & American Geriatrics Society)",
+      "url": "https://www.nhtsa.gov/document/clinicians-guide-assessing-and-counseling-older-drivers-3rd-edition"
     }
   ],
   "id": "art-052",
