@@ -1,7 +1,7 @@
 {
   "title": "Paying for Care: Comparing Your Family's Options",
   "slug": "paying-for-care-comparing-your-familys-options",
-  "summary": "Most families end up combining several funding sources for care rather than relying on just one — here's how the major options typically compare.",
+  "summary": "Most families end up combining several funding sources for care rather than relying on just one \u2014 here's how the major options typically compare.",
   "category": "Life Transitions III: Legal & Financial Shifts",
   "subcategory": "Financial Caregiving Basics, Expanded",
   "tags": [],
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "Paying for Care: Comparing Your Family's Options | HarborCare Circle",
-  "metaDescription": "Most families end up combining several funding sources for care rather than relying on just one — here's how the major options typically compare.",
+  "metaDescription": "Most families end up combining several funding sources for care rather than relying on just one \u2014 here's how the major options typically compare.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Private funds, long-term care insurance, Medicaid, and veterans' benefits are the most common funding sources.",
@@ -28,7 +28,7 @@
       "heading": null,
       "paragraphs": [
         "Private savings offer the most flexibility but obviously deplete over time; long-term care insurance offsets some cost if a policy exists; Medicaid covers many long-term needs but requires meeting strict eligibility rules; and veterans' benefits, where applicable, can provide meaningful additional support many families don't realize they qualify for.",
-        "Most families end up blending several of these rather than relying on one clean source — understanding the full landscape early makes it easier to plan a realistic combination rather than reacting under pressure later."
+        "Most families end up blending several of these rather than relying on one clean source \u2014 understanding the full landscape early makes it easier to plan a realistic combination rather than reacting under pressure later."
       ]
     }
   ],
@@ -42,7 +42,7 @@
     "slug": "monthly-cost-estimator",
     "type": "calculator"
   },
-  "disclaimer": "General information, not financial advice — a financial advisor familiar with elder care costs can help build a plan specific to your situation.",
+  "disclaimer": "General information, not financial advice \u2014 a financial advisor familiar with elder care costs can help build a plan specific to your situation.",
   "sources": [
     {
       "name": "Paying for Long-Term Care",
@@ -50,7 +50,7 @@
     },
     {
       "name": "National Institute on Aging",
-      "url": null
+      "url": "https://www.nia.nih.gov/health/assisted-living-and-nursing-homes"
     }
   ],
   "id": "art-076",

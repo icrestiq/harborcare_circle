@@ -1,8 +1,8 @@
 {
   "title": "Understanding Hospice: What It Is and Isn't",
   "slug": "understanding-hospice-what-it-is-and-isnt",
-  "summary": "Hospice is often misunderstood as \"giving up,\" when it's really a shift in focus toward comfort — a distinction worth understanding clearly.",
-  "category": "Hospice & End-of-Life (Weeks 1–3 of 4)",
+  "summary": "Hospice is often misunderstood as \"giving up,\" when it's really a shift in focus toward comfort \u2014 a distinction worth understanding clearly.",
+  "category": "Hospice & End-of-Life (Weeks 1\u20133 of 4)",
   "subcategory": "Starting Hospice",
   "tags": [],
   "audience": "Adult child / family caregiver",
@@ -15,20 +15,20 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "Understanding Hospice: What It Is and Isn't | HarborCare Circle",
-  "metaDescription": "Hospice is often misunderstood as \"giving up,\" when it's really a shift in focus toward comfort — a distinction worth understanding clearly.",
+  "metaDescription": "Hospice is often misunderstood as \"giving up,\" when it's really a shift in focus toward comfort \u2014 a distinction worth understanding clearly.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Hospice focuses on comfort and quality of life rather than curative treatment.",
     "It's typically for a prognosis of six months or less, though timelines can extend.",
-    "Choosing hospice doesn't mean choosing to stop all care — it means choosing a different kind of care."
+    "Choosing hospice doesn't mean choosing to stop all care \u2014 it means choosing a different kind of care."
   ],
   "tableOfContents": [],
   "body": [
     {
       "heading": null,
       "paragraphs": [
-        "Hospice care shifts the goal from curing or slowing a disease to managing symptoms and maximizing comfort and quality of life for whatever time remains — a meaningful, active form of care, not an absence of care.",
-        "Eligibility is generally tied to a doctor's assessment of a prognosis of six months or less, though people sometimes live longer than that estimate and can continue hospice care if their condition supports it — the timeline is a guideline for eligibility, not a fixed prediction."
+        "Hospice care shifts the goal from curing or slowing a disease to managing symptoms and maximizing comfort and quality of life for whatever time remains \u2014 a meaningful, active form of care, not an absence of care.",
+        "Eligibility is generally tied to a doctor's assessment of a prognosis of six months or less, though people sometimes live longer than that estimate and can continue hospice care if their condition supports it \u2014 the timeline is a guideline for eligibility, not a fixed prediction."
       ]
     }
   ],
@@ -42,7 +42,7 @@
     "slug": "",
     "type": "roadmap"
   },
-  "disclaimer": "General information — a hospice provider or the treating physician can address specific eligibility and care questions for your situation. If you're navigating this personally right now, please know support is available, and it's alright to lean on your care team's guidance.",
+  "disclaimer": "General information \u2014 a hospice provider or the treating physician can address specific eligibility and care questions for your situation. If you're navigating this personally right now, please know support is available, and it's alright to lean on your care team's guidance.",
   "sources": [
     {
       "name": "What Are Palliative Care and Hospice Care?",
@@ -50,7 +50,7 @@
     },
     {
       "name": "National Institute on Aging",
-      "url": null
+      "url": "https://www.nia.nih.gov/health/hospice-and-palliative-care/what-are-palliative-care-and-hospice-care"
     }
   ],
   "id": "art-081",

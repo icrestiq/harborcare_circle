@@ -1,7 +1,7 @@
 {
   "title": "Understanding Hospital Delirium: A Caregiver's Guide",
   "slug": "understanding-hospital-delirium-a-caregivers-guide",
-  "summary": "Sudden confusion during a hospital stay is common, often temporary, and different from dementia — but it's frequently mistaken for one or the other.",
+  "summary": "Sudden confusion during a hospital stay is common, often temporary, and different from dementia \u2014 but it's frequently mistaken for one or the other.",
   "category": "Life Transitions I: The Hospital-to-Home Arc",
   "subcategory": "",
   "tags": [],
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "Understanding Hospital Delirium: A Caregiver's Guide | HarborCare Circle",
-  "metaDescription": "Sudden confusion during a hospital stay is common, often temporary, and different from dementia — but it's frequently mistaken for one or the other.",
+  "metaDescription": "Sudden confusion during a hospital stay is common, often temporary, and different from dementia \u2014 but it's frequently mistaken for one or the other.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Delirium involves a sudden, fluctuating change in attention and awareness, often during illness or after surgery.",
@@ -27,18 +27,18 @@
     {
       "heading": null,
       "paragraphs": [
-        "Hospital delirium often appears suddenly — within hours or a day — and fluctuates, sometimes seeming better in the morning and much worse by evening. This distinguishes it from dementia, which develops gradually and doesn't fluctuate in the same way, though the two can occur together and be hard to tell apart in the moment.",
+        "Hospital delirium often appears suddenly \u2014 within hours or a day \u2014 and fluctuates, sometimes seeming better in the morning and much worse by evening. This distinguishes it from dementia, which develops gradually and doesn't fluctuate in the same way, though the two can occur together and be hard to tell apart in the moment.",
         "Bringing familiar objects (glasses, a favorite blanket, family photos), maintaining as much routine as the hospital allows, and having a familiar face present as much as possible have all been shown to help reduce delirium's severity and duration."
       ]
     }
   ],
   "nextSteps": [
-    "Mention any sudden confusion to the care team right away — it's often treatable.",
+    "Mention any sudden confusion to the care team right away \u2014 it's often treatable.",
     "Bring familiar objects and maintain routine where possible.",
     "Don't assume sudden confusion means a permanent cognitive decline."
   ],
   "relatedTool": null,
-  "disclaimer": "General information — the hospital's medical team can properly evaluate and address the underlying cause.",
+  "disclaimer": "General information \u2014 the hospital's medical team can properly evaluate and address the underlying cause.",
   "sources": [
     {
       "name": "The Dilemma of Delirium in Older Patients",
@@ -46,7 +46,7 @@
     },
     {
       "name": "National Institute on Aging",
-      "url": null
+      "url": "https://www.nia.nih.gov/news/researchers-test-new-approaches-prevent-delirium-older-adults"
     }
   ],
   "id": "art-041",

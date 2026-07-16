@@ -2,7 +2,7 @@
   "title": "Recognizing Depression in Older Adults (It's Not Just \"Getting Older\")",
   "slug": "recognizing-depression-in-older-adults-its-not-just-getting-older",
   "summary": "Depression in older adults often looks different than it does in younger people, which is part of why it's so frequently missed. Here's what to actually look for.",
-  "category": "Conditions → Depression in older adults",
+  "category": "Conditions \u2192 Depression in older adults",
   "subcategory": "Daily support / early concern",
   "tags": [],
   "audience": "Adult child / family caregiver",
@@ -18,7 +18,7 @@
   "metaDescription": "Depression in older adults often looks different than it does in younger people, which is part of why it's so frequently missed. Here's what to actually lo",
   "featuredImage": null,
   "whatYouNeedToKnow": [
-    "Sadness is often *not* the most visible sign — withdrawal, irritability, or physical complaints often show up first.",
+    "Sadness is often *not* the most visible sign \u2014 withdrawal, irritability, or physical complaints often show up first.",
     "It's common (and wrong) to assume low mood is just a normal part of aging.",
     "Depression in older adults is very treatable once it's recognized."
   ],
@@ -31,7 +31,7 @@
     {
       "heading": "What it actually looks like",
       "paragraphs": [
-        "Instead of appearing visibly sad, many older adults show depression through withdrawal from activities they used to enjoy, increased irritability, trouble sleeping, or vague physical complaints — aches, fatigue, low appetite — that don't have a clear medical cause. A parent might describe themselves as \"just tired\" or \"fine, really\" while quietly stopping the hobbies, calls, or outings that used to matter to them."
+        "Instead of appearing visibly sad, many older adults show depression through withdrawal from activities they used to enjoy, increased irritability, trouble sleeping, or vague physical complaints \u2014 aches, fatigue, low appetite \u2014 that don't have a clear medical cause. A parent might describe themselves as \"just tired\" or \"fine, really\" while quietly stopping the hobbies, calls, or outings that used to matter to them."
       ]
     },
     {
@@ -43,14 +43,14 @@
     {
       "heading": "How to bring it up",
       "paragraphs": [
-        "A direct, caring question tends to work better than a general one — \"You haven't wanted to go to your usual Tuesday lunch lately, is everything okay?\" opens more of a door than \"Are you doing alright?\" It also helps to raise it as something worth checking with their doctor, rather than something to fix on your own: \"Would you be open to mentioning this at your next appointment?\""
+        "A direct, caring question tends to work better than a general one \u2014 \"You haven't wanted to go to your usual Tuesday lunch lately, is everything okay?\" opens more of a door than \"Are you doing alright?\" It also helps to raise it as something worth checking with their doctor, rather than something to fix on your own: \"Would you be open to mentioning this at your next appointment?\""
       ]
     }
   ],
   "nextSteps": [
-    "Write down specific changes you've noticed, with rough timing — this is genuinely useful for a doctor.",
+    "Write down specific changes you've noticed, with rough timing \u2014 this is genuinely useful for a doctor.",
     "Suggest a regular checkup rather than framing it as a \"mental health conversation,\" if that feels like an easier entry point.",
-    "Take the Caregiver Stress Self-Check yourself — supporting someone through this is genuinely taxing, and your own wellbeing matters here too."
+    "Take the Caregiver Stress Self-Check yourself \u2014 supporting someone through this is genuinely taxing, and your own wellbeing matters here too."
   ],
   "relatedTool": null,
   "disclaimer": "This article describes general patterns and isn't a diagnostic tool. If you're worried about a sudden change in mood, or any mention of hopelessness, please contact their doctor or a mental health professional promptly.",
@@ -61,7 +61,7 @@
     },
     {
       "name": "National Institute on Aging",
-      "url": null
+      "url": "https://www.nia.nih.gov/health/mental-and-emotional-health/depression-and-older-adults"
     }
   ],
   "id": "art-002",

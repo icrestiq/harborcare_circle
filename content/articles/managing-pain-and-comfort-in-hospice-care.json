@@ -2,7 +2,7 @@
   "title": "Managing Pain and Comfort in Hospice Care",
   "slug": "managing-pain-and-comfort-in-hospice-care",
   "summary": "Effective pain and symptom management is central to hospice's purpose, and families sometimes worry more than necessary about medication concerns.",
-  "category": "Hospice & End-of-Life (Weeks 1–3 of 4)",
+  "category": "Hospice & End-of-Life (Weeks 1\u20133 of 4)",
   "subcategory": "Hospice, Palliative Care, and Comfort",
   "tags": [],
   "audience": "Adult child / family caregiver",
@@ -28,7 +28,7 @@
       "heading": null,
       "paragraphs": [
         "Hospice teams specialize specifically in symptom and pain management, often with more expertise in this area than a general hospital setting, since it's the central focus of their care rather than one part of many priorities.",
-        "It's common for families to worry that pain medication will be \"too much\" or hasten decline, but appropriately managed pain relief in this context is about comfort and dignity, not shortening life — these are genuinely different things, worth discussing directly with the hospice team if concerns come up."
+        "It's common for families to worry that pain medication will be \"too much\" or hasten decline, but appropriately managed pain relief in this context is about comfort and dignity, not shortening life \u2014 these are genuinely different things, worth discussing directly with the hospice team if concerns come up."
       ]
     }
   ],
@@ -42,7 +42,7 @@
     "slug": "",
     "type": "roadmap"
   },
-  "disclaimer": "This describes general information about hospice pain management, not medical advice for a specific situation. Always follow the hospice care team's direct guidance for symptom and pain management — contact them directly with any concerns rather than adjusting anything based on this article.",
+  "disclaimer": "This describes general information about hospice pain management, not medical advice for a specific situation. Always follow the hospice care team's direct guidance for symptom and pain management \u2014 contact them directly with any concerns rather than adjusting anything based on this article.",
   "sources": [
     {
       "name": "Providing Care and Comfort at the End of Life",
@@ -50,7 +50,7 @@
     },
     {
       "name": "National Institute on Aging",
-      "url": null
+      "url": "https://www.nia.nih.gov/health/end-life/providing-care-and-comfort-end-life"
     }
   ],
   "id": "art-086",

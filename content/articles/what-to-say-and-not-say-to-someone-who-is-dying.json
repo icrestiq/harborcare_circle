@@ -2,7 +2,7 @@
   "title": "What to Say (and Not Say) to Someone Who Is Dying",
   "slug": "what-to-say-and-not-say-to-someone-who-is-dying",
   "summary": "Finding the right words in this moment feels enormously high-stakes, but simple, honest presence usually matters more than any specific phrase.",
-  "category": "Hospice & End-of-Life (Weeks 1–3 of 4)",
+  "category": "Hospice & End-of-Life (Weeks 1\u20133 of 4)",
   "subcategory": "Anticipatory Grief and Approaching End of Life",
   "tags": [],
   "audience": "Adult child / family caregiver",
@@ -18,7 +18,7 @@
   "metaDescription": "Finding the right words in this moment feels enormously high-stakes, but simple, honest presence usually matters more than any specific phrase.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
-    "Hearing is often one of the last senses to fade — speaking to them still matters, even without a response.",
+    "Hearing is often one of the last senses to fade \u2014 speaking to them still matters, even without a response.",
     "Simple expressions of love and presence tend to matter more than trying to resolve everything.",
     "There's no need to force a \"perfect\" final conversation."
   ],
@@ -27,13 +27,13 @@
     {
       "heading": null,
       "paragraphs": [
-        "Even when someone seems unresponsive, hearing is often one of the last senses to go, and speaking gently to them — sharing love, memories, or simply narrating your presence — is still meaningful, even without any visible response.",
-        "Simple, honest statements — \"I love you,\" \"I'm here,\" \"Thank you\" — tend to matter far more than any perfectly composed final speech. There's no requirement to resolve every unfinished conversation in this moment; presence itself carries real weight."
+        "Even when someone seems unresponsive, hearing is often one of the last senses to go, and speaking gently to them \u2014 sharing love, memories, or simply narrating your presence \u2014 is still meaningful, even without any visible response.",
+        "Simple, honest statements \u2014 \"I love you,\" \"I'm here,\" \"Thank you\" \u2014 tend to matter far more than any perfectly composed final speech. There's no requirement to resolve every unfinished conversation in this moment; presence itself carries real weight."
       ]
     }
   ],
   "nextSteps": [
-    "Speak to your loved one even if they can't respond — assume they can hear you.",
+    "Speak to your loved one even if they can't respond \u2014 assume they can hear you.",
     "Keep it simple: love, presence, and gratitude go a long way.",
     "Let go of pressure to have a \"perfect\" final conversation."
   ],
@@ -50,7 +50,7 @@
     },
     {
       "name": "National Institute on Aging",
-      "url": null
+      "url": "https://www.nia.nih.gov/health/end-life/providing-care-and-comfort-end-life"
     }
   ],
   "id": "art-091",

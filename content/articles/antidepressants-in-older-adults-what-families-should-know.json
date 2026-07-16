@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Because older adults often take multiple medications already, interactions and side effects deserve extra attention — this is exactly why the prescribing doctor should know every other medication and supplement being taken.",
-        "Doses are often started low and increased gradually, which means early weeks might show limited effect — this is a normal part of the process, not necessarily a sign the medication isn't working. Stopping abruptly, even if someone feels better, can cause withdrawal-like effects and should always go through the prescribing doctor."
+        "Because older adults often take multiple medications already, interactions and side effects deserve extra attention \u2014 this is exactly why the prescribing doctor should know every other medication and supplement being taken.",
+        "Doses are often started low and increased gradually, which means early weeks might show limited effect \u2014 this is a normal part of the process, not necessarily a sign the medication isn't working. Stopping abruptly, even if someone feels better, can cause withdrawal-like effects and should always go through the prescribing doctor."
       ]
     }
   ],
@@ -38,7 +38,7 @@
     "Never adjust or stop a dose without medical guidance."
   ],
   "relatedTool": null,
-  "disclaimer": "This article describes general patterns only. Medication timing, dosing, and interactions are specific to the individual and the exact medications involved — never adjust a dose, schedule, or medication based on this article. Confirm all specifics directly with the prescribing doctor or pharmacist before making any change.",
+  "disclaimer": "This article describes general patterns only. Medication timing, dosing, and interactions are specific to the individual and the exact medications involved \u2014 never adjust a dose, schedule, or medication based on this article. Confirm all specifics directly with the prescribing doctor or pharmacist before making any change.",
   "sources": [
     {
       "name": "Depression and Older Adults",
@@ -46,7 +46,7 @@
     },
     {
       "name": "National Institute on Aging",
-      "url": null
+      "url": "https://www.nia.nih.gov/health/mental-and-emotional-health/depression-and-older-adults"
     }
   ],
   "id": "art-018",

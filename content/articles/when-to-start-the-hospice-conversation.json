@@ -1,8 +1,8 @@
 {
   "title": "When to Start the Hospice Conversation",
   "slug": "when-to-start-the-hospice-conversation",
-  "summary": "Families often wait too long to bring up hospice, worried it will feel like giving up hope — starting the conversation earlier usually helps more than it hurts.",
-  "category": "Hospice & End-of-Life (Weeks 1–3 of 4)",
+  "summary": "Families often wait too long to bring up hospice, worried it will feel like giving up hope \u2014 starting the conversation earlier usually helps more than it hurts.",
+  "category": "Hospice & End-of-Life (Weeks 1\u20133 of 4)",
   "subcategory": "Starting Hospice",
   "tags": [],
   "audience": "Adult child / family caregiver",
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "When to Start the Hospice Conversation | HarborCare Circle",
-  "metaDescription": "Families often wait too long to bring up hospice, worried it will feel like giving up hope — starting the conversation earlier usually helps more than it h",
+  "metaDescription": "Families often wait too long to bring up hospice, worried it will feel like giving up hope \u2014 starting the conversation earlier usually helps more than it h",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Starting the conversation early doesn't mean starting hospice immediately.",
@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "Many families delay this conversation out of fear it will feel like giving up, but starting to discuss hospice early — even well before it's needed — gives everyone more time to understand the option and make an unhurried decision when the time comes.",
+        "Many families delay this conversation out of fear it will feel like giving up, but starting to discuss hospice early \u2014 even well before it's needed \u2014 gives everyone more time to understand the option and make an unhurried decision when the time comes.",
         "Doctors are often a natural, less emotionally loaded person to introduce the topic first, since it can come from a place of medical guidance rather than a family member's individual judgment. It's reasonable to ask a doctor directly, \"at what point might hospice make sense for this situation?\""
       ]
     }
@@ -42,7 +42,7 @@
     "slug": "",
     "type": "roadmap"
   },
-  "disclaimer": "General guidance for a deeply personal decision — the treating medical team is the best resource for timing specific to your situation.",
+  "disclaimer": "General guidance for a deeply personal decision \u2014 the treating medical team is the best resource for timing specific to your situation.",
   "sources": [
     {
       "name": "What Are Palliative Care and Hospice Care?",
@@ -50,7 +50,7 @@
     },
     {
       "name": "National Institute on Aging",
-      "url": null
+      "url": "https://www.nia.nih.gov/health/end-life/different-care-settings-end-life"
     }
   ],
   "id": "art-082",

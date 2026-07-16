@@ -18,7 +18,7 @@
   "metaDescription": "Setting up a POA is more straightforward than most families expect, and it's far easier to do proactively than under time pressure.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
-    "The person granting POA must have legal capacity at the time of signing — waiting too long can make this impossible.",
+    "The person granting POA must have legal capacity at the time of signing \u2014 waiting too long can make this impossible.",
     "An elder law attorney can draft a document tailored to your state and situation.",
     "Copies should be shared with relevant institutions, not just kept in a drawer."
   ],
@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Capacity to sign a POA must exist at the time of signing, which is exactly why this conversation is easier to have early — once a cognitive decline has progressed significantly, it may be too late to execute a valid document, leaving families to pursue guardianship instead, a much longer and costlier process.",
-        "Once signed, banks, financial institutions, and medical providers often need their own copy on file to actually honor it — simply having the document at home isn't enough for it to function when needed."
+        "Capacity to sign a POA must exist at the time of signing, which is exactly why this conversation is easier to have early \u2014 once a cognitive decline has progressed significantly, it may be too late to execute a valid document, leaving families to pursue guardianship instead, a much longer and costlier process.",
+        "Once signed, banks, financial institutions, and medical providers often need their own copy on file to actually honor it \u2014 simply having the document at home isn't enough for it to function when needed."
       ]
     }
   ],
@@ -46,7 +46,7 @@
     },
     {
       "name": "National Institute on Aging",
-      "url": null
+      "url": "https://www.nia.nih.gov/health/advance-care-planning/getting-your-affairs-order-checklist-documents-prepare-future"
     }
   ],
   "id": "art-067",

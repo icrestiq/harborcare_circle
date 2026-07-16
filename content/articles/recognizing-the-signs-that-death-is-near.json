@@ -2,7 +2,7 @@
   "title": "Recognizing the Signs That Death Is Near",
   "slug": "recognizing-the-signs-that-death-is-near",
   "summary": "Knowing the general signs that often appear in the final days or hours can help families feel more prepared, rather than blindsided.",
-  "category": "Hospice & End-of-Life (Weeks 1–3 of 4)",
+  "category": "Hospice & End-of-Life (Weeks 1\u20133 of 4)",
   "subcategory": "Anticipatory Grief and Approaching End of Life",
   "tags": [],
   "audience": "Adult child / family caregiver",
@@ -28,7 +28,7 @@
       "heading": null,
       "paragraphs": [
         "Common signs in the final days often include significantly reduced interest in food and drink, increased time spent sleeping or in a less responsive state, changes in breathing pattern (including irregular pauses), and cooling or color changes in the hands and feet.",
-        "These changes generally reflect the body's natural process at the end of life, not a crisis requiring emergency intervention — the hospice team can help families understand what they're observing and what, if anything, needs attention."
+        "These changes generally reflect the body's natural process at the end of life, not a crisis requiring emergency intervention \u2014 the hospice team can help families understand what they're observing and what, if anything, needs attention."
       ]
     }
   ],
@@ -50,7 +50,7 @@
     },
     {
       "name": "National Institute on Aging",
-      "url": null
+      "url": "https://www.nia.nih.gov/health/end-life/providing-care-and-comfort-end-life"
     }
   ],
   "id": "art-090",

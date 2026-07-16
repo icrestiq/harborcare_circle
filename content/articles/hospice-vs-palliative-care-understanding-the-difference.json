@@ -2,7 +2,7 @@
   "title": "Hospice vs. Palliative Care: Understanding the Difference",
   "slug": "hospice-vs-palliative-care-understanding-the-difference",
   "summary": "These two terms are often confused, but they apply at different points and don't require the same eligibility.",
-  "category": "Hospice & End-of-Life (Weeks 1–3 of 4)",
+  "category": "Hospice & End-of-Life (Weeks 1\u20133 of 4)",
   "subcategory": "Hospice, Palliative Care, and Comfort",
   "tags": [],
   "audience": "Adult child / family caregiver",
@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "Palliative care focuses on comfort and quality of life and can be provided at any stage of a serious illness, even alongside treatments aimed at curing or managing the disease — there's no requirement to stop other treatment to receive it.",
+        "Palliative care focuses on comfort and quality of life and can be provided at any stage of a serious illness, even alongside treatments aimed at curing or managing the disease \u2014 there's no requirement to stop other treatment to receive it.",
         "Hospice, by contrast, specifically involves a shift away from curative treatment toward comfort-focused care, generally once a doctor estimates a prognosis of six months or less. Both share a comfort-centered philosophy, but they apply at different points and under different conditions."
       ]
     }
@@ -42,7 +42,7 @@
     "slug": "",
     "type": "roadmap"
   },
-  "disclaimer": "General information — the treating medical team can clarify which option fits the current situation.",
+  "disclaimer": "General information \u2014 the treating medical team can clarify which option fits the current situation.",
   "sources": [
     {
       "name": "What Are Palliative Care and Hospice Care?",
@@ -50,7 +50,7 @@
     },
     {
       "name": "National Institute on Aging",
-      "url": null
+      "url": "https://www.nia.nih.gov/health/hospice-and-palliative-care/what-are-palliative-care-and-hospice-care"
     }
   ],
   "id": "art-085",
