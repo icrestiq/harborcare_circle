@@ -20,14 +20,14 @@
   "whatYouNeedToKnow": [
     "Schedule around actual high-need times (mornings, evenings) rather than even blocks.",
     "Build in some flexibility for appointments and unexpected needs.",
-    "Revisit the schedule periodically — needs change."
+    "Revisit the schedule periodically \u2014 needs change."
   ],
   "tableOfContents": [],
   "body": [
     {
       "heading": null,
       "paragraphs": [
-        "Rather than dividing the day into equal blocks, it usually works better to identify when help is actually most needed — often mornings (getting up, dressing, medication) and evenings (dinner, bedtime routine) — and concentrate coverage there.",
+        "Rather than dividing the day into equal blocks, it usually works better to identify when help is actually most needed \u2014 often mornings (getting up, dressing, medication) and evenings (dinner, bedtime routine) \u2014 and concentrate coverage there.",
         "Building in some flexibility for medical appointments, family visits, or unexpected needs prevents the schedule from feeling rigid and constantly needing exceptions. It's also worth revisiting the schedule every few months, since needs tend to shift gradually."
       ]
     }
@@ -38,7 +38,7 @@
     "Set a reminder to revisit the schedule in a few months."
   ],
   "relatedTool": null,
-  "disclaimer": "General planning guidance — your agency's care coordinator can help build a schedule specific to your situation.",
+  "disclaimer": "General planning guidance \u2014 your agency's care coordinator can help build a schedule specific to your situation.",
   "sources": [
     {
       "name": "Finding Local Services",
@@ -46,7 +46,7 @@
     },
     {
       "name": "Administration for Community Living",
-      "url": null
+      "url": "https://eldercare.acl.gov/Public/Resources/Topic/Home_Health_Services.aspx"
     }
   ],
   "id": "art-044",

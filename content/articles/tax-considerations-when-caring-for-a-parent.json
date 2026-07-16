@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Certain unreimbursed medical expenses paid on a parent's behalf — including some home modifications and long-term care costs — may be deductible if you itemize and expenses exceed a certain threshold of your income.",
-        "Claiming a parent as a dependent has specific requirements around the parent's income and how much financial support you actually provided — rules that catch many caregivers by surprise, in both directions."
+        "Certain unreimbursed medical expenses paid on a parent's behalf \u2014 including some home modifications and long-term care costs \u2014 may be deductible if you itemize and expenses exceed a certain threshold of your income.",
+        "Claiming a parent as a dependent has specific requirements around the parent's income and how much financial support you actually provided \u2014 rules that catch many caregivers by surprise, in both directions."
       ]
     }
   ],
@@ -42,11 +42,11 @@
     "slug": "monthly-cost-estimator",
     "type": "calculator"
   },
-  "disclaimer": "General information, not tax advice — a tax professional can confirm what applies to your specific situation and the current tax year.",
+  "disclaimer": "General information, not tax advice \u2014 a tax professional can confirm what applies to your specific situation and the current tax year.",
   "sources": [
     {
       "name": "Internal Revenue Service",
-      "url": null
+      "url": "https://www.irs.gov/node/17506"
     }
   ],
   "id": "art-149",

@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "The federal estate tax exemption is quite high, meaning the large majority of estates fall well below the threshold and owe no federal estate tax whatsoever — a fact that often isn't well understood, causing unnecessary worry.",
+        "The federal estate tax exemption is quite high, meaning the large majority of estates fall well below the threshold and owe no federal estate tax whatsoever \u2014 a fact that often isn't well understood, causing unnecessary worry.",
         "Some states, however, have their own estate or inheritance taxes with lower thresholds than the federal exemption, so it's worth checking state-specific rules even if federal estate tax clearly isn't a concern."
       ]
     }
@@ -38,11 +38,11 @@
     "Consult a tax professional if the estate's value is genuinely near any relevant threshold."
   ],
   "relatedTool": null,
-  "disclaimer": "General information, not tax advice — thresholds change over time, and a tax professional can confirm current figures.",
+  "disclaimer": "General information, not tax advice \u2014 thresholds change over time, and a tax professional can confirm current figures.",
   "sources": [
     {
       "name": "Internal Revenue Service",
-      "url": null
+      "url": "https://www.irs.gov/individuals/deceased-person"
     }
   ],
   "id": "art-152",

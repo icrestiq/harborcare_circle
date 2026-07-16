@@ -1,7 +1,7 @@
 {
   "title": "Starting Home Care: How to Choose an Agency",
   "slug": "starting-home-care-how-to-choose-an-agency",
-  "summary": "Choosing a home care agency involves more than comparing prices — a few specific questions reveal a lot about quality and fit.",
+  "summary": "Choosing a home care agency involves more than comparing prices \u2014 a few specific questions reveal a lot about quality and fit.",
   "category": "Life Transitions I: The Hospital-to-Home Arc",
   "subcategory": "",
   "tags": [],
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "Starting Home Care: How to Choose an Agency | HarborCare Circle",
-  "metaDescription": "Choosing a home care agency involves more than comparing prices — a few specific questions reveal a lot about quality and fit.",
+  "metaDescription": "Choosing a home care agency involves more than comparing prices \u2014 a few specific questions reveal a lot about quality and fit.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Licensing and insurance verification is a non-negotiable first step.",
@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Confirming an agency is properly licensed (where required) and insured protects your family if something goes wrong — this is worth verifying directly rather than assuming from a polished website or brochure.",
-        "Beyond licensing, the most revealing questions are practical: how are caregivers matched to a client, what training do they receive, and — importantly — what happens if your regular caregiver is sick or unavailable. Agencies with strong backup systems tend to be more reliable long-term."
+        "Confirming an agency is properly licensed (where required) and insured protects your family if something goes wrong \u2014 this is worth verifying directly rather than assuming from a polished website or brochure.",
+        "Beyond licensing, the most revealing questions are practical: how are caregivers matched to a client, what training do they receive, and \u2014 importantly \u2014 what happens if your regular caregiver is sick or unavailable. Agencies with strong backup systems tend to be more reliable long-term."
       ]
     }
   ],
@@ -42,7 +42,7 @@
     "slug": "monthly-cost-estimator",
     "type": "calculator"
   },
-  "disclaimer": "General guidance for evaluating agencies — availability and regulations vary by state and region.",
+  "disclaimer": "General guidance for evaluating agencies \u2014 availability and regulations vary by state and region.",
   "sources": [
     {
       "name": "Finding Local Services",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Administration for Community Living",
-      "url": null
+      "url": "https://eldercare.acl.gov/Public/Resources/Topic/Home_Health_Services.aspx"
     }
   ],
   "id": "art-036",

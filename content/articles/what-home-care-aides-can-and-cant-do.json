@@ -1,7 +1,7 @@
 {
   "title": "What Home Care Aides Can (and Can't) Do",
   "slug": "what-home-care-aides-can-and-cant-do",
-  "summary": "Home care aides provide valuable support, but their scope is more limited than many families expect — knowing the boundaries avoids frustration later.",
+  "summary": "Home care aides provide valuable support, but their scope is more limited than many families expect \u2014 knowing the boundaries avoids frustration later.",
   "category": "Life Transitions I: The Hospital-to-Home Arc",
   "subcategory": "",
   "tags": [],
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "What Home Care Aides Can (and Can't) Do | HarborCare Circle",
-  "metaDescription": "Home care aides provide valuable support, but their scope is more limited than many families expect — knowing the boundaries avoids frustration later.",
+  "metaDescription": "Home care aides provide valuable support, but their scope is more limited than many families expect \u2014 knowing the boundaries avoids frustration later.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Non-medical home care aides typically help with daily tasks, not medical care.",
@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Non-medical home care aides generally help with things like bathing, dressing, light housekeeping, meal preparation, and companionship — genuinely valuable, meaningful support, but distinct from medical care.",
-        "Rules vary by state, but many non-medical aides can remind someone to take medication and even hand them the pre-organized dose, without being permitted to administer injections or manage complex medical tasks — those typically require a home health nurse, a different (and differently licensed) type of care."
+        "Non-medical home care aides generally help with things like bathing, dressing, light housekeeping, meal preparation, and companionship \u2014 genuinely valuable, meaningful support, but distinct from medical care.",
+        "Rules vary by state, but many non-medical aides can remind someone to take medication and even hand them the pre-organized dose, without being permitted to administer injections or manage complex medical tasks \u2014 those typically require a home health nurse, a different (and differently licensed) type of care."
       ]
     }
   ],
@@ -42,7 +42,7 @@
     "slug": "monthly-cost-estimator",
     "type": "calculator"
   },
-  "disclaimer": "General guidance — specific rules vary by state and agency; confirm directly with your provider.",
+  "disclaimer": "General guidance \u2014 specific rules vary by state and agency; confirm directly with your provider.",
   "sources": [
     {
       "name": "Finding Local Services",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Administration for Community Living",
-      "url": null
+      "url": "https://eldercare.acl.gov/Public/Resources/Topic/Home_Health_Services.aspx"
     }
   ],
   "id": "art-040",

@@ -1,7 +1,7 @@
 {
   "title": "Reviewing and Updating Estate Documents",
   "slug": "reviewing-and-updating-estate-documents",
-  "summary": "Estate documents need periodic review, not a one-time setup — life changes can quietly make old documents outdated.",
+  "summary": "Estate documents need periodic review, not a one-time setup \u2014 life changes can quietly make old documents outdated.",
   "category": "Life Transitions III: Legal & Financial Shifts",
   "subcategory": "Rounding Out Legal & Financial Care",
   "tags": [],
@@ -15,7 +15,7 @@
   "lastUpdated": "2026-07-14",
   "readingTimeMinutes": 2,
   "seoTitle": "Reviewing and Updating Estate Documents | HarborCare Circle",
-  "metaDescription": "Estate documents need periodic review, not a one-time setup — life changes can quietly make old documents outdated.",
+  "metaDescription": "Estate documents need periodic review, not a one-time setup \u2014 life changes can quietly make old documents outdated.",
   "featuredImage": null,
   "whatYouNeedToKnow": [
     "Wills, POAs, and beneficiary designations should be reviewed after major life events.",
@@ -27,7 +27,7 @@
     {
       "heading": null,
       "paragraphs": [
-        "Marriages, divorces, deaths, and moves to a new state can all affect whether existing estate documents still reflect actual wishes — a will drafted decades ago may no longer match the current family situation or state's legal requirements.",
+        "Marriages, divorces, deaths, and moves to a new state can all affect whether existing estate documents still reflect actual wishes \u2014 a will drafted decades ago may no longer match the current family situation or state's legal requirements.",
         "One frequently overlooked detail: beneficiary designations on retirement accounts, life insurance, and similar accounts typically override what's written in a will, which means an outdated designation can undo careful estate planning without anyone realizing it until it's too late."
       ]
     }
@@ -46,7 +46,7 @@
     },
     {
       "name": "Internal Revenue Service",
-      "url": null
+      "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary"
     }
   ],
   "id": "art-080",

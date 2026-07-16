@@ -27,8 +27,8 @@
     {
       "heading": null,
       "paragraphs": [
-        "Unlike claiming a child, a parent doesn't need to live in your household to qualify as a dependent — but their gross income must fall below a specific yearly threshold (which changes periodically), and you generally need to have provided more than half of their total financial support for the year.",
-        "Multiple siblings splitting a parent's support can sometimes use a \"multiple support agreement\" to let one sibling claim the dependency, even if no single person provided over half the support alone — worth discussing with a tax professional if support is shared."
+        "Unlike claiming a child, a parent doesn't need to live in your household to qualify as a dependent \u2014 but their gross income must fall below a specific yearly threshold (which changes periodically), and you generally need to have provided more than half of their total financial support for the year.",
+        "Multiple siblings splitting a parent's support can sometimes use a \"multiple support agreement\" to let one sibling claim the dependency, even if no single person provided over half the support alone \u2014 worth discussing with a tax professional if support is shared."
       ]
     }
   ],
@@ -42,11 +42,11 @@
     "slug": "monthly-cost-estimator",
     "type": "calculator"
   },
-  "disclaimer": "General information, not tax advice — thresholds change yearly, and a tax professional can confirm current eligibility.",
+  "disclaimer": "General information, not tax advice \u2014 thresholds change yearly, and a tax professional can confirm current eligibility.",
   "sources": [
     {
       "name": "Internal Revenue Service",
-      "url": null
+      "url": "https://www.irs.gov/node/17506"
     }
   ],
   "id": "art-151",
