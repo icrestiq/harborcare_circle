@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import { getAllCalculatorSlugs, getCalculatorBySlug } from '../../../lib/content';
 import CalculatorView from '../../../components/CalculatorView';
 import FamilyCostSharingView from '../../../components/FamilyCostSharingView';
+import PathComparisonView from '../../../components/PathComparisonView';
 
 export async function generateStaticParams() {
   return getAllCalculatorSlugs().map((slug) => ({ slug }));
@@ -18,6 +19,9 @@ export default function CalculatorPage({ params }) {
   if (!calculator) return notFound();
   if (calculator.type === 'cost-sharing') {
     return <FamilyCostSharingView calculator={calculator} />;
+  }
+  if (calculator.type === 'path-comparison') {
+    return <PathComparisonView calculator={calculator} />;
   }
   return <CalculatorView calculator={calculator} />;
 }

@@ -155,7 +155,7 @@ export default function HomePage() {
         <div className="bg-blue-tint rounded-2xl p-6 md:p-10 shadow-[0_20px_45px_-15px_rgba(16,42,67,0.35)] border border-white/60">
           <div className="flex flex-col items-center text-center mb-8">
             <span className="inline-block bg-orange-tint text-[#B15300] text-xs font-semibold px-3 py-1 rounded-full">
-              Coming Soon
+              Scheduled for Release: Mid Q4 2026
             </span>
           </div>
 
