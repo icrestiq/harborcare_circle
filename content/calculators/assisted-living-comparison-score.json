@@ -1,0 +1,22 @@
+{
+  "id": "calc-006",
+  "title": "Assisted Living Comparison Score",
+  "slug": "assisted-living-comparison-score",
+  "type": "weighted-scorecard",
+  "summary": "Rate 2-4 facilities on the factors that matter most to your family — not just the sticker price.",
+  "citationStatus": "citation_only",
+  "factors": [
+    { "id": "cost", "label": "Cost & affordability", "defaultWeight": 5 },
+    { "id": "location", "label": "Location & distance from family", "defaultWeight": 4 },
+    { "id": "staffing", "label": "Staffing levels & reputation for care", "defaultWeight": 5 },
+    { "id": "safety", "label": "Cleanliness & safety", "defaultWeight": 4 },
+    { "id": "activities", "label": "Activities & social engagement", "defaultWeight": 3 },
+    { "id": "amenities", "label": "Room quality & amenities", "defaultWeight": 3 },
+    { "id": "medical", "label": "On-site medical services", "defaultWeight": 4 },
+    { "id": "food", "label": "Food quality", "defaultWeight": 2 },
+    { "id": "communication", "label": "Family communication & visiting policy", "defaultWeight": 3 },
+    { "id": "gutFeeling", "label": "Overall feeling during the tour", "defaultWeight": 4 }
+  ],
+  "defaultFacilityNames": ["Facility A", "Facility B"],
+  "disclaimer": "This score reflects your own stated priorities and impressions, not an official or independent rating. Use it alongside state licensing records, inspection reports, and conversations with current residents' families before deciding."
+}

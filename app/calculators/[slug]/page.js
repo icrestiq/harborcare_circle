@@ -5,6 +5,7 @@ import FamilyCostSharingView from '../../../components/FamilyCostSharingView';
 import PathComparisonView from '../../../components/PathComparisonView';
 import TimeCommitmentView from '../../../components/TimeCommitmentView';
 import ExpenseTrackerView from '../../../components/ExpenseTrackerView';
+import WeightedScorecardView from '../../../components/WeightedScorecardView';
 
 export async function generateStaticParams() {
   return getAllCalculatorSlugs().map((slug) => ({ slug }));
@@ -30,6 +31,9 @@ export default function CalculatorPage({ params }) {
   }
   if (calculator.type === 'expense-tracker') {
     return <ExpenseTrackerView calculator={calculator} />;
+  }
+  if (calculator.type === 'weighted-scorecard') {
+    return <WeightedScorecardView calculator={calculator} />;
   }
   return <CalculatorView calculator={calculator} />;
 }
