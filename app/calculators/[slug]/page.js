@@ -3,6 +3,7 @@ import { getAllCalculatorSlugs, getCalculatorBySlug } from '../../../lib/content
 import CalculatorView from '../../../components/CalculatorView';
 import FamilyCostSharingView from '../../../components/FamilyCostSharingView';
 import PathComparisonView from '../../../components/PathComparisonView';
+import TimeCommitmentView from '../../../components/TimeCommitmentView';
 
 export async function generateStaticParams() {
   return getAllCalculatorSlugs().map((slug) => ({ slug }));
@@ -22,6 +23,9 @@ export default function CalculatorPage({ params }) {
   }
   if (calculator.type === 'path-comparison') {
     return <PathComparisonView calculator={calculator} />;
+  }
+  if (calculator.type === 'time-commitment') {
+    return <TimeCommitmentView calculator={calculator} />;
   }
   return <CalculatorView calculator={calculator} />;
 }

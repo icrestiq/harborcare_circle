@@ -1,0 +1,21 @@
+{
+  "id": "calc-004",
+  "title": "Caregiver Time Commitment Calculator",
+  "slug": "caregiver-time-commitment-calculator",
+  "type": "time-commitment",
+  "summary": "Caregiving hours add up in ways that are easy to lose track of — this adds them up for you.",
+  "citationStatus": "citation_only",
+  "fields": [
+    { "id": "personalCare", "label": "Personal care", "hint": "Bathing, dressing, feeding, help with mobility", "type": "range", "min": 0, "max": 40, "default": 8, "unit": "hrs/wk" },
+    { "id": "household", "label": "Household tasks", "hint": "Cooking, cleaning, laundry, shopping done for or with them", "type": "range", "min": 0, "max": 40, "default": 6, "unit": "hrs/wk" },
+    { "id": "medical", "label": "Medical & appointments", "hint": "Driving to appointments, managing medications, calls with doctors or insurance", "type": "range", "min": 0, "max": 40, "default": 4, "unit": "hrs/wk" },
+    { "id": "admin", "label": "Coordination & paperwork", "hint": "Bills, scheduling, paperwork, communicating with family or providers", "type": "range", "min": 0, "max": 40, "default": 3, "unit": "hrs/wk" },
+    { "id": "companionship", "label": "Companionship & supervision", "hint": "Being present, emotional support, safety supervision", "type": "range", "min": 0, "max": 40, "default": 5, "unit": "hrs/wk" }
+  ],
+  "relatedTool": {
+    "name": "Take the Caregiver Stress Self-Check",
+    "slug": "caregiver-stress-self-check",
+    "type": "assessment"
+  },
+  "disclaimer": "This is a rough estimate to help make an often-invisible workload more visible — not a judgment about whether your hours are \"too many\" or \"not enough.\" Every family's situation is different."
+}
