@@ -1,0 +1,14 @@
+{
+  "id": "calc-007",
+  "title": "Should I Claim My Parent as a Dependent?",
+  "slug": "claim-parent-as-dependent-checker",
+  "type": "dependent-checker",
+  "summary": "Walks through the IRS tests for claiming a parent as a dependent and gives a plain-language likely answer — not a tax filing.",
+  "citationStatus": "citation_only",
+  "defaultGrossIncomeLimit": 5050,
+  "grossIncomeLimitHint": "This limit changes most years — check the current year's IRS gross income limit for a qualifying relative before relying on this number.",
+  "sources": [
+    { "name": "IRS: May I claim my parent as a dependent?", "url": "https://www.irs.gov/node/17506" }
+  ],
+  "disclaimer": "This is a simplified, plain-language walkthrough of the general rules — not a substitute for the IRS's own interactive interview tool or advice from a tax professional. Your specific situation (multiple support providers, a multiple support agreement, a parent's marital status, and more) can change the answer."
+}

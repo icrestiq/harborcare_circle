@@ -6,6 +6,7 @@ import PathComparisonView from '../../../components/PathComparisonView';
 import TimeCommitmentView from '../../../components/TimeCommitmentView';
 import ExpenseTrackerView from '../../../components/ExpenseTrackerView';
 import WeightedScorecardView from '../../../components/WeightedScorecardView';
+import DependentCheckerView from '../../../components/DependentCheckerView';
 
 export async function generateStaticParams() {
   return getAllCalculatorSlugs().map((slug) => ({ slug }));
@@ -34,6 +35,9 @@ export default function CalculatorPage({ params }) {
   }
   if (calculator.type === 'weighted-scorecard') {
     return <WeightedScorecardView calculator={calculator} />;
+  }
+  if (calculator.type === 'dependent-checker') {
+    return <DependentCheckerView calculator={calculator} />;
   }
   return <CalculatorView calculator={calculator} />;
 }
