@@ -76,6 +76,18 @@ export default function WeightedScorecardView({ calculator }) {
       <p className="text-sm text-warm-gray mb-8">{calculator.summary}</p>
 
       <div className="bg-white border border-[#E7E2D8] rounded-2xl p-6 mb-6">
+        <div className="bg-blue-tint rounded-xl p-4 mb-5 text-sm">
+          <p className="mb-1.5">
+            <strong>Step 1 — Slide:</strong> for each factor, drag the slider to show how much
+            <em> your family</em> cares about it — 1 means it barely matters to you, 5 means it's a top priority.
+            This doesn't rate any facility; it just sets your priorities.
+          </p>
+          <p>
+            <strong>Step 2 — Type a number:</strong> in each facility's column, type how well
+            <em> that facility</em> actually performs on that factor — 1 for poor, 5 for excellent.
+          </p>
+        </div>
+
         <div className="flex items-center justify-between mb-4 flex-wrap gap-2">
           <h3 className="font-heading text-base">Rate each facility</h3>
           {facilities.length < 4 && (
@@ -93,10 +105,13 @@ export default function WeightedScorecardView({ calculator }) {
             <thead>
               <tr>
                 <th className="text-left font-semibold text-xs text-warm-gray pb-3 pr-3 w-[46%]">
-                  Factor <span className="font-normal">(set importance 1–5)</span>
+                  Factor — how important is this to you?
                 </th>
                 {facilities.map((f) => (
                   <th key={f.id} className="pb-3 px-2 text-left">
+                    <div className="text-[10px] font-semibold text-warm-gray uppercase tracking-wide mb-1">
+                      Rate 1–5
+                    </div>
                     <div className="flex items-center gap-1.5">
                       <input
                         type="text"
@@ -124,6 +139,7 @@ export default function WeightedScorecardView({ calculator }) {
                   <td className="py-2.5 pr-3">
                     <div className="text-[13px] mb-1">{factor.label}</div>
                     <div className="flex items-center gap-2">
+                      <span className="text-[10px] text-warm-gray whitespace-nowrap">Importance:</span>
                       <input
                         type="range"
                         min={1}
@@ -132,7 +148,7 @@ export default function WeightedScorecardView({ calculator }) {
                         onChange={(e) => updateWeight(factor.id, e.target.value)}
                         className="w-full accent-connection-orange"
                       />
-                      <span className="text-xs text-warm-gray w-4 text-right">{weights[factor.id]}</span>
+                      <span className="text-xs font-semibold text-connection-orange w-4 text-right">{weights[factor.id]}</span>
                     </div>
                   </td>
                   {facilities.map((f) => (
@@ -152,7 +168,9 @@ export default function WeightedScorecardView({ calculator }) {
             </tbody>
           </table>
         </div>
-        <p className="text-xs text-warm-gray mt-3">Rate each facility 1 (poor) to 5 (excellent) on every factor.</p>
+        <p className="text-xs text-warm-gray mt-3">
+          Sliders = how much you care about it. Numbers in each facility's column = how that facility scores (1 poor – 5 excellent).
+        </p>
       </div>
 
       <div className="bg-soft-navy text-white rounded-2xl p-7">
