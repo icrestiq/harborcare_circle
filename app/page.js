@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Compass, Map, Building2, Wallet, Brain, HeartHandshake, FileText, ListChecks } from 'lucide-react';
+import { Compass, Map, Building2, Wallet, Brain, HeartHandshake, FileText, ListChecks, Calculator, ArrowRight } from 'lucide-react';
 import { getAllArticles, getAllChecklists, getAllCalculators } from '../lib/content';
 
 const JOURNEY_OPTIONS = [
@@ -138,15 +138,47 @@ export default function HomePage() {
             </Link>
           ))}
         </div>
-        <div className="flex justify-center gap-6 mt-8 flex-wrap">
-          <Link href="/articles" className="text-sm font-semibold text-kin-blue underline">
-            See all {articles.length} articles →
+        <div className="max-w-4xl mx-auto mt-9 bg-white border border-[#E7E2D8] rounded-2xl shadow-[0_10px_30px_-15px_rgba(16,42,67,0.25)] overflow-hidden flex flex-col sm:flex-row divide-y sm:divide-y-0 sm:divide-x divide-[#E7E2D8]">
+          <Link
+            href="/articles"
+            className="group flex-1 flex items-center gap-3.5 px-6 py-5 hover:bg-blue-tint/40 transition-colors"
+          >
+            <div className="w-10 h-10 rounded-xl bg-blue-tint flex items-center justify-center flex-shrink-0">
+              <FileText className="w-5 h-5 text-kin-blue" strokeWidth={2} />
+            </div>
+            <div className="flex-1 min-w-0">
+              <div className="text-[11px] text-warm-gray uppercase tracking-wide">Resource Hub</div>
+              <div className="font-heading font-semibold text-sm text-soft-navy">{articles.length} Articles</div>
+            </div>
+            <ArrowRight className="w-4 h-4 text-kin-blue flex-shrink-0 group-hover:translate-x-0.5 transition-transform" strokeWidth={2.5} />
           </Link>
-          <Link href="/checklists" className="text-sm font-semibold text-kin-blue underline">
-            See all {checklists.length} checklists →
+
+          <Link
+            href="/checklists"
+            className="group flex-1 flex items-center gap-3.5 px-6 py-5 hover:bg-orange-tint/40 transition-colors"
+          >
+            <div className="w-10 h-10 rounded-xl bg-orange-tint flex items-center justify-center flex-shrink-0">
+              <ListChecks className="w-5 h-5 text-connection-orange" strokeWidth={2} />
+            </div>
+            <div className="flex-1 min-w-0">
+              <div className="text-[11px] text-warm-gray uppercase tracking-wide">Printable</div>
+              <div className="font-heading font-semibold text-sm text-soft-navy">{checklists.length} Checklists</div>
+            </div>
+            <ArrowRight className="w-4 h-4 text-connection-orange flex-shrink-0 group-hover:translate-x-0.5 transition-transform" strokeWidth={2.5} />
           </Link>
-          <Link href="/calculators" className="text-sm font-semibold text-kin-blue underline">
-            See all {calculators.length} calculators →
+
+          <Link
+            href="/calculators"
+            className="group flex-1 flex items-center gap-3.5 px-6 py-5 hover:bg-teal-tint/40 transition-colors"
+          >
+            <div className="w-10 h-10 rounded-xl bg-teal-tint flex items-center justify-center flex-shrink-0">
+              <Calculator className="w-5 h-5 text-care-teal" strokeWidth={2} />
+            </div>
+            <div className="flex-1 min-w-0">
+              <div className="text-[11px] text-warm-gray uppercase tracking-wide">Editable</div>
+              <div className="font-heading font-semibold text-sm text-soft-navy">{calculators.length} Calculators</div>
+            </div>
+            <ArrowRight className="w-4 h-4 text-care-teal flex-shrink-0 group-hover:translate-x-0.5 transition-transform" strokeWidth={2.5} />
           </Link>
         </div>
       </section>

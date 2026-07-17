@@ -4,6 +4,7 @@ import CalculatorView from '../../../components/CalculatorView';
 import FamilyCostSharingView from '../../../components/FamilyCostSharingView';
 import PathComparisonView from '../../../components/PathComparisonView';
 import TimeCommitmentView from '../../../components/TimeCommitmentView';
+import ExpenseTrackerView from '../../../components/ExpenseTrackerView';
 
 export async function generateStaticParams() {
   return getAllCalculatorSlugs().map((slug) => ({ slug }));
@@ -26,6 +27,9 @@ export default function CalculatorPage({ params }) {
   }
   if (calculator.type === 'time-commitment') {
     return <TimeCommitmentView calculator={calculator} />;
+  }
+  if (calculator.type === 'expense-tracker') {
+    return <ExpenseTrackerView calculator={calculator} />;
   }
   return <CalculatorView calculator={calculator} />;
 }

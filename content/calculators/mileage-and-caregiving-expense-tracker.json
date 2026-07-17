@@ -1,0 +1,11 @@
+{
+  "id": "calc-005",
+  "title": "Mileage & Caregiving Expense Tracker",
+  "slug": "mileage-and-caregiving-expense-tracker",
+  "type": "expense-tracker",
+  "summary": "Log caregiving-related trips and out-of-pocket costs as they happen, then export or print the full record whenever you need it.",
+  "citationStatus": "citation_only",
+  "defaultMileageRate": 0.21,
+  "mileageRateHint": "Check the current IRS medical/moving mileage rate for the applicable tax year — rates change annually, so this is just a starting default you can edit.",
+  "disclaimer": "This tracker is for your own recordkeeping. It doesn't determine what's tax-deductible or reimbursable — check with a tax professional or the relevant benefit program about what actually qualifies."
+}
